@@ -162,7 +162,7 @@ __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Housto
 -  “Macrolides, lincosamides, streptogramins, and linezolid” 
 -  “Systemic antifungal agents”
 -  "Immunology of Infectious Diseases” 
--  “Vaccinations” 2003-Present
+-  “Vaccinations” 
 
 `2007-2010`
 __University of Houston Residency Certificate Program__ | University of Houston College of Pharmacy, Houston, Texas <br>
@@ -173,7 +173,8 @@ __University of Houston Residency Certificate Program__ | University of Houston 
 __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - “Systemic Fungal Infections” 
 - “Infective Endocarditis”
-- “Sexually Transmitted Diseases” 1999-Present “Septic Meningitis” 2001-2006
+- “Sexually Transmitted Diseases”
+- “Septic Meningitis” 
 - “Tuberculosis” 
 - “Immunology of auto-immune diseases” 
 - “Drug Hypersensitivity” 
@@ -306,21 +307,28 @@ __The role of CT pulmonary angiography for the diagnosis of invasive mold diseas
 __Can we improve the management of invasive mold disease using CT pulmonary angiography?__ 
 <br> Infectious Diseases Grand Rounds, Centre hospitalier universitaire Vaudois (CHUV),Lausanne, Switzerland,
 
-2018    	“The Antifungal Pipeline” La micologia del III millennio – 2° edizione. February 23, 2018. Pescara, Italy
-   2017	“How to manage antimicrobial pharmacokinetic variability in the critically-ill patient” The European
-Society of Intensive Care Medicine (ESICM) "Infections in ICU: Modern Management" Fellowship
-Program: 10-14 December 2017. Modena, Italy
 
-2017	“Immunopharmacology of antifungal therapy”. Gilead Immunology Forum, November 9, 2017.
+__The Antifungal Pipeline__ 
+<br>La micologia del III millennio – 2° edizione. Pescara, Italy
+
+2017 <br>
+__How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ The European
+Society of Intensive Care Medicine (ESICM) "Infections in ICU: Modern Management" Fellowship
+Program. Modena, Italy
+
+__Immunopharmacology of antifungal therapy__ Gilead Immunology Forum,
 Frankfurt, Germany
 
-2017	“Clinical considerations for the selection of antifungal therapy”. Breaking the Mould Meeting, September 27, 2017. London, UK
+__Clinical considerations for the selection of antifungal therapy__ Breaking the Mould Meeting. London, UK
 
-2017	“Radiological diagnostics in neutropenic and non-neutropenic patients” Joint annual Meeting of the Swiss Societies for Microbiology, Infectious Diseases, Hospital Hygiene, Tropical Medicine and Parasitology, and Tropical and Travel Medicine (SSI, SSHH, SSTMP, SSTTM) September 1, 2017. Basel, Switzerland
-2017	“Antifungals and Kidney Injury” 9° Congresso Nazionale DiTMO 2017, June 22, 2017, Geneva, Italy 2017	“New Therapeutics for Mucormycosis” 27th European Congress of Clinical Microbiology and
-Infectious Diseases (ECCMID) April 22, 2017 Vienna, Netherlands
+__Radiological diagnostics in neutropenic and non-neutropenic patients__ Joint annual Meeting of the Swiss Societies for Microbiology, Infectious Diseases, Hospital Hygiene, Tropical Medicine and Parasitology, and Tropical and Travel Medicine (SSI, SSHH, SSTMP, SSTTM). Basel, Switzerland.
 
-2017	“Differentiating fungal versus non-fungal pathology by CT imaging” March 14, 2017, London, UK
+__Antifungals and Kidney Injury__ 9° Congresso Nazionale DiTMO 2017. Geneva, Italy
+
+__New Therapeutics for Mucormycosis__ 27th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID). Vienna, Austria
+
+__Differentiating fungal versus non-fungal pathology by CT imaging__Fungal Infection Meeting. London, UK
+
 2016	“Antifungal pharmacology in the CNS” CARE Meeting, October 5, 2016, Munich, Germany
 2016	“Antifungal therapy update” S.Orsola-Malpighi Open Days Symposium, September 28, 2016, Bologna, Italy
 2016	“Farmacocinetica degli immunosopressori” and “Farmacocinetica degli antifungina” Gruppo Italiano per il Trapianto di Midollo Osseo 27-27th, Cagliari, Italy
