@@ -18,7 +18,7 @@ last update: 2/02/2022
 
 ## Contact information
 
-(Office):	UO Malattie Infettive, Pad.6 <br>
+(Office):UO Malattie Infettive, Pad.6 <br>
 IRCCS- Policlinico S. Orsola-Malpighi <br>
 Alma Mater Studiorum Università di Bologna Via Massarenti, 9 <br>
 Bologna, Italy 40138 <br>
@@ -46,38 +46,38 @@ United States of America; Permanent Residency Visa, Italy
  
 ## Professional Experience
 
-`2013-Present`<br>
+`2013-Present`
 __Associate Professor of Infectious Diseases (MED/17) with Tenure | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
 
-`2011-2012`<br>
+`2011-2012`
 __Full Professor with Tenure, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
 
-`2005-2011`<br>
+`2005-2011`
 __Associate Professor with Tenure, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
 
-`2005-2007`<br>
+`2005-2007`
 __Chair, ad interm, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
 
-`2000-2011`<br>
+`2000-2011`
 __Adjunct Faculty, Division of Infectious Diseases, Infection Control and Employee Health, The University of Texas M.D. Anderson Cancer Center__ |  Houston, Texas
 
-`1999-2005`<br>
+`1999-2005`
 __Assitant Professor, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
 
 ## Education 
 
-`1990-1996`<br>
+`1990-1996`
 __Doctor of Clinical Pharmacy (Pharm.D.), University of Kansas__ | Lawrence, Kansas
 
-`1996-1997`<br>
+`1996-1997`
 __Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Medical Center__ | St. Louis, Missouri
 
-`1997-1999`<br>
+`1997-1999`
 __Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ | Iowa City, Iowa
 
 ## Training courses
 
-`2005`<br>
+`2005`
 __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches to Fungal Pathogenesis__ | Woods Hole, Massachusetts
 
 ## Professional Licensure
@@ -87,53 +87,53 @@ __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches
 
 ## Clinical Practice Experience
 
-`2012-Present`<br>
+`2012-Present`
 __Clincial Pharmacologist, UO Malattie Infettive (Viale)-IRCCS Policlinico S. Orsola-Malpighi__ | Bologna, Italy
 
-`2000-2011`<br>
+`2000-2011`
 __Clinical Staff (Pharmacy) and Faculty (Medicine) Infectious Diseases Consultation Services, The University of Texas M.D. Anderson Cancer Center__ | Houston, Texas
 
-`1997-1999`<br>
+`1997-1999`
 __Clinical Adjunct Faculty Infectious Diseases/Internal Medicine, University of Iowa College of Pharmacy__ | Iowa City, Iowa
 
-`1996-1997`<br>
+`1996-1997`
 __Clinical Pharmacist, Barnes-Jewish Hospital__ | St. Louis, Missouri
 
-`1995-1996`<br>
+`1995-1996`
 __Pharmacy Intern, St. Francis regional Hospital__ | Topeka, Kansas
 
-`1992-1995`<br>
+`1992-1995`
 __Laboratory Research Assistant, Department of Pharmacology and Toxicology (PI: Morris Faiman, Ph.D.), University of Kansas School of Pharmacy__ | Lawrence, Kansas
 
 ## Doctoral/Post-Doctoral Students Supervised
 
-`2002-2004`<br>
+`2002-2004`
 __Nathan Widerhold, Pharm.D.__ Thesis: "Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis" | Houston, Texas 
 
-`2014-2015`<br>
+`2014-2015`
 __Irene Zaghi, M.D.__  Thesis: “Diagnostic Meta-Analysis of Serum Bactericidal Testing” | Bologna, Italy 
 
-`2018-2019`<br>
+`2018-2019`
 __Giulia De Luca, M.D__ Thesis: "Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae”
 
-`2019-2020`<br>
+`2019-2020`
 __Mayleko Mohamedwais, M.D.__ Thesis: "Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation" | Bologna, Italy
 
-`2018-2021`<br>
+`2018-2021`
 __Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: "Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections" | Bologna, Italy
 
 ## Teaching Experience
 
-`2021-present`<br>
+`2021-present`
 __9730- Global Health, Antimicrobial Therapy and Vaccines__ | University of Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
-`2014-2021`<br>
+`2014-2021`
 __79947 – Malattive Infettive II__ | University of Bologna, Italy <br>
 - “Antimicrobial pharmacokinetics and pharmacodynamics” 
 - “Antifungal pharmacokinetics and pharmacodynamics”
 
-`2014-2021`<br>
+`2014-2021`
 __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
 
 - “The clinician and the microbiology laboratory”
@@ -143,18 +143,18 @@ __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ | University 
 - “Vaccination”
 - “Antifungal therapy”
 
-`2007-2011`<br>
+`2007-2011`
 __PHAR 4308. Cellular Life Sciences II__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - “Adversarial pathogen strategies during infection, Parts 1-3” 
 - “Immunobiologicals used in transplant and oncology”
 
-`2007-2011`<br>
+`2007-2011`
 __PCOL 6371-Advanced Pharmacology II__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - “Principles of Host Immunity” 
 - “Immunopharmacology”
 - “Pharmacology of anti-inflammatory agents”
 
-`2000-2010`<br>
+`2000-2010`
 __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - “Essentials of in vitro testing of antimicrobials” 
 - “Molecular mechanisms of antibacterial resistance” 
@@ -164,12 +164,12 @@ __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Housto
 -  "Immunology of Infectious Diseases” 
 -  “Vaccinations” 2003-Present
 
-`2007-2010`<br>
+`2007-2010`
 __University of Houston Residency Certificate Program__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - "Academic careers”
 - "Scientific publication”
 
-`1999-2011`<br>
+`1999-2011`
 __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - “Systemic Fungal Infections” 
 - “Infective Endocarditis”
@@ -178,25 +178,25 @@ __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ |
 - “Immunology of auto-immune diseases” 
 - “Drug Hypersensitivity” 
 
-`2001-2011`<br>
+`2001-2011`
 __PHAR 5229 Research Methodologies in Pharmaceutical Research__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - “Animal Models in Pharmaceutical Development” 
 
-`2001-2011`<br>
+`2001-2011`
 __PHAR 5682 Infectious Diseases Clinical Clerkship__ | University of Houston College of Pharmacy, Houston, Texas <br>
 - Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service, The University of Texas M.D. Anderson Cancer Center
 - Solid Tumor Malignancies Consult Service, The University of Texas M.D. Anderson Cancer Center
 - Intensive Care Unit Consult Service, The University of Texas M.D. Anderson Cancer Center
 
-`2002-2003`<br>
+`2002-2003`
 __PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
 
-`2001-2005`<br>
+`2001-2005`
 __PHPR 646 – Pharmacotherapy I. Invited lecturer__ | University of Kansas School of Pharmacy, Kansas Medical Center, Kansas City, Kansas <br>
 - “Invasive fungal infection”
 - “Sepsis” 
 
-`2001-2011`<br>
+`2001-2011`
 __Infectious Diseases Fellows Core Curriculum__ | The University of Texas M.D. Anderson Cancer Center, Houston, Texas
 - “Antibiotic and Tumor-Related Fever”
 - “New Treatment Modalities for Acute and Chronic Leukemia” 
@@ -207,78 +207,72 @@ __Infectious Diseases Fellows Core Curriculum__ | The University of Texas M.D. A
 - “Overview of Immunosuppression Associated with Cancer Chemotherapy” 
 - “Antibiotic Hypersensitivity”
 
-`2000-2001`<br>
+`2000-2001`
 __Diabetes TX-Pharm__ | University of Houston College of Pharmacy, Houston, Texas Houston, Texas
 - “Infections in the Diabetic Patient"
 
-`2000-2011`<br>
+`2000-2011`
 __PHAR 5365 Pharm.D Seminar.__ | University of Houston College of Pharmacy, Houston, Texas
 
-`1998-1999`<br>
+`1998-1999`
 __Pharmacotherapy IV__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
 - "Febrile neutropenia"
 - "Infective endocarditis"
 
-`1997-1999`<br>
+`1997-1999`
 __Pharmacotherapy IV, Group case discussion leader__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
 
-`1997-1999`<br>
+`1997-1999`
 __Introduction to Pharmaceutical Care, Group leader__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
 
-`1997-1999`<br>
+`1997-1999`
 __Instructor, Infectious Diseases Research Elective__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
 
-`1997-1999`<br>
+`1997-1999`
 __Instructor and context evaluator, Honors Seminar__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
 
-`1996-1997`<br>
+`1996-1997`
 __Adjunct Clinical Instructor at Barnes-Jewish Hospital__ | Saint Louis College of Pharmacy, St. Louis, Missouri
 - Infectious Diseases Clerkship 
 - Internal Medicine Clerkship
 - Critical Care Clerkship
 - Ambulatory Care Clerkship (VA Medical Center)
 
-`1996-1997`<br>
+`1996-1997`
 __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. Louis, Missouri
 - “Overview of Microbiological Testing” 
 - “Overview of Antibacterial Resistance”
 
 ## Invited Lectures
+
 `2021`<br>	
 __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
 
-`2020`<br>		
+`2020`		
 __COVID-19 and invasive aspergillosis: Lessons learned.__ 
 <br> Gilead Care Webinar Series (Virtual). 
-
-`2020`<br>
+<br>
 __The growing impact of targeted chemotherapy on the treatment of invasive fungal diseases__ 
 <br> Ambisome 30 year Anniversary Symposium. (Virtual). 
-
-`2020`<br>	
+<br>
 __Optimizing antifungal dosing for bloodstream and intraabdominal candidiasis.__ <br>
 __Difficult cases in managing antifungal drug interactions with targeted chemotherapies__
 <br> CARE Meeting, Brazil (Virtual)
-
-`2020`<br>	
+<br>	
 __Managing drug interactions in the era of targeted therapies for hematological malignancies__
 <br> Kings College London Hematology Grand Rounds (Virtual)
-
+<br>
 `2019`<br>	
 __How I manage drug interactions in the era of targeted therapies for hematological malignancies__
-<br> 12th Annual Care Meeting, Paris, France
-
-`2019`<br>	
+<br> 12th Annual Care Meeting, Paris, France	
 __Pharmacological basis for treatment of mucormycosis__
 <br>2nd Henry Schuler Symposium on Mucormycosis, Chicago, IL USA
-
-`2019`<br>	
+<br>
 __Triazole Interactions with FLT3 inhibitors__
 __Echinocandin dosing, can we do better?__
 <br> 9th Trends in Medical Mycology Nice, France
-
-`2019`<br>	
+<br>
 __How will changes in the treatment of hematological disease change the management of fungal diseases?__ 
 <br> 55th Annual British Society Medical Mycology Meeting, Sheffield, UK
 
