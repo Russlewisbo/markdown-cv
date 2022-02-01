@@ -38,10 +38,12 @@ russ.e.lewis@gmail.com
 ## Citizenship
 United States of America; Permanent Residency Visa, Italy
 
-## ORCID ID
+## Online Research Profiles
+- ORCID ID: <a href="https://orcid.org/0000-0002-2002-4339">0000-0002-2002-4339</a>
+- Google scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=5mYwM2gAAAAJ">Profile</a>
+- SCOPUS: <a href="https://www.scopus.com/authid/detail.uri?authorId=7404846664">7404846664</a>
 
-0000-0002-2002-4339
-
+ 
 ## Professional Experience
 
 `2013-Present`
@@ -103,7 +105,7 @@ __Pharmacy Intern, St. Francis regional Hospital__ | Topeka, Kansas
 `1992-1995`
 __Laboratory Research Assistant, Department of Pharmacology and Toxicology (PI: Morris Faiman, Ph.D.), University of Kansas School of Pharmacy__ | Lawrence, Kansas
 
-### Doctoral/Post-Doctoral Students Supervised
+## Doctoral/Post-Doctoral Students Supervised
 
 `2002-2004`
 __Nathan Widerhold, Pharm.D.__ Thesis: "Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis" | Houston, Texas 
@@ -123,16 +125,94 @@ __Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: "Bayesian Diagn
 ## Teaching Experience
 
 `2021-present`
-__9730- Global Health, Antimicrobial Therapy and Vaccines__| University of Bologna, Italy
-<br> Course website: <a href="https://www.uniboglobalhealth.com/">uniboglobalhealth.com</a> 
+__9730- Global Health, Antimicrobial Therapy and Vaccines__ | University of Bologna, Italy
+<br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
 __79947 – Malattive Infettive II__ | University of Bologna, Italy <br>
-“Antimicrobial pharmacokinetics and pharmacodynamics” 
-<br> “Antifungal pharmacokinetics and pharmacodynamics”
+- “Antimicrobial pharmacokinetics and pharmacodynamics” 
+- “Antifungal pharmacokinetics and pharmacodynamics”
 
 `2014-2021`
-__PHAR 5208 Infectious Diseases Therapeutics__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
+
+- “The clinician and the microbiology laboratory”
+- “Aerosolized and percutaneous antibiotic dosing” 
+- “Immunology of ID”
+- “Antibiotic hypersensitivity and allergy” 
+- “Vaccination”
+- “Antifungal therapy”
+
+`2007-2011`
+__PHAR 4308. Cellular Life Sciences II__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- “Adversarial pathogen strategies during infection, Parts 1-3” 
+- “Immunobiologicals used in transplant and oncology”
+
+`2007-2011`
+__PCOL 6371-Advanced Pharmacology II__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- “Principles of Host Immunity” 
+- “Immunopharmacology”
+- “Pharmacology of anti-inflammatory agents”
+
+`2000-2010`
+__PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- “Essentials of in vitro testing of antimicrobials” 
+- “Molecular mechanisms of antibacterial resistance” 
+-  “Quinolone antibiotics” 
+-  “Macrolides, lincosamides, streptogramins, and linezolid” 
+-  “Systemic antifungal agents”
+-  "Immunology of Infectious Diseases” 
+-  “Vaccinations” 2003-Present
+
+`2007-2010`
+__University of Houston Residency Certificate Program__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- "Academic careers”
+- "Scientific publication”
+
+`1999-2011`
+__PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- “Systemic Fungal Infections” 
+- “Infective Endocarditis”
+- “Sexually Transmitted Diseases” 1999-Present “Septic Meningitis” 2001-2006
+- “Tuberculosis” 
+- “Immunology of auto-immune diseases” 
+- “Drug Hypersensitivity” 
+
+`2001-2011`
+__PHAR 5229 Research Methodologies in Pharmaceutical Research__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- “Animal Models in Pharmaceutical Development” 
+
+`2001-2011`
+__PHAR 5682 Infectious Diseases Clinical Clerkship__ | University of Houston College of Pharmacy, Houston, Texas <br>
+- Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service, The University of Texas M.D. Anderson Cancer Center
+- Solid Tumor Malignancies Consult Service, The University of Texas M.D. Anderson Cancer Center
+- Intensive Care Unit Consult Service, The University of Texas M.D. Anderson Cancer Center
+
+`2002-2003`
+__PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
+
+`2001-2005`
+__PHPR 646 – Pharmacotherapy I. Invited lecturer__ | University of Kansas School of Pharmacy, Kansas Medical Center, Kansas City, Kansas <br>
+- “Invasive fungal infection”
+- “Sepsis” 
+
+`2001-2011`
+__Infectious Diseases Fellows Core Curriculum__ | The University of Texas M.D. Anderson Cancer Center, Houston, Texas
+- “Antibiotic and Tumor-Related Fever”
+- “New Treatment Modalities for Acute and Chronic Leukemia” 
+- “Infectious Complications in Chronic Lymphocytic Leukemia” 
+- “The Pharmacology of Sepsis”
+- “Iatrogenic Immunosuppression” 
+- “Overview of Antifungal Pharmacology”
+- “Overview of Immunosuppression Associated with Cancer Chemotherapy” 
+- “Antibiotic Hypersensitivity”
+
+`2000-2001`
+__Diabetes TX-Pharm__ | University of Houston College of Pharmacy, Houston, Texas Houston, Texas
+- “Infections in the Diabetic Patient"
+
+`2000-2011`
+__PHAR 5365 Pharm.D Seminar. Infectious Diseases Content Evaluator__ | University of Houston College of Pharmacy, Houston, Texas
 
 
 
@@ -140,7 +220,16 @@ __PHAR 5208 Infectious Diseases Therapeutics__ | University of Houston College o
 
 
 
-Associate, *French Academy of Science*, Paris, France
+
+
+
+
+
+
+
+
+
+
 
 
 
