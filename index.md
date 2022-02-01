@@ -45,13 +45,22 @@ United States of America; Permanent Residency Visa, Italy
 ## Professional Experience
 
 `2013-Present`
-__Associate Professor of Infectious Diseases (MED/17) with Tenure | Dipartimento di Scienze Mediche e Chirurgiche (DIMEC), Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
+__Associate Professor of Infectious Diseases (MED/17) with Tenure | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
 
-`1996-1997`
-__Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Medical Center__ | St. Louis, Missouri
+`2011-2012`
+__Full Professor with Tenure, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
 
-`1997-1999`
-__Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ | Iowa City, Iowa
+`2005-2011`
+__Associate Professor with Tenure, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
+
+`2005-2007`
+__Chair, ad interm, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
+
+`2000-2011`
+__Adjunct Faculty, Division of Infectious Diseases, Infection Control and Employee Health, The University of Texas M.D. Anderson Cancer Center__ |  Houston, Texas
+
+`1999-2005`
+__Assitant Professor, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
 
 ## Education 
 
@@ -65,26 +74,71 @@ __Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Med
 __Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ | Iowa City, Iowa
 
 ## Training courses
+
 `2005`
 __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches to Fungal Pathogenesis__ | Woods Hole, Massachusetts
 
-### Professional Experience
+## Professional Licensure
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- __Licensed Pharmacist__: Missouri (Previously Texas)
+- __Board Certified Pharmacotherapy Specialist with Added Qualifications in Infectious Diseases__: 2001-2015
+
+## Clinical Practice Experience
+
+`2012-Present`
+__Clincial Pharmacologist, UO Malattie Infettive (Viale)-IRCCS Policlinico S. Orsola-Malpighi__ | Bologna, Italy
+
+`2000-2011`
+__Clinical Staff (Pharmacy) and Faculty (Medicine) Infectious Diseases Consultation Services, The University of Texas M.D. Anderson Cancer Center__ | Houston, Texas
+
+`1997-1999`
+__Clinical Adjunct Faculty Infectious Diseases/Internal Medicine, University of Iowa College of Pharmacy__ | Iowa City, Iowa
+
+`1996-1997`
+__Clinical Pharmacist, Barnes-Jewish Hospital__ | St. Louis, Missouri
+
+`1995-1996`
+__Pharmacy Intern, St. Francis regional Hospital__ | Topeka, Kansas
+
+`1992-1995`
+__Laboratory Research Assistant, Department of Pharmacology and Toxicology (PI: Morris Faiman, Ph.D.), University of Kansas School of Pharmacy__ | Lawrence, Kansas
+
+### Doctoral/Post-Doctoral Students Supervised
+
+`2002-2004`
+__Nathan Widerhold, Pharm.D.__ Thesis: "Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis" | Houston, Texas 
+
+`2014-2015`
+__Irene Zaghi, M.D.__  Thesis: “Diagnostic Meta-Analysis of Serum Bactericidal Testing” | Bologna, Italy 
+
+`2018-2019`
+__Giulia De Luca, M.D__ Thesis: "Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae”
+
+`2019-2020`
+__Mayleko Mohamedwais, M.D.__ Thesis: "Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation" | Bologna, Italy
+
+`2018-2021`
+__Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: "Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections" | Bologna, Italy
+
+## Teaching Experience
+
+`2021-present`
+__9730- Global Health, Antimicrobial Therapy and Vaccines__| University of Bologna, Italy
+<br> Course website: <a href="https://www.uniboglobalhealth.com/">uniboglobalhealth.com</a> 
+
+`2014-2021`
+__79947 – Malattive Infettive II__ | University of Bologna, Italy <br>
+“Antimicrobial pharmacokinetics and pharmacodynamics” 
+<br> “Antifungal pharmacokinetics and pharmacodynamics”
+
+`2014-2021`
+__PHAR 5208 Infectious Diseases Therapeutics__ | University of Houston College of Pharmacy, Houston, Texas <br>
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
