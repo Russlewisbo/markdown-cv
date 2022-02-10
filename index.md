@@ -452,94 +452,130 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 <br> 47th Meeting of the Infectious Diseases Society of America, Philadelphia, Pennsylvania
 - __Managing cytomegalovirus infections in transplant patients__ 
 <br> Hematology Oncology Pharmacist Association (HOPA) CME webinar (Virtual)
--__Getting with the Guidelines- Management of Invasive Candidiasis__
+- __Getting with the Guidelines- Management of Invasive Candidiasis__
 <br> CME Lecture Series with Enduring Materials. 
 <br> Onsite lectures provided in Philadelphia, Pennsylvania; Denver Colorado, San Jose, California and Los Angeles, California.
--__Controversies and questions surrounding the antifungal formulary__
+- __Controversies and questions surrounding the antifungal formulary__
 <br> Teleconference CME series. Broadlane Pharmacy Management Group, Houston, Texas
 
 `2009`<br>
 
--__Where are the new antibiotics?__
+- __Where are the new antibiotics?__
 <br> University of Houston College of Pharmacy Infectious Diseases Pharmacy CE Symposium, Houston, Texas
-
--__Pharmacokinetic-pharmacodynamic optimization of antimicrobial dosing in the neutropenic patient__
-“ New antimicrobials for neutropenic fever.”
+- __Pharmacokinetic-pharmacodynamic optimization of antimicrobial dosing in the neutropenic patient__
 17th Annual King Hussein Cancer Center Conference, Amman, Jordan
+- __New antimicrobials for neutropenic fever__
+17th Annual King Hussein Cancer Center Conference, Amman, Jordan
+- __Controversies in the Management of Invasive Candidiasis__
+Society of Hospital Medicine 2009 Annual Meeting, Chicago, Illinois
+- __Key Pharmacological Concerns in the Management of Invasive Fungal Infections__
+<br> Visiting Professor- Case Discussions of Difficult Cases of Invasive Fungal Infections” 
+<br> Peking Medical University and College of Pharmacy, Beijing, China
+- __Intrapulmonary drug delivery and interactions with host cells__
+<br> 4th Trends In Medical Mycology (TIMM) Annual Meeting, Athens, Greece
+- __New Antimicrobials and Antibiotic Dosing Strategies in Neutropenic Fever-__
+<br> Hematologic Malignancies Conference 2009. Brussels, Belgium
+- __Controversies in the Management of Invasive Candidiasis-__
+<br> 5th Annual Infectious Diseases- Critical Care Pharmacy CE Conference, Toronto, Ontario, Canada
 
-2009	“Controversies in the Management of Invasive Candidiasis” Society of Hospital Medicine 2009 Annual Meeting, Chicago, IL
+`2008`<br>
+- __Improving the pharmacology of invasive mould infections-__
+<br> Infectious Diseases Grand Rounds, Memorial Sloan-Kettering Cancer Center, New York, New York
+- __Evidence versus pragmatism in managing invasive candidiasis-__
+<br> Infectious Diseases Grand Rounds, University of Nebraska Medical Center, Omaha, Nebraska
+- __Cases in antifungal therapeutic drug monitoring__ 
+<br> Houston Infectious Diseases Pharmacy Network. Houston, Texas
 
-2009	“Key Pharmacological Concerns in the Management of Invasive Fungal Infections.” Visiting Professor- Case Discussions of Difficult Cases of Invasive Fungal Infections” Peking Medical University / College of Pharmacy, Beijing, China
+`2007`<br>
 
-2009	“Intrapulmonary drug delivery and interactions with host cells” 4th Trends In Medical Mycology (TIMM) Annual Meeting, Athens, Greece
+- __ A case for fluconazole as front-line therapy in invasive candidiasis: Pro-con debate__
+<br> American Society of Heath-System Pharmacy Annual Meeting, Las Vegas, Nevada
+- __Systemic Antifungal Therapy-What every clinician should know__
+<br> American Society of Heath-System Pharmacy Annual Meeting, Las Vegas, Nevada
+- __Interpreting Antifungal Susceptibility Testing__
+<br>47th Interescience Conference on Antimicrobial Agents and Chemotherapy, Chicago, Illinois
+- __Salvage Antifungal Therapy, Combination Therapy, and Antifungal Pharmacodynamics__
+<br> AB Biodisk ABLE Course, Stockholm Sweden
+- __Antifungal Therapeutic Drug Monitoring-__
+<br> Pharmacy Grand Rounds, Memorial Sloan-Kettering Cancer Center, New York, New York
+- __What are the real differences between the echinocandins?__ 
+<br> Department of Hematology and Transplantation. Oregon Health Sciences Center, Portland, Oregon
+- __Managing infections in the immunocompromised host__
 
-2009	“New Antimicrobials and Antibiotic Dosing Strategies in Neutropenic Fever” Hematologic Malignancies Conference 2009. Brussels, Belgium
+`2006`<br>
 
-2009	“Controversies in the Management of Invasive Candidiasis” 5th Annual Infectious Diseases- Critical Care Pharmacy CE Conference, Toronto, ON, Canada
+<br> Hematology Oncology Pharmacist Association (HOPA) Annual Meeting. Denver, Colorado
+- __Antifungal formulary__
+<br> City of Hope Pharmacotherapy Symposium. Anaheim, California
+- __Antifungal pharmacodynamics- A focus on the echinocandins-__
+<br> 17th European Conference on Chemotherapy, Microbiology and Infectious Diseases. Munich, Germany
+- __Antifungal Therapeutic Drug Monitoring__ 
+<br> Blood and Marrow Transplantation Case Conference. M.D. Anderson Cancer Center, Houston, Texas
+- __Making sense of the antifungal formulary__ 
+<br> Malaysian Society of Hematology Conference, Kuala Lumpur, Malaysia
+- __Role of new antifungal agents in the management of invasive fungal infections__
+<br> Hematology Grand Rounds. Hong Kong Sanatorium Hospital. Hong Kong, China
+- __New drugs and new opportunities for combination antifungal therapy__
+<br> Grand Rounds. Queen Mary Hospital. Hong Kong, China
+- __Role of new antifungal agents in the management of invasive fungal infections__ 
+City Hematology Conference. Beijing China 
+- __Role of new antifungal agents in the management of invasive fungal infections__ 
+<br> Infectious Diseases Citywide Conference, Shanghai, China
+- __Antifungal Therapy-Consensus and Controversy-__
+<br> UCSF Medical Center Pharmacy Forum. San Francisco, California
+- __Invasive fungal infection-consensus and controversies-__
+<br> UCLA Infectious Diseases Grand Rounds, Los Angeles, California
+- __Management of invasive fungal infections-the MDACC approach-__
+<br>ABLE Susceptibility Course, Stockholm, Sweden
+- __Antifungal Formulary 2006-__
+<br> Tennessee ACCP Summer Chapter Meeting. Memphis, Tennessee
+- __Antifungal Formulary 2006-__
+<br> St. Jude’s Children’s Hospital, Memphis, Tennessee
+- __Antifungal Controversies 2006-__
+<br> Vanderbilt Department of Infectious Diseases, Nashville, Tennessee
+- __Conundrums of testing antifungal combinations in the laboratory__ 
+<br> International Society of Human and Animal Mycology Congress, Paris, France
+- __Difficulties in establishing in vitro/in vivo correlations with antifungal activity__
+<br> International Society of Human and Animal Mycology Congress, Paris, France
+- __Antifungal formulary 2006-__
+<br> Oregon Health Sciences Center. Department of Infectious Diseases, Portland, Oregon
+-__Antifungal formulary-Best picks-__
+<br> University of Houston College of Pharmacy Infectious Diseases CE Symposium, Houston, TX
+-__Do we routinely underdose antifungal therapy?__
+<br> British Society for Medical Mycology Annual Meeting, Clontarf Castle, Dublin, Ireland
+-__Managing Drug Interactions in the Patient with Aspergillosis-__
+<br> 2nd Annual Advances Against Aspergillosis Meeting, Athens Greece
+- __Overview of Antifungal Pharmacology-__
+<br> Frontline CE Symposium. Houston, TX
 
-2008	“Improving the pharmacology of invasive mould infections” Infectious Diseases Grand Rounds, Memorial Sloan-Kettering Cancer Center, New York, NY
+`2005`<br>
 
-2008	“Evidence versus pragmatism in managing invasive candidiasis” Infectious Diseases Grand Rounds, University of Nebraska Medical Center, Omaha, NE
-
-2008	“Cases in antifungal therapeutic drug monitoring.” Houston Infectious Diseases Pharmacy 
-	Network. Houston, Texas
-
-2007	“A case for fluconazole as front-line therapy in invasive candidiasis: Pro-con debate” American Society of Heath-System Pharmacy Annual Meeting, Las Vegas, NV
-2007	“Systemic Antifungal Therapy-What every clinician should know.” American Society of Heath-System Pharmacy Annual Meeting, Las Vegas, NV
-2007	“Interpreting Antifungal Susceptibility Testing. “Pre-Symposium Workshop. 47th Interescience Conference on Antimicrobial Agents and Chemotherapy, Chicago, IL
-2007	“Salvage Antifungal Therapy, Combination Therapy, and Antifungal Pharmacodynamics.” AB Biodisk ABLE Course, Stockholm Sweden
-2007	“Antifungal Therapeutic Drug Monitoring.” Pharmacy Grand Rounds, Memorial Sloan-Kettering Cancer Center, New York, NY
-2007	“What are the real differences between the echinocandins?” Department of Hematology and Transplantation. Oregon Health Sciences Center, Portland, OR
-2007	“Managing infections in the immunocompromised host.” Hematology Oncology Pharmacist Association (HOPA) Annual Meeting. Denver, CO
-2007	“Antifungal formulary.” City of Hope Pharmacotherapy Symposium. Anaheim, CA
-2007	“Antifungal pharmacodynamics- A focus on the echinocandins.” 17th European Conference on Chemotherapy, Microbiology and Infectious Diseases. Munich, Germany
-2007	“Antifungal Therapeutic Drug Monitoring.” Blood and Marrow Transplantation Case Conference. M.D. Anderson Cancer Center, Houston, TX.
-2006	“Making sense of the antifungal formulary. “Malaysian Society of Hematology Conference, Kuala Lumpur, Malaysia.
-2006	“Role of new antifungal agents in the management of invasive fungal infections.” Hematology Grand Rounds. Hong Kong Sanatorium Hospital. Hong Kong, China
-2006	“New drugs and new opportunities for combination antifungal therapy. “Grand Rounds. Queen Mary Hospital. Hong Kong, China
-2006	“Role of new antifungal agents in the management of invasive fungal infections.” City Hematology Conference. Beijing China and Shanghai, China
-2006	“Antifungal Therapy-Consensus and Controversy.” UCSF Medical Center Pharmacy Forum. San Francisco, CA
-2006	“Invasive fungal infection-consensus and controversies” UCLA Infectious Diseases Grand Rounds, Los Angeles, CA
-2006	“Management of invasive fungal infections-the MDACC approach” ABLE Susceptibility Course, Stockholm, Sweden
-2006	“Antifungal Formulary 2006” Tennessee ACCP Summer Chapter Meeting. Memphis, TN
-2006	“Antifungal Formulary 2006” St. Jude’s Children’s Hospital, Memphis, TN
-2006	“Antifungal Controversies 2006” Vanderbilt Department of Infectious Diseases, Nashville, TN
-
-2006	“Conundrums of testing antifungal combinations in the laboratory” “Difficulties in establishing in vitro/in vivo correlations with antifungal activity.” International Society of Human and Animal Mycology Congress, Paris, France
-
-2006	“Antifungal formulary 2006” Organ Health Sciences Center. Department of Infectious Diseases, Portland, OR
-
-2006	“Antifungal formulary-Best picks” University of Houston College of Pharmacy Infectious Diseases CE Symposium, Houston, TX
-
-2006	“Do we routinely underdose antifungal therapy?” British Society for Medical Mycology Annual Meeting, Clontarf Castle, Dublin, Ireland
-
-2005	“Managing Drug Interactions in the Patient with Aspergillosis” 2nd Annual Advances Against Aspergillosis Meeting, Athens Greece
-
-2006	“Overview of Antifungal Pharmacology” Frontline CE Symposium. Houston, TX
-
-2005	“Drosophila as a high-throughput model for studying fungal pathogenesis.” Texas-UK Biosciences Research Collaborative, London School of Tropical Health and Hygiene, London, UK.
-
-2005	“Antifungal Susceptibility to guide empiric therapy” and “combination therapy.” AB Biodisk Antifungal Susceptibility Course, Stockholm, Sweden
-
-2005	“Quinolone-Associated MRSA-Significant Papers in Infectious Diseases” American College of Clinical Pharmacy Annual Meeting, San Francisco, CA
-
-2005	“Decisions Concerning the Use of Combination Antifungal Therapy.” American College of Clinical Pharmacy Annual Meeting, San Francisco, CA
-
-2005	“Neutrophil subsets and Infection-New Insights into “Adaptable” Innate Immunity. MD. Anderson Infectious Diseases Grand Rounds
-
-2005	“Management of Infection in the Immunocompromised Host” Merck Acute Care Sales Force National Training Symposium Jacksonville, FL
-
-2005	“Combination Antifungal Therapy-Pro vs. Con” (with Melissa Johnson Pharm.D.) North Carolina Chapter of ACCP, Durham, NC
-
-2005	“New Antifungals, New Treatment Options”
-Louisiana State University Charity Hospital Infectious Diseases Grand Rounds
-
-2005	“New Frontiers in the Treatment of Invasive Fungal Infections”
-Making a Difference Pharmacy CE Conference, Carefree, AZ (with Ken Rolston, M.D.) Alabama Society of Health-System Pharmacists Annual Meeting, San Destin, FL New Orleans Society of Health System Pharmacists, New Orleans, LA
-
-2005	“Do We Routinely Under-Dose Antifungal Therapy? New Insights into Dosage Escalation Strategies for Optimizing the PK/PD of Antifungal Therapy.” National Institute of Allergy and Infectious Diseases Grand Rounds, National Institutes of Health, Bethesda, MD
-
-2005	“Toxigenic Moulds in Texas: New Insights into the Pathogenesis of an Opportunistic Pathogen.” The University of Tennessee College of Pharmacy, Memphis, TN
+- __Drosophila as a high-throughput model for studying fungal pathogenesis-__
+<br> Texas-UK Biosciences Research Collaborative, London School of Tropical Health and Hygiene, London, United Kingdom.
+- __Antifungal Susceptibility to guide empiric therapy and combination therapy__
+<br> AB Biodisk Antifungal Susceptibility Course, Stockholm, Sweden
+- __Quinolone-Associated MRSA-Significant Papers in Infectious Diseases__
+<br> American College of Clinical Pharmacy Annual Meeting, San Francisco, California
+- __Decisions Concerning the Use of Combination Antifungal Therapy__
+<br> American College of Clinical Pharmacy Annual Meeting, San Francisco, California
+- __Neutrophil subsets and infection-New insights into “adaptable” innate immunity__
+<br> MD. Anderson Infectious Diseases Grand Rounds
+- __Management of infection in the immunocompromised host__ 
+<br> Merck Acute Care Sales Force National Training Symposium Jacksonville, Florida
+- __Combination Antifungal Therapy-Pro vs. Con-__
+<br> North Carolina Chapter of the American College of Clinical Pharmacy, Durham, North Carolina
+- __New Antifungals, New Treatment Options__
+<br> Louisiana State University Charity Hospital Infectious Diseases Grand Rounds
+- __New Frontiers in the Treatment of Invasive Fungal Infections-__
+<br> Making a Difference Pharmacy CE Conference, Carefree, Arizona 
+- __New Frontiers in the Treatment of Invasive Fungal Infections-__
+<br>Alabama Society of Health-System Pharmacists Annual Meeting, San Destin, Florida
+- __New Frontiers in the Treatment of Invasive Fungal Infections-__
+<br>New Orleans Society of Health System Pharmacists, New Orleans, LA
+- __Do We Routinely Under-Dose Antifungal Therapy?__
+<br> National Institute of Allergy and Infectious Diseases Grand Rounds, National Institutes of Health, Bethesda, MD
+- __Toxigenic Moulds in Texas: New Insights into the Pathogenesis of an Opportunistic Pathogen__
+<br> The University of Tennessee College of Pharmacy, Memphis, TN
 
 
 2004	“Practical Management of Multidrug Resistant Infections.” Session moderator. ASHP Annual Meeting, Orlando, FL
@@ -611,25 +647,42 @@ Grand Rounds, Memorial Southeast Medical Center, Houston, TX
 
 2000	“Implications of Streptococcal Resistance for Antibiotic Therapy” Border Issues and Resistance, University of Texas CME Otolaryngology Conference. McAllen TX
 
-1999	“Antifungal Pharmacodynamics-What Emerging Data Are Telling Us About Dosing Antifungal Therapy.” Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. UH College of Pharmacy. Houston, TX
+`1999`<br>
+
+- __Antifungal Pharmacodynamics-What Emerging Data Are Telling Us About Dosing Antifungal Therapy__
+<br> Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. UH College of Pharmacy. Houston, Texas
 
 1999	“Should Combinations of Amphotericin B and Fluconazole Be Used for the Treatment of Candidemia?” University of Wisconsin College of Pharmacy.
 
-1998	“IDSA Guidelines for the Treatment of Community Acquired Pneumonia-
-Resistant S. pneumoniae and the Role of Quinolones.” Fellowship Forum. University of Iowa, Iowa City, IA
+`1998`<br>
 
-1997	Pharmacodynamic Evaluation of Combination Amphotericin B-Fluconazole Activity Using an In Vitro Infection Model.” Fellow Seminar Series. University of Iowa. Iowa City, IA
+- __IDSA Guidelines for the Treatment of Community Acquired Pneumonia:Resistant S. pneumoniae and the Role of Quinolones__
+- <br> Fellowship Forum. University of Iowa, Iowa City, Iowa
 
-1997		“Evolving Role of Oral Antimicrobial Therapy” Pulmonology Conference Series. Barnes-Jewish Hospital. Washington University Medical School.
-St. Louis, MO
 
-1996	“Rational Use of Step-Down Oral Antibiotic Therapy” Pharmacists Continuing Education. Barnes- Jewish Hospital, St. Louis, MO
 
-1997	“Evaluation of Colony Stimulating Factor Use in a Large Teaching Hospital” Midwest Residency Conference, Memphis, TN
 
-1996	“Colony Stimulating Factors as Adjunctive Treatment in Acute Myelogenous Leukemia.” Residency Seminar Series. St. Louis, MO
+`1997`<br>
 
-1995	“Continuous infusion dosing strategy to overcome diuretic resistance” Doctor of Pharmacy Seminar. University of Kansas Medical Center.
+- __Pharmacodynamic Evaluation of Combination Amphotericin B-Fluconazole Activity Using an In Vitro Infection Model__
+- <br> Fellow Seminar Series. University of Iowa. Iowa City, Iowa
+- __Evolving Role of Oral Antimicrobial Therapy-__
+<br> Pulmonology Conference Series. Barnes-Jewish Hospital. Washington University Medical School.
+St. Louis, Missouri
+- __Evaluation of Colony Stimulating Factor Use in a Large Teaching Hospital__
+<br> Midwest Residency Conference, Memphis, Tennessee
+
+`1996`<br>
+
+- __Colony Stimulating Factors as Adjunctive Treatment in Acute Myelogenous Leukemia__
+<br> Residency Seminar Series. St. Louis, Missouri
+- __Rational Use of Step-Down Oral Antibiotic Therapy-__
+<br> Pharmacists Continuing Education. Barnes- Jewish Hospital, St. Louis, Missouri
+
+`1995`<br>
+
+- __"Continuous infusion dosing strategy to overcome diuretic resistance” 
+<br>Doctor of Pharmacy Seminar. University of Kansas Medical Center, Kansas City, Kansas
 
 
 
