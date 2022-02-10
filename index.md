@@ -398,36 +398,48 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 - __Risk model for invasive mold disease in hematology patient__
 <br> Fungal Diseases in Hematology: Translating Basic Science into Clinical Practice. Parma, Italy
 - __Fungal Meningitis Outbreak in the United States__
-<br> 7° Congresso Nazionale DiTMO - Diagnostica E Terapia Delle Micosi Oppotuniche” Genoa, Italy
+<br> 7° Congresso Nazionale DiTMO - Diagnostica E Terapia Delle Micosi Oppotuniche Genoa, Italy
 - __Antimicrobial Pharmacokinetics and Dynamics in the Critically-Ill__
 <br> Stage Formativo. Società Italiana di Malettie Infettive e Tropicali (SIMIT).  Bologna, Italy
 - __Overview of animal models of mucormycosis__ 
 <br> ISHAM Zygomyctes workshop April, 2013, Utrecht, Netherlands
 
 `2012`<br>
-2012	“Optimizing antifungal therapy through pharmacokinetic/pharmacodynamics principles”. Infectious Diseases Society of Portugal, Lisbon, October 2012.
+- __Optimizing antifungal therapy through pharmacokinetic/pharmacodynamics principles__ 
+<br> Infectious Diseases Society of Portugal, Lisbon, Portugal
+- __Using Pharmacodynamics to set antifungal susceptibility breakpoints__
+<br> 52nd Interscience Conference on Antimicrobial Agents and Chemotherapy, San Francisco, California, USA
+- __Treatment of MDR P. aeruginosa and A. baumanii Infections.__
+<br> 17th International Symposium on Infections in Immunocompromised Hosts. Genoa, Italy
+- __Dose Escalation Strategies of Liposomal Amphotericin B In the Treatment of Experimental Aspergillus terreus Pneumonia.__
+<br> 18th Congress on the International Society for Human and Animal Mycology, Berlin, Germany
+- __Antimicrobial Pharmacokinetics and Dynamics in the Critically-Ill__
+<br> Stage Formativo. Società Italiana di Malettie Infettive e Tropicali (SIMIT). Bologna, Italy
 
-2012	“Using Pharmacodynamics to set antifungal susceptibility breakpoints” 52nd Interscience Conference on Antimicrobial Agents and Chemotherapy, San Francisco, CA, September, 2012.
+`2011`<br>
 
-2012	“Treatment of MDR P. aeruginosa and A. baumanii Infections.” 17th International Symposium on Infections in Immunocompromised Hosts. Genoa, Italy
+- __Is Antifungal Susceptibility Testing Necessary in the Management of Invasive Candidiasis?__
+<br> Pro-Con Debate. 49th Infectious Diseases Society of America Annual Meeting, Boston, Massachusetts, USA
+- __Overview of Antifungal Pharmacology__
+<br> Sabati Ematologici della Romagna, Meldola, Italy 
+- __Overview of the Immunopharmacological Mechanisms of Antifungals__ 
+<br> Aggionarmenti in Terapia Antifungina: La Parola Agli Esperti, Bologna, Italy
 
-2012	“Dose Escalation Strategies of Liposomal Amphotericin B In the Treatment of Experimental Aspergillus terreus Pneumonia.” 18th Congress on the International Society for Human and Animal Mycology, Berlin, Germany
+`2010`<br>
+- __Optimized antifungal prophylaxis in the high-risk patient__
+<br> 45th Annual Midyear Meeting of the American Society for Health System Pharmacy, Anaheim, California
 
-2011	“Antimicrobial Pharmacokinetics and Dynamics in the Critically-Ill” Stage Formativo. Società Italiana di Malettie Infettive e Tropicali (SIMIT). December 2012, Bologna, Italy
+-__Managing drug interactions with immunosuppressant agents__
+<br>Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, CA
 
-2011	“Is Antifungal Susceptibility Testing Necessary in the Management of Invasive Candidiasis?” Pro-Con Debate. 49th Infectious Diseases Society of America Annual Meeting, Boston, MA
-2011	“Overview of Antifungal Pharmacology” Sabati Ematologici della Romagna. Meldola, Italy 2011	“Overview of the Immunopharmacological Mechanisms of Antifungals” Aggionarmenti in
-Terapia Antifungina: La Parola Agli Esperti, Bologna, Italy
+-__Challenging Cases in Antifungal Therapeutic Drug Monitoring__ 
+<br>Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, Canada
 
-2010	“Optimized antifungal prophylaxis in the high-risk patient” CE program given at the 45th Annual Midyear Meeting of the American Society for Health System Pharmacy, Anaheim, California
+-__The interplay of innate immunity and antifungal resistance__
+<br> Astellas Pharmaceutical Global Advisory, Vancouver, Canada
 
-2010	“Managing drug interactions with immunosuppressant agents” Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, CA
-
-2010	“Challenging Cases in Antifungal Therapeutic Drug Monitoring” Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, CA
-
-2010	“The interplay of innate immunity and antifungal resistance” Astellas Pharmaceutical Global Advisory, Vancouver, CA
-
-2010	“Triazole antifungal pharmacokinetics and pharmacodynamics” CE program delivered with John Perfect (Duke University), Peter Pappas (University of Alabama-Birmingham), Libby-Dodds Ashley (University of Rochester), Boston, MA
+-__Triazole antifungal pharmacokinetics and pharmacodynamics__ 
+<br> CE program delivered with John Perfect (Duke University), Peter Pappas (University of Alabama-Birmingham), Libby-Dodds Ashley (University of Rochester), Boston, Massachusetts, USA
 
 2010	“Update on the Management of Invasive Fungal Infections” University of Illinois-Chicago Infectious Diseases CME Symposium, Chicago, IL
 
