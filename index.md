@@ -577,42 +577,66 @@ Society of Hospital Medicine 2009 Annual Meeting, Chicago, Illinois
 - __Toxigenic Moulds in Texas: New Insights into the Pathogenesis of an Opportunistic Pathogen__
 <br> The University of Tennessee College of Pharmacy, Memphis, TN
 
-`2005`<br>
+`2004`<br>
 
 - __Practical Management of Multidrug Resistant Infections__
 <br> Session moderator. ASHP Annual Meeting, Orlando, Florida
-
 - __Evidence Surrounding Consensus Recommendations for Monitoring of Serum Vancomycin Levels__
 <br> ASHP Annual Meeting, Orlando, Florida
-
 - __Case Studies in the Selection of Antifungal Therapy__
 <br> Division of Infectious Diseases, Henry Ford Hospital, Detroit, Michigan
-
 - __Immunology of Effective Antifungal Therapy__
 <br> Wayne State College of Pharmacy, Detroit, Michigan
-2004	“Overview of Antifungal Pharmacology,” “Antifungal Resistance,” “Combination Antifungal Therapy.” AB Biodisk Antifungal Susceptibility Course, Solna Sweden.
-2004	“Pharmacotherapy of Invasive Fungal Infections” University of Connecticut School of Pharmacy ID Symposium, Storrs, CT
-2004	“Treatment of Fungal Infection in the ICU Patient” New England Critical Care Pharmacy Symposium. Newton, MA
-2004	“Newer Antifungal Therapies and Their Role in the Therapy of Invasive Mycoses” Pharmacy Society of Wisconsin Annual Meeting. Madison, WI
-2004	“New Agents for The Perfect Storm of Infectious Diseases” Texas Society of Health Systems Annual Meeting. Houston, TX
-2003	“Antifungal Therapy and Evidence-Based Medicine.” ASHP Annual Meeting, New Orleans, LA
-2003	“The Perfect Storm In Infectious Diseases” ASHP Section of Clinical Specialists and Scientist Network Assembly. Moderator. ASHP Annual Meeting, New Orleans. LA
-2003	“Antibiotic Selection in Gynecology-Oncology Patient. Gynecology-Oncology Grand Rounds. The University of Texas M.D. Anderson Cancer Center, Houston, TX
-2003	“Significant Papers in Pharmacotherapy—SARS.” American College of Clinical Pharmacy Annual Meeting, Atlanta, GA
-2003	“Menacing Moulds and New Antifungals.” Gulf Coast Society of Health-System Pharmacists, Houston, TX
-2003	“Antifungal therapy consideration in the transplant patient.” Good Samaritan Hospital, Phoenix, AZ
-2003	“Antifungal Resistance-Is the Fluconazole Era Over?” University of Missouri-Kansas City Infectious Diseases Symposium
-2003	“Antifungal Resistance” Oklahoma Society of Health System Pharmacist Annual Meeting, Oklahoma City, OK
-2003	Pharmacotherapy of Invasive Candidiasis, Citywide Pharmacy CE Conference. Denver, CO
-2003	“Invasive Candidiasis” St. Lukes Hospital, Houston, TX
-2003	“Menacing Moulds” Great Lakes CE Conference. Grand Rapids, MI
-2002	“Echinocandins and Lipid AMB formulations.” Mycoses 2002 Symposia (given with Drs. Gerald Bodey, Dimitrios Kontoyiannis, and Issam Raad. Houston, TX.
+- __Overview of Antifungal Pharmacology, Antifungal Resistance, Combination Antifungal Therapy__
+<br> AB Biodisk Antifungal Susceptibility Course, Stockholm, Sweden
+- __Pharmacotherapy of Invasive Fungal Infections__
+<br>University of Connecticut School of Pharmacy ID Symposium, Storrs, Conneticut
+- __Treatment of Fungal Infection in the ICU Patient__
+<br> New England Critical Care Pharmacy Symposium. Newton, Massachusetts
+- __Newer Antifungal Therapies and Their Role in the Therapy of Invasive Mycoses__ 
+ <br>Pharmacy Society of Wisconsin Annual Meeting. Madison, Wisconsin
+- __New Antibiotics for The Perfect Storm of Infectious Diseases__
+<br> Texas Society of Health Systems Annual Meeting. Houston, Texas
 
-2002-2006	“Beyond Microdilution Broth Antifungal Susceptibility Testing” Pre-symposium to the 41st, 42nd and 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, Antifungal Susceptibility Testing for the Clinician. San Diego, CA, Chicago, Il, and Washington, D.C.
+`2003`<br>
 
-2002	Respiratory Infection Update. Texas Academy of Family Practice Physicians- Fall CME Symposium, Houston, TX
+- __Antifungal Therapy and Evidence-Based Medicine__
+<br> ASHP Annual Meeting, New Orleans, Louisiana
+- __The Perfect Storm In Infectious Diseases__
+<br> ASHP Section of Clinical Specialists and Scientist Network Assembly. Moderator. ASHP Annual Meeting, New Orleans, Louisiana
+- __Antibiotic Selection in Gynecology-Oncology Patient__
+<br> Gynecology-Oncology Grand Rounds. The University of Texas M.D. Anderson Cancer Center, Houston, TX
+- __Significant Papers in Pharmacotherapy—SARS__
+<br> American College of Clinical Pharmacy Annual Meeting, Atlanta, Georgia
+- __Menacing Moulds and New Antifungals__
+- <br> Gulf Coast Society of Health-System Pharmacists, Houston, Texas
+- __Antifungal therapy consideration in the transplant patient__
+<br> Good Samaritan Hospital, Phoenix, Arizona
+- __Antifungal Resistance-Is the Fluconazole Era Over?__
+<br> University of Missouri-Kansas City Infectious Diseases Symposium
 
-2002	“Management of Invasive Fungal Infections in the Critically Ill Patient.” Infectious Disease Pharmacotherapy CE Symposium, San Antonio, TX
+- __Antifungal Resistance__
+- <br> Oklahoma Society of Health System Pharmacist Annual Meeting, Oklahoma City, Oklahoma
+- __Pharmacotherapy of Invasive Candidiasis__
+<br> Citywide Pharmacy CE Conference. Denver, Colorado
+- __Invasive Candidiasis__
+<br> St. Lukes Hospital, Houston, Texas
+- __Menacing Moulds__ 
+<br> Great Lakes CE Conference. Grand Rapids, Michigan
+- __Echinocandins and Lipid AMB formulations.” 
+<br> Mycoses 2002 Symposia (given with Drs. Gerald Bodey, Dimitrios Kontoyiannis, and Issam Raad. Houston, Texas
+
+`2002`<br>
+
+- __Beyond Microdilution Broth Antifungal Susceptibility Testing__ 
+<br> Pre-symposium to the 41st, 42nd and 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, Antifungal Susceptibility Testing for the Clinician. San Diego, CA, Chicago, Il, and Washington, D.C.
+
+
+- __Respiratory Infection Update__
+<br> Texas Academy of Family Practice Physicians- Fall CME Symposium, Houston, Texas
+
+- __Management of Invasive Fungal Infections in the Critically Ill Patient__
+<br> Infectious Disease Pharmacotherapy CE Symposium, San Antonio, Texas
 
 2002	“New Agents and Evolving Strategies for Life-Threatening Fungal Infections in the Immunocompromised Patients.” Given with Dr. Dimitrios Kontoyiannis, M.D.). The 24th Annual M.D. Anderson Cancer Center Pharmacy Symposium on Cancer Chemotherapy. Houston, TX
 2002	“Controversies in Antifungal Pharmacology,” Citywide ID conference. Seattle, WA
@@ -633,6 +657,9 @@ Annual Meeting. Tampa, FL
 St. Louis, MO.
 2001	“Pharmacology of Current and Future Antifungals” at Mycoses 2001
 (with Drs. John Rex, Richard Hamill, and Dimitrios Kontoyiannis), Houston, TX
+
+`2000`<br>
+
 2000	“New Antimicrobials for Resistant Gram-Positive Infections” Dallas, TX.
 2000	“What is Considered Broad-Spectrum Therapy? A re-examination of the ATS Guidelines for Nosocomial Pneumonia” Memorial Southwest Hospital (Baylor) Grand Rounds, Houston, TX
 2000	“Controversies in the Management of Invasive Fungal Infections.”
@@ -653,21 +680,20 @@ Grand Rounds, Memorial Southeast Medical Center, Houston, TX
 -Resident Grand Rounds, Corpus Christi, TX
 -Houston Area Society of Otolaryngologists, Houston, TX.
 
-2000	“Implications of Streptococcal Resistance for Antibiotic Therapy” Border Issues and Resistance, University of Texas CME Otolaryngology Conference. McAllen TX
+- __Implications of Streptococcal Resistance for Antibiotic Therapy__
+<br> Border Issues and Resistance, University of Texas CME Otolaryngology Conference. McAllen, Texas
 
 `1999`<br>
 
 - __Antifungal Pharmacodynamics-What Emerging Data Are Telling Us About Dosing Antifungal Therapy__
-<br> Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. UH College of Pharmacy. Houston, Texas
+<br> Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. University of Houston College of Pharmacy. Houston, Texas
 
-1999	“Should Combinations of Amphotericin B and Fluconazole Be Used for the Treatment of Candidemia?” University of Wisconsin College of Pharmacy.
+- __Should Combinations of Amphotericin B and Fluconazole Be Used for the Treatment of Candidemia?__ <br> University of Wisconsin College of Pharmacy, Madison, Wisconsin
 
 `1998`<br>
 
 - __IDSA Guidelines for the Treatment of Community Acquired Pneumonia:Resistant S. pneumoniae and the Role of Quinolones__
 - <br> Fellowship Forum. University of Iowa, Iowa City, Iowa
-
-
 
 
 `1997`<br>
@@ -689,7 +715,7 @@ St. Louis, Missouri
 
 `1995`<br>
 
-- __"Continuous infusion dosing strategy to overcome diuretic resistance” 
+- __Continuous infusion loop diuretics to overcome diuretic resistance__ 
 <br>Doctor of Pharmacy Seminar. University of Kansas Medical Center, Kansas City, Kansas
 
 
