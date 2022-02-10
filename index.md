@@ -274,7 +274,7 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 - __Echinocandin dosing, can we do better?__
 <br> 9th Trends in Medical Mycology Nice, France
 - __How will targeted therapies in hematological disease change the management of fungal infections?__ 
-<br> 55th Annual British Society Medical Mycology Meeting, Sheffield, UK
+<br> 55th Annual British Society Medical Mycology Meeting, Sheffield, United Kingdom
 
 `2018`<br>	
 - __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
@@ -290,9 +290,9 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 - __Principles of antifungal therapy, Principles of antibiotic therapy__
 <br> Hematology resident Seminar.L'Istituto di Ematologia “Seràgnoli” Alma Mater Studiorum Università di Bologna. Bologna. Italy
 - __The role of CT pulmonary angiography for the diagnosis of invasive mold disease__ 
-<br> 54th Annual British Society Medical Mycology Meeting, Bristol, UK
+<br> 54th Annual British Society Medical Mycology Meeting, Bristol, United Kingdom
 - __Can we improve the management of invasive mold disease using CT pulmonary angiography?__ 
-<br> Infectious Diseases Grand Rounds, Centre hospitalier universitaire Vaudois (CHUV),Lausanne, Switzerland,
+<br> Infectious Diseases Grand Rounds, Centre hospitalier universitaire Vaudois (CHUV),Lausanne, Switzerland
 - __The Antifungal Pipeline__ 
 <br> La micologia del III millennio – 2° edizione. Pescara, Italy
 
@@ -405,6 +405,7 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 <br> ISHAM Zygomyctes workshop April, 2013, Utrecht, Netherlands
 
 `2012`<br>
+
 - __Optimizing antifungal therapy through pharmacokinetic/pharmacodynamics principles__ 
 <br> Infectious Diseases Society of Portugal, Lisbon, Portugal
 - __Using Pharmacodynamics to set antifungal susceptibility breakpoints__
@@ -426,43 +427,43 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 <br> Aggionarmenti in Terapia Antifungina: La Parola Agli Esperti, Bologna, Italy
 
 `2010`<br>
+
 - __Optimized antifungal prophylaxis in the high-risk patient__
 <br> 45th Annual Midyear Meeting of the American Society for Health System Pharmacy, Anaheim, California
-
--__Managing drug interactions with immunosuppressant agents__
-<br>Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, CA
-
--__Challenging Cases in Antifungal Therapeutic Drug Monitoring__ 
+- __Managing drug interactions with immunosuppressant agents__
 <br>Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, Canada
-
--__The interplay of innate immunity and antifungal resistance__
+- __Challenging Cases in Antifungal Therapeutic Drug Monitoring__ 
+<br>Infectious Diseases Society of America (IDSA) 48th Annual Meeting, Vancouver, Canada
+- __The interplay of innate immunity and antifungal resistance__
 <br> Astellas Pharmaceutical Global Advisory, Vancouver, Canada
+- __Triazole antifungal pharmacokinetics and pharmacodynamics__ 
+<br> CE program, Boston, Massachusetts, USA
+- __Update on the Management of Invasive Fungal Infections__
+<br> University of Illinois-Chicago Infectious Diseases CME Symposium, Chicago, Illinois
+- __The Ins and Outs of Scientific Publication__
+<br> Harris County Hospital Resident and Faculty Development Series, Houston, Texas
+- __Aspergillus, steroids and antifungals- What every patient should know__
+<br>3rd Advances Against Aspergillus Meeting, Rome, Italy
+- __Antibiotic Resistance Concerns in the Gyn-Onc Patient-__
+<br> Gynecology-Oncology Grand Rounds. The University of Texas M.D. Anderson Cancer Center, Houston, Texas,
+- __How does antifungal pharmacology differ for Mucormycosis vs. Aspergillosis?__
+<br> Henry Schuler Memorial Symposium. Chicago, Illinois
+- __Managing antifungal nephrotoxicity and hepatotoxicity__
+<br> 47th Meeting of the Infectious Diseases Society of America, Philadelphia, Pennsylvania
+- __Managing cytomegalovirus infections in transplant patients__ 
+<br> Hematology Oncology Pharmacist Association (HOPA) CME webinar (Virtual)
+-__Getting with the Guidelines- Management of Invasive Candidiasis__
+<br> CME Lecture Series with Enduring Materials. 
+<br> Onsite lectures provided in Philadelphia, Pennsylvania; Denver Colorado, San Jose, California and Los Angeles, California.
+-__Controversies and questions surrounding the antifungal formulary__
+<br> Teleconference CME series. Broadlane Pharmacy Management Group, Houston, Texas
 
--__Triazole antifungal pharmacokinetics and pharmacodynamics__ 
-<br> CE program delivered with John Perfect (Duke University), Peter Pappas (University of Alabama-Birmingham), Libby-Dodds Ashley (University of Rochester), Boston, Massachusetts, USA
+`2009`<br>
 
-2010	“Update on the Management of Invasive Fungal Infections” University of Illinois-Chicago Infectious Diseases CME Symposium, Chicago, IL
+-__Where are the new antibiotics?__
+<br> University of Houston College of Pharmacy Infectious Diseases Pharmacy CE Symposium, Houston, Texas
 
-2010	“The Ins and Outs of Scientific Publication” Harris County Hospital Resident and Faculty Development Series, Houston, TX
-
-2010	“Aspergillus, steroids and antifungals- What every patient should know.” 3rd Advances Against Aspergillus Meeting, Rome, Italy
-
-2010	“Antibiotic Resistance Concerns in the Gyn-Onc Patient” Gynecology-Oncology Grand Rounds. The University of Texas M.D. Anderson Cancer Center, Houston, TX
-
-2010	“How does antifungal pharmacology differ for Mucormycosis vs. Aspergillosis?” Henry Schuler Memorial Symposium. Chicago, IL
-
-2009	“Managing antifungal nephrotoxicity and hepatotoxicity” 47th Meeting of the Infectious Diseases Society of America, Philadelphia, PA
-
-2009	“Managing cytomegalovirus infections in transplant patients” –Hematology Oncology Pharmacist Association (HOPA) CME webinar with Allison Gulbis, Pharm.D. (M.D. Anderson Cancer Center), Houston, Texas
-
-2009	“Getting with the Guidelines- Management of Invasive Candidiasis.” CME Lecture Series with Enduring Materials. Onsite lectures provided in Philadelphia, PA; Denver CO, San Jose, CA and Los Angeles, CA.
-
-2009	“Controversies and questions surrounding the antifungal formulary” Teleconference CME series.
-Broadlane Pharmacy Management Group., Houston, Texas
-
-2009	“Where are the new antibiotics?” University of Houston College of Pharmacy Infectious Diseases Pharmacy CE Symposium, Houston, TX
-
-2009	“Pharmacokinetic-pharmacodynamic optimization of antimicrobial dosing in the neutropenic patient.”
+-__Pharmacokinetic-pharmacodynamic optimization of antimicrobial dosing in the neutropenic patient__
 “ New antimicrobials for neutropenic fever.”
 17th Annual King Hussein Cancer Center Conference, Amman, Jordan
 
