@@ -245,127 +245,174 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 - “Overview of Antibacterial Resistance”
 
 ## Invited Lectures
+`2022`<br>
 
 `2021`<br>	
-__Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
+- __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
 
-`2020`		
-__COVID-19 and invasive aspergillosis: Lessons learned.__ 
+`2020` <br>		
+- __COVID-19 and invasive aspergillosis: Lessons learned.__ 
 <br> Gilead Care Webinar Series (Virtual). 
-<br>
-__The growing impact of targeted chemotherapy on the treatment of invasive fungal diseases__ 
+
+- __The growing impact of targeted chemotherapy on the treatment of invasive fungal diseases__ 
 <br> Ambisome 30 year Anniversary Symposium. (Virtual). 
-<br>
-__Optimizing antifungal dosing for bloodstream and intraabdominal candidiasis.__ <br>
-__Difficult cases in managing antifungal drug interactions with targeted chemotherapies__
-<br> CARE Meeting, Brazil (Virtual)
-<br>	
-__Managing drug interactions in the era of targeted therapies for hematological malignancies__
+
+- __Optimizing antifungal dosing for bloodstream and intraabdominal candidiasis__
+<br> Gilead CARE Meeting, Brazil (Virtual)
+- __Difficult cases in managing antifungal drug interactions with targeted chemotherapies__
+<br> Gilead CARE Meeting, Brazil (Virtual)
+	
+- __Managing drug interactions in the era of targeted therapies for hematological malignancies__
 <br> Kings College London Hematology Grand Rounds (Virtual)
-<br>
+
 `2019`<br>	
-__How I manage drug interactions in the era of targeted therapies for hematological malignancies__
-<br> 12th Annual Care Meeting, Paris, France	
-__Pharmacological basis for treatment of mucormycosis__
+- __How I manage drug interactions in the era of targeted therapies for hematological malignancies__ 
+<br>12th Annual Gilead Care Meeting, Paris, France
+	
+- __Pharmacological basis for treatment of mucormycosis__
 <br>2nd Henry Schuler Symposium on Mucormycosis, Chicago, IL USA
-<br>
-__Triazole Interactions with FLT3 inhibitors__
-__Echinocandin dosing, can we do better?__
+
+- __Triazole Interactions with FLT3 inhibitors__
 <br> 9th Trends in Medical Mycology Nice, France
-<br>
-__How will changes in the treatment of hematological disease change the management of fungal diseases?__ 
+- __Echinocandin dosing, can we do better?__
+<br> 9th Trends in Medical Mycology Nice, France
+
+- __How will targeted therapies in hematological disease change the management of fungal infections?__ 
 <br> 55th Annual British Society Medical Mycology Meeting, Sheffield, UK
 
 `2018`<br>	
-__How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
-<br> The European Society of Intensive Care Medicine (ESICM) "Infections in ICU: Modern Management" Fellowship Program: Modena, Italy
+- __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
+<br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program: Modena, Italy
 
-`2018`<br>	
-__PK/PD issues in septic shock__
+- __PK/PD issues in septic shock__
 <br> Antimicrobial Therapy in Immunocompromised and Critically Ill Patients: Management and Perspectives (ATCIP), Lugano, Switzerland
-
-`2018`<br>	
-__All polyenes are not the same:Debate-Are polyenes still relevant in 2018?__ <br>
-__Optimizing antimicrobial pharmacokinetics in the ICU patient__
+	
+- __Debate-Are polyenes still relevant in 2018?__
 <br> 20° Immunocompromised Host Society Meeting, Athens, Greece
-
-`2018`<br>	
-__Pro-Con Debate “Con: Antifungal MICs are not as useful as you think with Cornelia Lass-Florl__
+- __Optimizing antimicrobial pharmacokinetics in the ICU patient__
+<br> 20° Immunocompromised Host Society Meeting, Athens, Greece
+	
+- __Pro-Con Debate “Con: Antifungal MICs are not as useful as you think with Cornelia Lass-Florl__
 <br> 27th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID), Madrid, Spain
+	          
+- __Principles of antifungal therapy, Principles of antibiotic therapy__
+<br> Hematology resident Seminar.L'Istituto di Ematologia “Seràgnoli” Alma Mater Studiorum Università di Bologna. Bologna. Italy
 
-`2018`<br>	          
-__Principles of antifungal therapy__ 
-<br> __Principles of antibiotic therapy__
-Hematology resident Seminar .L'Istituto di Ematologia “Seràgnoli” Alma Mater Studiorum Università di Bologna. Bologna. Italy
-
-`2018`<br>
-__The role of CT pulmonary angiography for the diagnosis of invasive mold disease__ 
+- __The role of CT pulmonary angiography for the diagnosis of invasive mold disease__ 
 <br> 54th Annual British Society Medical Mycology Meeting, Bristol, UK
 
-`2018`<br>
-__Can we improve the management of invasive mold disease using CT pulmonary angiography?__ 
+- __Can we improve the management of invasive mold disease using CT pulmonary angiography?__ 
 <br> Infectious Diseases Grand Rounds, Centre hospitalier universitaire Vaudois (CHUV),Lausanne, Switzerland,
 
+- __The Antifungal Pipeline__ 
+<br> La micologia del III millennio – 2° edizione. Pescara, Italy
 
-__The Antifungal Pipeline__ 
-<br>La micologia del III millennio – 2° edizione. Pescara, Italy
+`2017` <br>
+- __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ 
+<br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program. Modena, Italy
 
-2017 <br>
-__How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ The European
-Society of Intensive Care Medicine (ESICM) "Infections in ICU: Modern Management" Fellowship
-Program. Modena, Italy
+- __Immunopharmacology of antifungal therapy__ 
+<br> Gilead Immunology Forum, Frankfurt, Germany
 
-__Immunopharmacology of antifungal therapy__ Gilead Immunology Forum,
-Frankfurt, Germany
+- __Clinical considerations for the selection of antifungal therapy__ 
+<br> Breaking the Mould Meeting. London, UK
 
-__Clinical considerations for the selection of antifungal therapy__ Breaking the Mould Meeting. London, UK
+- __Radiological diagnostics in neutropenic and non-neutropenic patients__
+<br> Joint annual Meeting of the Swiss Societies for Microbiology, Infectious Diseases, Hospital Hygiene, Tropical Medicine and Parasitology, and Tropical and Travel Medicine (SSI, SSHH, SSTMP, SSTTM). Basel, Switzerland.
 
-__Radiological diagnostics in neutropenic and non-neutropenic patients__ Joint annual Meeting of the Swiss Societies for Microbiology, Infectious Diseases, Hospital Hygiene, Tropical Medicine and Parasitology, and Tropical and Travel Medicine (SSI, SSHH, SSTMP, SSTTM). Basel, Switzerland.
+- __Antifungals and Kidney Injury__ 
+<br> 9° Congresso Nazionale DiTMO 2017. Geneva, Italy
 
-__Antifungals and Kidney Injury__ 9° Congresso Nazionale DiTMO 2017. Geneva, Italy
+- __New Therapeutics for Mucormycosis__ 
+<br> 27th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID). Vienna, Austria
 
-__New Therapeutics for Mucormycosis__ 27th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID). Vienna, Austria
+- __Differentiating fungal versus non-fungal pathology by CT imaging__
+<br> Fungal Infection Update Meeting. London, UK
 
-__Differentiating fungal versus non-fungal pathology by CT imaging__Fungal Infection Meeting. London, UK
+`2016`<br>
 
-2016	“Antifungal pharmacology in the CNS” CARE Meeting, October 5, 2016, Munich, Germany
-2016	“Antifungal therapy update” S.Orsola-Malpighi Open Days Symposium, September 28, 2016, Bologna, Italy
-2016	“Farmacocinetica degli immunosopressori” and “Farmacocinetica degli antifungina” Gruppo Italiano per il Trapianto di Midollo Osseo 27-27th, Cagliari, Italy
-2016	“Pharmacokinetics and pharmacodyanamics of antifungals” New Perspectives in the Treatment of Invasive Fungal Infections Meeting, June 16, 2016. Bologna, Italy
-2016	“How to optimize liposomal amphotericin B dosing” Breaking the Mould Meeting, May 26, 2016, London, UK
-2016	“Controversies in antifungal therapy” Gruppo Italiano per il Trapianto di Midollo Osseo (GITMO), Bologna, Italy May 6, 2016
-2016	“Targeting fungal infections-A summary of in vitro and in vivo experience” INFORM Meeting, April 22, 2016. Dubai, UAE
-2016	“Update on antifungal therapeutics” Mycology Update 2016, April 13, 2016 Parma, Italy
-2016	“Beyond direct antifungal activity-The immunomodulatory effect of echinocandin antifungals” 26th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID) April 10, 2016 Amsterdam, Netherlands
-2016	Antifungal therapeutic drug monitoring-Pro/Con debate: “PRO: When we should recommend TDM.” Given with Malgorzata Mikulska, M.D., European Bone Marrow Transplantation (EBMT) annual Meeting, Valencia, Spain
-2016	“Significant papers in infectious diseases” Update on the American Society of Hematology Meeting (Post-ASH), February 12, 2017. Genova, Italy
-2016	“Antifungal stewardship performance indicators and assessment” Transdisciplinary ECMM Antifungal Stewardship Workshop, 27-29 January 2016 Wesel, Germany
-2015	“Antifungal stewardship in hematology units” Italy & Spain Friendship and opinions about antimicrobial stewardship programs. Bologna, Italy
-2015	Reevaluating the role of liposomal amphotericin B in the treatment of life-threatening fungal diseases. “Breaking the Mould Symposium” May 1, London, UK
-2015	Optimizing antifungal dosing, Ankara Infectious Diseases Symposium, April 16th, Ankara, Turkey
-2015	Optimizing Antifungal Dosing, Turkish Society of Haematology, April 15th2015, Istanbul, Turkey
-2015	“Do we routinely underdose antifungal therapy?” Izmir Infectious Diseases Symposium, April 12, Izmir, Turkey
-2014	“Antimicrobial Susceptibility Testing-A view from the pharmacologist” XI Corso Avanzato Di Terapia Antibiotica, November 18th, 2014, Pisa, Italy
-2014	“Safety and toxicity of antifungal therapy” Infezioni fungine nel trapianto di organo solido: un anno dopo. Bologna, October 2014
+- __Antifungal pharmacology in the CNS__ 
+<br> Gilead CARE Meeting, Munich, Germany
 
-2014	“ Risk Models for Invasive Fungal Disease” Invited presentation, 54th Interscience Conference on Antimicrobial Agents and Chemotherapy, Washington, DC, September, 2014.
+__Antifungal therapy update__ 
+<br> S.Orsola-Malpighi Open Days Symposium, Bologna, Italy
 
-2014	“Optimizing antimicrobial therapy in the critically-ill” Sepsi: Certezze Controversie nella diagnosi e nella gestion, Forli, Italy
+- __Farmacocinetica degli immunosopressor__
+<br> Gruppo Italiano per il Trapianto di Midollo Osseo (GITMO) Cagliari, Italy
+- __Farmacocinetica degli antifungin__ 
+<br> Gruppo Italiano per il Trapianto di Midollo Osseo (GITMO) Cagliari, Italy
 
-2014	“Antimicrobial Pharmacokinetics and Dynamics in the Critically-Ill” Stage Formativo. Società Italiana di Malattie Infettive e Tropicali (SIMIT). April 28th, Bologna, Italy
+- __Pharmacokinetics and pharmacodyanamics of antifungals__ 
+<br> New Perspectives in the Treatment of Invasive Fungal Infections Meeting, Bologna, Italy
 
-2014	“Antifungal penetration into difficult sites” “Management of MDR organism”
-“Risk-Assessment for Invasive Mold Diseases”
-18th Biennial Symposium of the Immunocompromised Host Society, June 15th-17th Berlin, Germany
+-__How to optimize liposomal amphotericin B dosing__
+<br> Breaking the Mould Meeting, London, UK
 
-2014	“Key strategies for managing breakthrough fungal infections”
-Paul Ehrlich Society for Chemotherapy-Spring Mycoses Meetings, May 23d Bonn, Germany
+-__Controversies in antifungal therapy__
+<br> Gruppo Italiano per il Trapianto di Midollo Osseo (GITMO), Bologna, Italy 
 
-2014	“Filling the Gaps-New tools to identify invasive mold disease in hematology patients” Visiting Professor, Infectious Diseases, May 5, 2014
-University of Cologne, Cologne Germany
+-__Targeting fungal infections in the CNS-A summary of in vitro and in vivo experience__
+<br> INFORM Meeting, Dubai, UAE
 
-2014	“Drug interactions and tolerability of triazoles” 6th Advances Against Aspergillus Conference, Madrid, Spain
+-__Update on antifungal therapeutics__ 
+<br> Mycology Update 2016, Parma, Italy
+
+-__Beyond direct antifungal activity-The immunomodulatory effect of echinocandin antifungals__
+<br> 26th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID), Amsterdam, Netherlands
+
+-__Antifungal therapeutic drug monitoring-Pro/Con debate: “PRO: When we should recommend TDM.__ Given with Malgorzata Mikulska, M.D.,
+<br> European Bone Marrow Transplantation (EBMT) Annual Meeting, Valencia, Spain
+
+-__Significant papers in infectious diseases__
+<br> Update on the American Society of Hematology Meeting (Post-ASH). Genova, Italy
+
+-__Antifungal stewardship performance indicators and assessment__
+<br> Transdisciplinary ECMM Antifungal Stewardship Workshop, Wesel, Germany
+
+`2015`<br>
+
+-__Antifungal stewardship in hematology units__ 
+<br> Italy & Spain Friendship and opinions about antimicrobial stewardship programs. Bologna, Italy
+-__Reevaluating the role of liposomal amphotericin B in the treatment of life-threatening fungal diseases__
+<br> Breaking the Mould Symposium” London, UK
+-__Optimizing antifungal dosing__ 
+<br> Ankara Infectious Diseases Symposium, Ankara, Turkey
+-__Optimizing Antifungal Dosing__
+<br> Turkish Society of Haematology, Istanbul, Turkey
+-__Do we routinely underdose antifungal therapy?__
+<br> Izmir Infectious Diseases Symposium, Izmir, Turkey
+-__Antimicrobial Susceptibility Testing-A view from the pharmacologist__
+<br> XI Corso Avanzato Di Terapia Antibiotica Pisa, Italy
+
+`2014`<br>
+
+-__Safety and toxicity of antifungal therapy__
+<br> Infezioni fungine nel trapianto di organo solido: un anno dopo. Bologna, 
+
+-__Risk Models for Invasive Fungal Disease__ 
+<br> 54th Interscience Conference on Antimicrobial Agents and Chemotherapy, Washington, DC, USA
+
+-__Optimizing antimicrobial therapy in the critically-ill-__
+<br> Sepsi: Certezze Controversie nella diagnosi e nella gestion, Forli, Italy
+
+- __Antimicrobial Pharmacokinetics and Dynamics in the Critically-Ill__
+<br> Stage Formativo. Società Italiana di Malattie Infettive e Tropicali (SIMIT). Bologna, Italy
+
+- __Antifungal penetration into difficult sites__
+<br> 18th Biennial Symposium of the Immunocompromised Host Society (ICHS), Berlin, Germany
+-__Management of MDR organisms__
+<br> 18th Biennial Symposium of the Immunocompromised Host Society (ICHS), Berlin, Germany
+-__Risk-Assessment for Invasive Mold Diseases__
+<br> 18th Biennial Symposium of the Immunocompromised Host Society (ICHS), Berlin, Germany
+-__Key strategies for managing breakthrough fungal infections__
+<br> Paul Ehrlich Society for Chemotherapy-Spring Mycoses Meetings, Bonn, Germany
+-__Filling the Gaps-New tools to identify invasive mold disease in hematology patients__
+<br> Visiting Professor Grand Rounds, Infectious Diseases, University of Cologne, Cologne Germany
+-__Drug interactions and tolerability of triazoles__ 
+<br> 6th Advances Against Aspergillus Conference, Madrid, Spain
+
+`2013`<br>
 
 2013	“Antimicrobial Susceptibility Testing-A view from the pharmacologist” X Corso Avanzato Di Terapia Antibiotica, November 19th
 Pisa, Italy
