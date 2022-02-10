@@ -518,7 +518,7 @@ Society of Hospital Medicine 2009 Annual Meeting, Chicago, Illinois
 - __New drugs and new opportunities for combination antifungal therapy__
 <br> Grand Rounds. Queen Mary Hospital. Hong Kong, China
 - __Role of new antifungal agents in the management of invasive fungal infections__ 
-City Hematology Conference. Beijing China 
+<br> City Hematology Conference. Beijing China 
 - __Role of new antifungal agents in the management of invasive fungal infections__ 
 <br> Infectious Diseases Citywide Conference, Shanghai, China
 - __Antifungal Therapy-Consensus and Controversy-__
@@ -546,12 +546,12 @@ City Hematology Conference. Beijing China
 -__Managing Drug Interactions in the Patient with Aspergillosis-__
 <br> 2nd Annual Advances Against Aspergillosis Meeting, Athens Greece
 - __Overview of Antifungal Pharmacology-__
-<br> Frontline CE Symposium. Houston, TX
+<br> Frontline CE Symposium. Houston, Texas
 
 `2005`<br>
 
 - __Drosophila as a high-throughput model for studying fungal pathogenesis-__
-<br> Texas-UK Biosciences Research Collaborative, London School of Tropical Health and Hygiene, London, United Kingdom.
+<br> Texas-UK Biosciences Research Collaborative, London School of Tropical Health and Hygiene, London, United Kingdom
 - __Antifungal Susceptibility to guide empiric therapy and combination therapy__
 <br> AB Biodisk Antifungal Susceptibility Course, Stockholm, Sweden
 - __Quinolone-Associated MRSA-Significant Papers in Infectious Diseases__
@@ -577,11 +577,19 @@ City Hematology Conference. Beijing China
 - __Toxigenic Moulds in Texas: New Insights into the Pathogenesis of an Opportunistic Pathogen__
 <br> The University of Tennessee College of Pharmacy, Memphis, TN
 
+`2005`<br>
 
-2004	“Practical Management of Multidrug Resistant Infections.” Session moderator. ASHP Annual Meeting, Orlando, FL
-2004	“Evidence Surrounding Consensus Recommendations for Monitoring of Serum Vancomycin Levels. ASHP Annual Meeting, Orlando, FL
-2004	“Case Studies in the Selection of Antifungal Therapy’ Division of Infectious Diseases, Henry Ford Hospital, Detroit, MI
-2004	Research Seminar “Immunology of Effective Antifungal Therapy.” Wayne State College of Pharmacy, Detroit, MI
+- __Practical Management of Multidrug Resistant Infections__
+<br> Session moderator. ASHP Annual Meeting, Orlando, Florida
+
+- __Evidence Surrounding Consensus Recommendations for Monitoring of Serum Vancomycin Levels__
+<br> ASHP Annual Meeting, Orlando, Florida
+
+- __Case Studies in the Selection of Antifungal Therapy__
+<br> Division of Infectious Diseases, Henry Ford Hospital, Detroit, Michigan
+
+- __Immunology of Effective Antifungal Therapy__
+<br> Wayne State College of Pharmacy, Detroit, Michigan
 2004	“Overview of Antifungal Pharmacology,” “Antifungal Resistance,” “Combination Antifungal Therapy.” AB Biodisk Antifungal Susceptibility Course, Solna Sweden.
 2004	“Pharmacotherapy of Invasive Fungal Infections” University of Connecticut School of Pharmacy ID Symposium, Storrs, CT
 2004	“Treatment of Fungal Infection in the ICU Patient” New England Critical Care Pharmacy Symposium. Newton, MA
