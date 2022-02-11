@@ -39,38 +39,47 @@ United States of America; Permanent Residency Visa, Italy
 ## Professional Experience
 
 `2013-`
-__Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
+__Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__  <br> Bologna, Italy
 
 `2011-2012`
-__Full Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
+__Full Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
+<br> Houston, Texas
 
 `2005-2011`
-__Associate Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
+__Associate Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
+<br> Houston, Texas
 
 `2005-2007`
-__Chair, ad interm,Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
+__Chair, ad interm,Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
+<br> Houston, Texas
 
 `2000-2011`
-__Adjunct Faculty, Division of Infectious Diseases, Infection Control and Employee Health, The University of Texas M.D. Anderson Cancer Center__ |  Houston, Texas
+__Adjunct Faculty, Division of Infectious Diseases, Infection Control and Employee Health, The University of Texas M.D. Anderson Cancer Center__ 
+<br> Houston, Texas
 
 `1999-2005`
-__Assitant Professor, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
+__Assitant Professor, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
+<br> Houston, Texas
 
 ## Education 
 
 `1990-1996`
-__Doctor of Clinical Pharmacy (Pharm.D.), University of Kansas__ | Lawrence, Kansas
+__Doctor of Clinical Pharmacy (Pharm.D.), University of Kansas__ 
+<br> Lawrence, Kansas
 
 `1996-1997`
-__Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Medical Center__ | St. Louis, Missouri
+__Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Medical Center__ 
+<br> St. Louis, Missouri
 
 `1997-1999`
-__Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ | Iowa City, Iowa
+__Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ <br>
+<br> Iowa City, Iowa
 
 ## Training courses
 
 `2005`
-__Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches to Fungal Pathogenesis__ | Woods Hole, Massachusetts
+__Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches to Fungal Pathogenesis__ 
+<br> Woods Hole, Massachusetts
 
 ## Professional Licensure
 
