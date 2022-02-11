@@ -136,6 +136,7 @@ __Irene Zaghi, M.D.__
 <br> Bologna, Italy
 
 ## Doctoral students
+
 `2014-2015`
 __Irene Zaghi, M.D.__
 <br> Thesis: _Diagnostic Meta-Analysis of Serum Bactericidal Testing_
@@ -302,7 +303,7 @@ __Infectious Diseases Pharmacotherapy__
 
 `2022`
 
-- __Antifungal prophylaxis considerations in the tageted chemotherapy era__
+__Antifungal prophylaxis considerations in the tageted chemotherapy era__
 <br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), 
 <br> Winnipeg, Manitoba, Canada
 <br> University of Alberta, Hematology Grand Rounds (Virtual)
@@ -312,81 +313,81 @@ __Infectious Diseases Pharmacotherapy__
 
 `2021`	
 
-- __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
+__Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
-- __Antifungal pipeline for invasive candidiasis__
+__Antifungal pipeline for invasive candidiasis__
 <br> Bertino bloodstream infection meeting (Virtual hybrid), Bertino (Romagna), Italy
-- __Antifungal stewardship best practices__
+__Antifungal stewardship best practices__
 <br> SHAPE 2021 Meeting (Virtual)
-- __Antifungal PK/PD in the critically ill and hematology patient__
+__Antifungal PK/PD in the critically ill and hematology patient__
 <br> Antifungal therapy: Myths and truths (Virtual hybrid), Brazil
-- __Antifungal TDM in critically-ill patients, which drugs and how?__ 
+__Antifungal TDM in critically-ill patients, which drugs and how?__ 
 <br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
-- __What is the right dose for CRRT and ECMO?__
+__What is the right dose for CRRT and ECMO?__
 <br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
-- __Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
+__Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
 <br> Society of Infectious Diseases Pharmacists 2021 Fall Business Meeting (Virtual)
-- __Antifungal therapy in the era of targeted chemtoherapy for hematological maliganancies__
+__Antifungal therapy in the era of targeted chemtoherapy for hematological maliganancies__
 <br> Canadian Infectious Diseases Meeting (Virtual)
-- __Antifungal therapy considerations in the tageted chemotherapy era__
+__Antifungal therapy considerations in the tageted chemotherapy era__
 <br> Canadian Hematology National Conference (Virtual)
 
 `2020` 
 
-- __COVID-19 and invasive aspergillosis: Lessons learned.__ 
+__COVID-19 and invasive aspergillosis: Lessons learned.__ 
 <br> Gilead Care Webinar Series (Virtual). 
-- __The growing impact of targeted chemotherapy on the treatment of invasive fungal diseases__ 
+__The growing impact of targeted chemotherapy on the treatment of invasive fungal diseases__ 
 <br> Ambisome 30 year Anniversary Symposium. (Virtual). 
-- __Optimizing antifungal dosing for bloodstream and intraabdominal candidiasis__
+__Optimizing antifungal dosing for bloodstream and intraabdominal candidiasis__
 <br> Gilead CARE Meeting, Brazil (Virtual)
-- __Difficult cases in managing antifungal drug interactions with targeted chemotherapies__
+__Difficult cases in managing antifungal drug interactions with targeted chemotherapies__
 <br> Gilead CARE Meeting, Brazil (Virtual)
-- __Managing drug interactions in the era of targeted therapies for hematological malignancies__
+__Managing drug interactions in the era of targeted therapies for hematological malignancies__
 <br> Kings College London Hematology Grand Rounds (Virtual)
 
 `2019`
 
-- __How I manage drug interactions in the era of targeted therapies for hematological malignancies__ 
+__How I manage drug interactions in the era of targeted therapies for hematological malignancies__ 
 <br>12th Annual Gilead Care Meeting, Paris, France	
-- __Pharmacological basis for treatment of mucormycosis__
+__Pharmacological basis for treatment of mucormycosis__
 <br>2nd Henry Schuler Symposium on Mucormycosis, Chicago, IL USA
-- __Triazole Interactions with FLT3 inhibitors__
+__Triazole Interactions with FLT3 inhibitors__
 <br> 9th Trends in Medical Mycology Nice, France
-- __Echinocandin dosing, can we do better?__
+__Echinocandin dosing, can we do better?__
 <br> 9th Trends in Medical Mycology Nice, France
-- __How will targeted therapies in hematological disease change the management of fungal infections?__ 
+__How will targeted therapies in hematological disease change the management of fungal infections?__ 
 <br> 55th Annual British Society Medical Mycology Meeting, Sheffield, United Kingdom
 
 `2018`
 
-- __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
+__How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program: Modena, Italy
-- __PK/PD issues in septic shock__
+__PK/PD issues in septic shock__
 <br> Antimicrobial Therapy in Immunocompromised and Critically Ill Patients: Management and Perspectives (ATCIP), Lugano, Switzerland	
-- __Debate-Are polyenes still relevant in 2018?__
+__Debate-Are polyenes still relevant in 2018?__
 <br> 20° Immunocompromised Host Society Meeting, Athens, Greece
-- __Optimizing antimicrobial pharmacokinetics in the ICU patient__
+__Optimizing antimicrobial pharmacokinetics in the ICU patient__
 <br> 20° Immunocompromised Host Society Meeting, Athens, Greece	
-- __Pro-Con Debate “Con: Antifungal MICs are not as useful as you think with Cornelia Lass-Florl__
+__Pro-Con Debate “Con: Antifungal MICs are not as useful as you think with Cornelia Lass-Florl__
 <br> 27th European Congress of Clinical Microbiology and Infectious Diseases (ECCMID), Madrid, Spain	          
-- __Principles of antifungal therapy, Principles of antibiotic therapy__
+__Principles of antifungal therapy, Principles of antibiotic therapy__
 <br> Hematology resident Seminar. L'Istituto di Ematologia “Seràgnoli” Bologna. Italy
-- __The role of CT pulmonary angiography for the diagnosis of invasive mold disease__ 
+__The role of CT pulmonary angiography for the diagnosis of invasive mold disease__ 
 <br> 54th Annual British Society Medical Mycology Meeting, Bristol, United Kingdom
-- __Can we improve the management of invasive mold disease using CT pulmonary angiography?__ 
+__Can we improve the management of invasive mold disease using CT pulmonary angiography?__ 
 <br> Infectious Diseases Grand Rounds, Centre hospitalier universitaire Vaudois (CHUV),Lausanne, Switzerland
-- __The Antifungal Pipeline__ 
+__The Antifungal Pipeline__ 
 <br> La micologia del III millennio – 2° edizione. Pescara, Italy
 
 `2017` 
 
-- __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ 
+__How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ 
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program. Modena, Italy
-- __Immunopharmacology of antifungal therapy__ 
+__Immunopharmacology of antifungal therapy__ 
 <br> Gilead Immunology Forum, Frankfurt, Germany
-- __Clinical considerations for the selection of antifungal therapy__ 
+__Clinical considerations for the selection of antifungal therapy__ 
 <br> Breaking the Mould Meeting. London, UK
-- __Radiological diagnostics in neutropenic and non-neutropenic patients__
+__Radiological diagnostics in neutropenic and non-neutropenic patients__
 <br> Joint annual Meeting of the Swiss Societies for Microbiology, Infectious Diseases, Hospital Hygiene, Tropical Medicine and Parasitology, and Tropical and Travel Medicine (SSI, SSHH, SSTMP, SSTTM). Basel, Switzerland.
 - __Antifungals and kidney Injury__ 
 <br> 9° Congresso Nazionale DiTMO 2017. Geneva, Italy
@@ -1096,7 +1097,7 @@ H index 71, 303 peer-reviewed publications, 15,511 citations__ <br>
 
 144. Kontoyiannis DP, Lewis RE, Lotholary O et al. Future directions in mucormycosis research. Clinical Infectious Diseases. 2012;54:S79-S85.
 
-145. Beyda ND, Lewis RE, Garey KW. Echinocandin resistance in Candida species: Mechanisms of reduced susceptibility and therapeutic approaches [Resistencia a equinocandinas en especies de candida: Mecanismos de susceptibilidad reducida y alternativas terapéuticas]. Annals of Pharmacotherapy. 2012;46:1086-1096.
+145. Beyda ND, Lewis RE, Garey KW. Echinocandin resistance in Candida species: Mechanisms of reduced susceptibility and therapeutic approaches- Annals of Pharmacotherapy. 2012;46:1086-1096.
 
 146. Julius JM, Gaikwad A, Lowry A et al. Defining the role of echinocandin catechol functional groups in the development of secondary hepatocellular carcinoma. Journal of Antimicrobial Chemotherapy. 2012;67:422-429.
 
@@ -1549,17 +1550,17 @@ H index 71, 303 peer-reviewed publications, 15,511 citations__ <br>
 93. Leventakos K, Lewis RE, Kontoyiannis DP. Posaconazole (POS) Plasma Concentrations in Hematological Malignancy (HM) Patients without Mucositis or Gut GVHD. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
 94. Leventakos K, Lewis RE, Kontoyiannis DP. Effect of low-dose caspofungin in a neutropenic and steroid- treated murine model of pulmonary mucromycosis. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009
 95. Watson CC, Ben-Ami R, Lewis RE, Arias C Raad II, Kontoyiannis DP. A study of the role of panton-valentine leukocidin in mrsa virulence using wild-type and toll-deficient _drosophila melanogaster_. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
-96.  Ben-Ami R, Lewis RE, Leventakos K, Kontoyiannis DP. _Aspergillus fumigatus_ inhibits angiogenesis through the production of gliotoxin and other secondary metabolites. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
-97.  Ben-Ami R, Garcia-Effron G, Lewis RE, Leventakos K, Perlin DS, Kontoyiannis DP. Mutations in _candida albicans_ FKS1 conferring echinocandin resistance are associated with attenuated virulence. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
-98.  Watson C, Ben-Ami R, Arias C, Raad II, Lewis RE, Kontoyiannis DP. A study of the panton-velentine leukocidin in methicillin resistant Staphylococcus aureus virulence using wild-type and toll-deficient Drosophila melanogaster. Platform presentation. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
+96. Ben-Ami R, Lewis RE, Leventakos K, Kontoyiannis DP. _Aspergillus fumigatus_ inhibits angiogenesis through the production of gliotoxin and other secondary metabolites. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+97. Ben-Ami R, Garcia-Effron G, Lewis RE, Leventakos K, Perlin DS, Kontoyiannis DP. Mutations in _candida albicans_ FKS1 conferring echinocandin resistance are associated with attenuated virulence. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+98 Watson C, Ben-Ami R, Arias C, Raad II, Lewis RE, Kontoyiannis DP. A study of the panton-velentine leukocidin in methicillin resistant Staphylococcus aureus virulence using wild-type and toll-deficient Drosophila melanogaster. Platform presentation. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
 99.  Best L, Singh N, Ben-Ami R, Raad II, Lewis RE, Konotyiannis DP. In vitro interactions of tacrolimus with posaconazole or caspofungin against zygomycetes. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
-100.  Campo M, Lewis RE, Kontoyiannis DP. Invasive fusariosis in patients with hematologic malignancy at M.D. Anderson Cancer Center. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
-101.  Leventakos K, Lewis RE, Chamilos G, Tamboli P, Raad II, Luna M, Kontoyiannis DP. Trends in epidemiology and sites of involvement by invasive fungal infections in patients with hematologic malignacies: a 20 year autopsy study. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA 2010.
-102.  Lewis RE, G Liao, Wang W, Prince RA, Kontoyiannis DP. Comparative in vivo selection for breakthrough mucormycisis of antifungals used to treat invasive pulmonary aspergillosis. 4<sup>th</sup> Advances Against Aspergillosis Meeting, Rome, Italy 2010.
-103.  Lewis RE, ND Albert, G. Lia, Wang W, Prince RA, Kontoyiannis DP. Efficacy of dosage escalation strategies for liposomal amphotericin B in the treatment of experimental _Aspergillus terreus_ pneumonia. 4<sup>th</sup> Advances Against Aspergillosis Meeting, Rome, Italy 2010.
-104.  Perez C, Tam VH, Ledesma K, Abdelraouf K, Kontoyiannis DP, Lewis RE. Comparative immunoprofiling of multidrug resistant (MDR) _P. aeruginosa_. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
+100. Campo M, Lewis RE, Kontoyiannis DP. Invasive fusariosis in patients with hematologic malignancy at M.D. Anderson Cancer Center. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
+101. Leventakos K, Lewis RE, Chamilos G, Tamboli P, Raad II, Luna M, Kontoyiannis DP. Trends in epidemiology and sites of involvement by invasive fungal infections in patients with hematologic malignacies: a 20 year autopsy study. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA 2010.
+102. Lewis RE, G Liao, Wang W, Prince RA, Kontoyiannis DP. Comparative in vivo selection for breakthrough mucormycisis of antifungals used to treat invasive pulmonary aspergillosis. 4<sup>th</sup> Advances Against Aspergillosis Meeting, Rome, Italy 2010.
+103. Lewis RE, ND Albert, G. Lia, Wang W, Prince RA, Kontoyiannis DP. Efficacy of dosage escalation strategies for liposomal amphotericin B in the treatment of experimental _Aspergillus terreus_ pneumonia. 4<sup>th</sup> Advances Against Aspergillosis Meeting, Rome, Italy 2010.
+104. Perez C, Tam VH, Ledesma K, Abdelraouf K, Kontoyiannis DP, Lewis RE. Comparative immunoprofiling of multidrug resistant (MDR) _P. aeruginosa_. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
 105.  Sampsonas F, Lewis RE, Kontoyiannis DP. Risk stratification for early mortality in patients with hematologic cancer and invasive pulmomary mucormycosis. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
-106.  Lewis RE, G. Liao, Kontoyiannis DP. Use of a murine macrophage reporter cell assay to characterize the immunopharmacodynamics of caspofungin against _Aspergillus fumigatus_. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
+106. Lewis RE, G. Liao, Kontoyiannis DP. Use of a murine macrophage reporter cell assay to characterize the immunopharmacodynamics of caspofungin against _Aspergillus fumigatus_. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
 107.  Ben-Ami, Lewis RE, Perlin D, Kontoyiannis DP. Candida albicans FKS1 hot spot mutations associated with echinocandin resistance affect biofilm formation. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
 108.  Pongas GN, Lewis RE, Walsh TJ, Kontoyiannis DP. Activity of deferasirox against Mucorales: Influence of species, exogenous iron and sub-ceullular compartment. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA. 2011.
 109.  Pongas GN, Lewis RE, Kontoyiannis DP. Invasive mould infections in pediatric cancer patients: a single institution, 10-year retrospective study. 48<sup>th</sup> Infectious Disease Society of America (IDSA) Meeting, Vancouver, BC, Canada 2011.
