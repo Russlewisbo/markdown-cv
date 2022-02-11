@@ -97,7 +97,7 @@ __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches
 - __Board Certified Pharmacotherapy Specialist__
 <br> Added qualifications in infectious diseases
 
-## Clinical Practice Experience
+## Clinical Experience
 
 `2012-`
 __Clincial Pharmacologist UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
@@ -127,32 +127,30 @@ __Laboratory Research Assistant, Department of Pharmacology and Toxicology, Univ
 
 `2002-2004`
 __Nathan Widerhold, Pharm.D.__ 
-<br> Thesis: _Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis_
+<br> Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis
 <br> Houston, Texas 
 
 `2018-2021`
 __Irene Zaghi, M.D.__ 
-<br> Infectious Diseases Specialization Thesis: _Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predict Infection Outcome and Catheter-Related Bloodstream Infections_
+<br> Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predict Infection Outcome and Catheter-Related Bloodstream Infections
 <br> Bologna, Italy
 
 ## Doctoral students
 
 `2014-2015`
 __Irene Zaghi, M.D.__
-<br> Thesis: _Diagnostic Meta-Analysis of Serum Bactericidal Testing_
+<br> Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing
 <br> Bologna, Italy 
 
 `2018-2019`
 __Giulia De Luca, M.D__ 
-<br> Thesis: _Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae_
+<br> Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
 <br> Bologna, Italy
 
 `2019-2020`
 __Mayleko Mohamedwais, M.D.__ 
-<br> Thesis: _Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation_ 
+<br> Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
 <br> Bologna, Italy
-
-
 
 ## Teaching Experience
 
@@ -208,7 +206,7 @@ __University of Houston Residency Certificate Program__
 - Scientific publication
 
 `1999-2011`
-__PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__
+__PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator__
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Systemic Fungal Infections 
 - Infective Endocarditis
@@ -221,12 +219,11 @@ __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__
 `2001-2011`
 __PHAR 5229 Research Methodologies in Pharmaceutical Research__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas <br>
-- _Animal Models in Pharmaceutical Development_
+- Animal Models in Pharmaceutical Development
 
 `2001-2011`
-__PHAR 5682 Infectious Diseases Clinical Clerkship__ 
-<br> **University of Houston College of Pharmacy and  
-<br> The University of Texas M.D. Anderson Cancer Center** Houston, Texas
+__PHAR 5682 Infectious Diseases Clinical Clerkship
+<br> University of Houston College of Pharmacy and The University of Texas M.D. Anderson Cancer Center,__ Houston, Texas
 - Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service
 - Solid Tumor Malignancies Consult Service
 - Intensive Care Unit Consult Service
@@ -255,8 +252,8 @@ __Infectious Diseases Fellows Core Curriculum__
 - Antibiotic Hypersensitivity
 
 `2000-2001`
-__Diabetes TX-Pharm__ 
-<br> **University of Houston College of Pharmacy**, Houston, Texas Houston, Texas
+__Diabetes TX-Pharm Elective 
+<br> University of Houston College of Pharmacy__, Houston, Texas
 - Infections in the Diabetic Patient
 
 `2000-2011`
@@ -302,64 +299,76 @@ __Infectious Diseases Pharmacotherapy__
 ## Invited Lectures
 
 `2022`
-
-__Antifungal prophylaxis considerations in the tageted chemotherapy era__
+__Antifungal prophylaxis in the tageted chemotherapy era__
 <br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), 
 <br> Winnipeg, Manitoba, Canada
 <br> University of Alberta, Hematology Grand Rounds (Virtual)
 <br> Edmonton, Alberta, Canada
-- __Overview of the antifungal pipeline in 2022__
+
+__Overview of the antifungal pipeline in 2022__
 <br> F2G Medical Laison Training (Virtual)
 
 `2021`	
-
 __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
+
 __Antifungal pipeline for invasive candidiasis__
 <br> Bertino bloodstream infection meeting (Virtual hybrid), Bertino (Romagna), Italy
+
 __Antifungal stewardship best practices__
 <br> SHAPE 2021 Meeting (Virtual)
+
 __Antifungal PK/PD in the critically ill and hematology patient__
 <br> Antifungal therapy: Myths and truths (Virtual hybrid), Brazil
+
 __Antifungal TDM in critically-ill patients, which drugs and how?__ 
 <br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
+
 __What is the right dose for CRRT and ECMO?__
 <br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
+
 __Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
 <br> Society of Infectious Diseases Pharmacists 2021 Fall Business Meeting (Virtual)
+
 __Antifungal therapy in the era of targeted chemtoherapy for hematological maliganancies__
 <br> Canadian Infectious Diseases Meeting (Virtual)
+
 __Antifungal therapy considerations in the tageted chemotherapy era__
 <br> Canadian Hematology National Conference (Virtual)
 
 `2020` 
-
 __COVID-19 and invasive aspergillosis: Lessons learned.__ 
 <br> Gilead Care Webinar Series (Virtual). 
+
 __The growing impact of targeted chemotherapy on the treatment of invasive fungal diseases__ 
 <br> Ambisome 30 year Anniversary Symposium. (Virtual). 
+
 __Optimizing antifungal dosing for bloodstream and intraabdominal candidiasis__
 <br> Gilead CARE Meeting, Brazil (Virtual)
+
 __Difficult cases in managing antifungal drug interactions with targeted chemotherapies__
 <br> Gilead CARE Meeting, Brazil (Virtual)
+
 __Managing drug interactions in the era of targeted therapies for hematological malignancies__
 <br> Kings College London Hematology Grand Rounds (Virtual)
 
 `2019`
-
 __How I manage drug interactions in the era of targeted therapies for hematological malignancies__ 
 <br>12th Annual Gilead Care Meeting, Paris, France	
+
 __Pharmacological basis for treatment of mucormycosis__
 <br>2nd Henry Schuler Symposium on Mucormycosis, Chicago, IL USA
+
 __Triazole Interactions with FLT3 inhibitors__
 <br> 9th Trends in Medical Mycology Nice, France
+
 __Echinocandin dosing, can we do better?__
 <br> 9th Trends in Medical Mycology Nice, France
+
 __How will targeted therapies in hematological disease change the management of fungal infections?__ 
 <br> 55th Annual British Society Medical Mycology Meeting, Sheffield, United Kingdom
 
 `2018`
-
 __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program: Modena, Italy
 __PK/PD issues in septic shock__
@@ -380,7 +389,6 @@ __The Antifungal Pipeline__
 <br> La micologia del III millennio – 2° edizione. Pescara, Italy
 
 `2017` 
-
 __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ 
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program. Modena, Italy
 __Immunopharmacology of antifungal therapy__ 
