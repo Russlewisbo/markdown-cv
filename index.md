@@ -2,25 +2,27 @@
 layout: cv
 title: Russell Lewis's CV
 ---
-# Russell E. Lewis
+# Russell Edward Lewis
 Associate Professor, Infectious Diseases (MED/17)
 
 I am a clinical pharmacist and an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. I have over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
 
+
+<div id="webaddress">
+<a href="https://www.unibo.it/sitoweb/russeledward.lewis">UNIBO Webpage</a>
+| <a href="http://russlewisid.com">Personal website</a>
+</div>
 <br>
-<br>
+
 last update: 2/02/2022
 
-
 ## Contact information
-
 (Office):UO Malattie Infettive, Pad.6 <br>
 IRCCS- Policlinico S. Orsola-Malpighi <br>
 Alma Mater Studiorum Università di Bologna Via Massarenti, 9 <br>
 Bologna, Italy 40138 <br>
 Office: +39 051 214 3987 <br>
 russeledward.lewis@unibo.it
-
 
 (Home): Via San Giuliano, 12 <br>
 Bologna, Italy 40125 <br>
@@ -38,7 +40,6 @@ United States of America; Permanent Residency Visa, Italy
 - ORCID ID: <a href="https://orcid.org/0000-0002-2002-4339">0000-0002-2002-4339</a>
 - Google scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=5mYwM2gAAAAJ">Profile</a>
 - SCOPUS: <a href="https://www.scopus.com/authid/detail.uri?authorId=7404846664">7404846664</a>
-
  
 ## Professional Experience
 
