@@ -2014,9 +2014,20 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 *   Chair, Internet Committee, Society of Infectious Disease Pharmacists 2001-2002 Guidelines and Publications Committee, American Society of Clinical Pharmacy 2001-2002 Publications Committee, Society of Infectious Diseases Pharmacists 1998 1999.
 *   Publications Committee, ACCP Infectious Diseases PRN 1998-1999.
 
-
-
-
+## Awards
+`1996` Facts and Comparison Excellence in Clinical Medical Communications
+`1999` ACCP Best poster award finalist
+`2002` Outstanding Faculty Achievement in Research Award, University of Houston
+`2002` Manuscript Selected-ASM News Journal Highlights (May 2002
+`2002` Phi Lambda Sigma Honorary Faculty Lifetime Member Inductee
+`2002` Society of Infectious Diseases Pharmacists Young Investigator of the Year Award
+`2004` University of Houston College of Pharmacy Clinical Faculty Preceptor of the Year
+`2004` Merck Award for Outstanding Achievement in Pharmacy Education
+`2005` Fellow, American College of Clinical Pharmacy
+`2005` University of Houston College of Pharmacy Award for Outstanding Faculty Service
+`2009` University of Houston College of Pharmacy Award for Outstanding Research Achievement
+`2010` University of Houston College of Pharmacy Faculty Clinical Preceptor of the Yea
+`2010` University of Houston Award for Excellence in Faculty Research-Associate Professor Level (University-wide award voted by committee of faculty from across the University
 <!-- ### Footer
 
 Last updated: February 2022 -->
