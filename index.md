@@ -1942,12 +1942,12 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 
 ## Web Content
 
-1. Echinocandin Antifungals-Monograph. Up to Date [http://www.uptodate.com](http://www.uptodate.com/)
-2. Antifungal toolkit. Mycoses Study Group/Doctor fungus website. [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
-3. Editor Antifungal Pharmacology Pages, 2001-2012. [http://www.doctorfungus.org](http://www.doctorfungus.org/) (2002-2007)
-4. Pharmacoeconomic of antifungal therapy-Primary and Secondary Costs” Dr. Fungus Website (Drs. John Rex and Michael McGinnis, Editors) [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
-5. Pharmacokinetic optimization of itraconazole therapy. Fungal Research Trust- Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
-6.  Antifungal Pharmacology Module. Fungal Research Trust-Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
+- Up to Date [http://www.uptodate.com](http://www.uptodate.com/) Echinocandin Antifungals-Monograph. 
+- Mycoses Study Group/Doctor fungus website. [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
+- Doctor fungus website Editor Antifungal Pharmacology Pages, 2001-2012. [http://www.doctorfungus.org](http://www.doctorfungus.org/) (2002-2007)
+- Pharmacoeconomic of antifungal therapy-Primary and Secondary Costs” Dr. Fungus Website [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
+- Pharmacokinetic optimization of itraconazole therapy. Fungal Research Trust- Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
+- Antifungal Pharmacology Module. Fungal Research Trust-Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
 
 
 ## Editorial Boards
