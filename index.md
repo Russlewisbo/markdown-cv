@@ -3,9 +3,9 @@ layout: cv
 title: Russell Lewis's CV
 ---
 # Russell Edward Lewis
-Associate Professor, Infectious Diseases (MED/17)
+Associate Professor, Infectious Diseases 
 
-I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial/antifungal pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
+I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal PK/PD in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
 
 <div id="webaddress">
 <a href="https://www.unibo.it/sitoweb/russeledward.lewis">UNIBO Webpage</a>
@@ -13,9 +13,10 @@ I am an Associate Professor of Infectious Diseases in the Department of Medical 
 </div>
 <br>
 <br>
-last update: 2/02/2022
+last updated: February 12, 2022
 
 ## Contact information
+
 (Office): UO Malattie Infettive, Pad.6 <br>
 IRCCS- Policlinico S. Orsola-Malpighi <br>
 Alma Mater Studiorum Università di Bologna Via Massarenti, 9 <br>
@@ -29,13 +30,19 @@ Bologna, Italy 40125 <br>
 russ.e.lewis@gmail.com
 
 ## Birthdate
+
 03-June-1972, Salina Kansas, United States of America
+
 ## Citizenship
+
 United States of America; Permanent Residency Visa, Italy
+
 ## Online Research Profiles
+
 - ORCID ID: <a href="https://orcid.org/0000-0002-2002-4339">0000-0002-2002-4339</a>
 - Google scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=5mYwM2gAAAAJ">Profile</a>
 - SCOPUS: <a href="https://www.scopus.com/authid/detail.uri?authorId=7404846664">7404846664</a>
+
 ## Professional Experience
 
 `2013-`
