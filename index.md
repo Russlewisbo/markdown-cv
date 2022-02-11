@@ -127,57 +127,57 @@ __Laboratory Research Assistant, Department of Pharmacology and Toxicology, Univ
 
 `2002-2004`
 __Nathan Widerhold, Pharm.D.__ 
-<br> Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis 
+<br> Thesis: _Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis _
 <br> Houston, Texas 
 
 `2014-2015`
-__Irene Zaghi, M.D.__  
-<br> Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing 
+__Irene Zaghi, M.D.__
+<br> Thesis: _Diagnostic Meta-Analysis of Serum Bactericidal Testing _
 <br> Bologna, Italy 
 
 `2018-2019`
 __Giulia De Luca, M.D__ 
-<br> Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
+<br> Thesis: _Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae_
 <br> Bologna, Italy
 
 `2019-2020`
 __Mayleko Mohamedwais, M.D.__ 
-<br> Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
+<br> Thesis: _Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation_ 
 <br> Bologna, Italy
 
 `2018-2021`
 __Irene Zaghi, M.D.__ 
-<br> Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections
+<br> Infectious Diseases Specialization Thesis: _Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predict Infection Outcome and Catheter-Related Bloodstream Infections_
 <br> Bologna, Italy
 
 ## Teaching Experience
 
 `2021-present`
-__9730- Global Health, Antimicrobial Therapy and Vaccines__ 
+__9730- Global Health, Antimicrobial Therapy and Vaccines__
 <br> University of Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
 __79947 – Malattive Infettive II__ 
-<br> University of Bologna, Italy <br>
-- Antimicrobial pharmacokinetics and pharmacodynamics 
-- Antifungal pharmacokinetics and pharmacodynamics
+<br> University of Bologna, Italy
+- _Antimicrobial pharmacokinetics and pharmacodynamics _
+- _Antifungal pharmacokinetics and pharmacodynamics_
 
 `2014-2021`
 __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ 
 <br> University of Houston College of Pharmacy, Houston, Texas 
-- The clinician and the microbiology laboratory
-- Aerosolized and percutaneous antibiotic dosing 
-- Immunology of ID
-- Antibiotic hypersensitivity and allergy
-- Vaccination
-- Antifungal therapy
+- _The clinician and the microbiology laboratory_
+- _Aerosolized and percutaneous antibiotic dosin_g 
+- _Immunology of ID_
+- _Antibiotic hypersensitivity and allergy_
+- _Vaccination_
+- _Antifungal therapy_
 
 `2007-2011`
 __PHAR 4308. Cellular Life Sciences II__ 
 <br> University of Houston College of Pharmacy, Houston, Texas 
-- Adversarial pathogen strategies during infection, Parts 1-3 
-- Immunobiologicals used in transplant and oncology
+- _Adversarial pathogen strategies during infection, Parts 1-3_ 
+- _Immunobiologicals used in transplant and oncology_
 
 `2007-2011`
 __PCOL 6371-Advanced Pharmacology II__ 
