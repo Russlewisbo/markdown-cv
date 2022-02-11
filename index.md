@@ -119,23 +119,28 @@ __Laboratory Research Assistant, Department of Pharmacology and Toxicology, Univ
 ## Doctoral/Post-Doctoral Students Supervised
 
 `2002-2004`
-__Nathan Widerhold, Pharm.D.__ Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis 
+__Nathan Widerhold, Pharm.D.__ 
+<br> Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis 
 <br> Houston, Texas 
 
 `2014-2015`
-__Irene Zaghi, M.D.__  Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing 
+__Irene Zaghi, M.D.__  
+<br> Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing 
 <br> Bologna, Italy 
 
 `2018-2019`
-__Giulia De Luca, M.D__ Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
+__Giulia De Luca, M.D__ 
+<br> Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
 <br> Bologna, Italy
 
 `2019-2020`
-__Mayleko Mohamedwais, M.D.__ Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
+__Mayleko Mohamedwais, M.D.__ 
+<br> Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
 <br> Bologna, Italy
 
 `2018-2021`
-__Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections
+__Irene Zaghi, M.D.__ 
+<br> Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections
 <br> Bologna, Italy
 
 ## Teaching Experience
