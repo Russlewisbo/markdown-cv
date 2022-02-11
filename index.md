@@ -93,75 +93,90 @@ __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches
 ## Clinical Practice Experience
 
 `2012-`
-__Clincial Pharmacologist, UO Malattie Infettive IRCCS Policlinico S. Orsola-Malpighi__ | Bologna, Italy
+__Clincial Pharmacologist, UO Malattie Infettive IRCCS Policlinico S. Orsola-Malpighi__ 
+<br> Bologna, Italy
 
 `2000-2011`
-__Clinical Staff (Pharmacy) and Faculty (Medicine) Infectious Diseases Consultation Services, The University of Texas M.D. Anderson Cancer Center__ | Houston, Texas
+__Clinical Staff (Pharmacy) and Faculty (Medicine) Infectious Diseases Consultation Services, The University of Texas M.D. Anderson Cancer Center__ 
+<br> Houston, Texas
 
 `1997-1999`
-__Clinical Adjunct Faculty Infectious Diseases/Internal Medicine, University of Iowa College of Pharmacy__ | Iowa City, Iowa
+__Clinical Adjunct Faculty Infectious Diseases/Internal Medicine, University of Iowa College of Pharmacy__ 
+<br> Iowa City, Iowa
 
 `1996-1997`
-__Clinical Pharmacist, Barnes-Jewish Hospital__ | St. Louis, Missouri
+__Clinical Pharmacist, Barnes-Jewish Hospital__ 
+<br> St. Louis, Missouri
 
 `1995-1996`
-__Pharmacy Intern, St. Francis regional Hospital__ | Topeka, Kansas
+__Pharmacy Intern, St. Francis regional Hospital__ 
+<br> Topeka, Kansas
 
 `1992-1995`
-__Laboratory Research Assistant, Department of Pharmacology and Toxicology, University of Kansas School of Pharmacy__ | Lawrence, Kansas
+__Laboratory Research Assistant, Department of Pharmacology and Toxicology, University of Kansas School of Pharmacy__ 
+<br> Lawrence, Kansas
 
 ## Doctoral/Post-Doctoral Students Supervised
 
 `2002-2004`
-__Nathan Widerhold, Pharm.D.__ Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis | Houston, Texas 
+__Nathan Widerhold, Pharm.D.__ Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis 
+<br> Houston, Texas 
 
 `2014-2015`
-__Irene Zaghi, M.D.__  Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing | Bologna, Italy 
+__Irene Zaghi, M.D.__  Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing 
+<br> Bologna, Italy 
 
 `2018-2019`
 __Giulia De Luca, M.D__ Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
+<br> Bologna, Italy
 
 `2019-2020`
-__Mayleko Mohamedwais, M.D.__ Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation | Bologna, Italy
+__Mayleko Mohamedwais, M.D.__ Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
+<br> Bologna, Italy
 
 `2018-2021`
-__Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections | Bologna, Italy
+__Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections
+<br> Bologna, Italy
 
 ## Teaching Experience
 
 `2021-present`
-__9730- Global Health, Antimicrobial Therapy and Vaccines__ | 
+__9730- Global Health, Antimicrobial Therapy and Vaccines__ 
 <br> University of Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
-__79947 – Malattive Infettive II__ | University of Bologna, Italy <br>
+__79947 – Malattive Infettive II__ 
+<br> University of Bologna, Italy <br>
 - Antimicrobial pharmacokinetics and pharmacodynamics 
 - Antifungal pharmacokinetics and pharmacodynamics
 
 `2014-2021`
-__PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
-
+__PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ 
+<br> University of Houston College of Pharmacy, Houston, Texas 
 - The clinician and the microbiology laboratory
-- “Aerosolized and percutaneous antibiotic dosing 
-- “Immunology of ID
+- Aerosolized and percutaneous antibiotic dosing 
+- Immunology of ID
 - Antibiotic hypersensitivity and allergy
 - Vaccination
 - Antifungal therapy
 
 `2007-2011`
-__PHAR 4308. Cellular Life Sciences II__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PHAR 4308. Cellular Life Sciences II__ 
+<br> University of Houston College of Pharmacy, Houston, Texas 
 - Adversarial pathogen strategies during infection, Parts 1-3 
 - Immunobiologicals used in transplant and oncology
 
 `2007-2011`
-__PCOL 6371-Advanced Pharmacology II__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PCOL 6371-Advanced Pharmacology II__ 
+<br> University of Houston College of Pharmacy, Houston, Texas 
 - Principles of Host Immunity 
 - Immunopharmacology
 - Pharmacology of anti-inflammatory agents
 
 `2000-2010`
-__PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ 
+<br> University of Houston College of Pharmacy, Houston, Texas 
 -  Essentials of in vitro testing of antimicrobials 
 -  Molecular mechanisms of antibacterial resistance
 -  Quinolone antibiotics 
@@ -171,12 +186,14 @@ __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Housto
 -  Vaccinations 
 
 `2007-2010`
-__University of Houston Residency Certificate Program__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__University of Houston Residency Certificate Program__ 
+<br> University of Houston College of Pharmacy, Houston, Texas 
 - Academic careers
 - Scientific publication
 
 `1999-2011`
-__PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__
+<br> University of Houston College of Pharmacy, Houston, Texas 
 - Systemic Fungal Infections 
 - Infective Endocarditis
 - Sexually Transmitted Diseases
@@ -186,26 +203,32 @@ __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ |
 - Drug Hypersensitivity 
 
 `2001-2011`
-__PHAR 5229 Research Methodologies in Pharmaceutical Research__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PHAR 5229 Research Methodologies in Pharmaceutical Research__ 
+<br> University of Houston College of Pharmacy, Houston, Texas <br>
 - Animal Models in Pharmaceutical Development
 
 `2001-2011`
-__PHAR 5682 Infectious Diseases Clinical Clerkship__ | University of Houston College of Pharmacy, Houston, Texas <br>
- The University of Texas M.D. Anderson Cancer Center
-- Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service,
-- Solid Tumor Malignancies Consult Service, The University of Texas M.D. Anderson Cancer Center
-- Intensive Care Unit Consult Service, The University of Texas M.D. Anderson Cancer Center
+__PHAR 5682 Infectious Diseases Clinical Clerkship__ 
+<br> University of Houston College of Pharmacy, Houston, Texas 
+<br> The University of Texas M.D. Anderson Cancer Center
+- Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service
+- Solid Tumor Malignancies Consult Service
+- Intensive Care Unit Consult Service
 
 `2002-2003`
-__PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
+__PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ 
+<br> University of Houston College of Pharmacy, Houston, Texas <br>
 
 `2001-2005`
-__PHPR 646 – Pharmacotherapy I. Invited lecturer__ | University of Kansas School of Pharmacy, Kansas Medical Center, Kansas City, Kansas <br>
+__PHPR 646 – Pharmacotherapy I. Invited lecturer__ 
+<br> University of Kansas School of Pharmacy, 
+<br> Kansas Medical Center, Kansas City, Kansas 
 - Invasive fungal infection
 - Sepsis
 
 `2001-2011`
-__Infectious Diseases Fellows Core Curriculum__ | The University of Texas M.D. Anderson Cancer Center, Houston, Texas
+__Infectious Diseases Fellows Core Curriculum__ 
+<br> The University of Texas M.D. Anderson Cancer Center, Houston, Texas
 - Antibiotic and Tumor-Related Fever
 - New Treatment Modalities for Acute and Chronic Leukemia 
 - Infectious Complications in Chronic Lymphocytic Leukemia 
@@ -216,38 +239,47 @@ __Infectious Diseases Fellows Core Curriculum__ | The University of Texas M.D. A
 - Antibiotic Hypersensitivity
 
 `2000-2001`
-__Diabetes TX-Pharm__ | University of Houston College of Pharmacy, Houston, Texas Houston, Texas
+__Diabetes TX-Pharm__ 
+<br> University of Houston College of Pharmacy, Houston, Texas Houston, Texas
 - Infections in the Diabetic Patient
 
 `2000-2011`
-__PHAR 5365 Pharm.D Seminar.__ | University of Houston College of Pharmacy, Houston, Texas
+__PHAR 5365 Pharm.D Seminar__ 
+<br> University of Houston College of Pharmacy, Houston, Texas
 
 `1998-1999`
-__Pharmacotherapy IV__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
+__Pharmacotherapy IV__
+<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
 - Febrile neutropenia
 - Infective endocarditis
 
 `1997-1999`
-__Pharmacotherapy IV, Group case discussion leader__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
+__Pharmacotherapy IV, Group case discussion leader__ 
+<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
 
 `1997-1999`
-__Introduction to Pharmaceutical Care, Group leader__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
+__Introduction to Pharmaceutical Care, Group leader__ 
+<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
 
 `1997-1999`
-__Instructor, Infectious Diseases Research Elective__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
+__Instructor, Infectious Diseases Research Elective__ 
+<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
 
 `1997-1999`
-__Instructor and context evaluator, Honors Seminar__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
+__Instructor and context evaluator, Honors Seminar__ 
+<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
 
 `1996-1997`
-__Adjunct Clinical Instructor at Barnes-Jewish Hospital__ | Saint Louis College of Pharmacy, St. Louis, Missouri
+__Adjunct Clinical Instructor at Barnes-Jewish Hospital__ 
+<br> St. Louis College of Pharmacy, St. Louis, Missouri
 - Infectious Diseases Clerkship 
 - Internal Medicine Clerkship
 - Critical Care Clerkship
 - Ambulatory Care Clerkship (VA Medical Center)
 
 `1996-1997`
-__Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. Louis, Missouri
+__Infectious Diseases Pharmacotherapy__ 
+<br> Saint Louis College of Pharmacy, St. Louis, Missouri
 - Overview of Microbiological Testing 
 - Overview of Antibacterial Resistance
 
