@@ -195,31 +195,31 @@ __PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ | University of Hou
 
 `2001-2005`
 __PHPR 646 – Pharmacotherapy I. Invited lecturer__ | University of Kansas School of Pharmacy, Kansas Medical Center, Kansas City, Kansas <br>
-- “Invasive fungal infection”
-- “Sepsis” 
+- Invasive fungal infection
+- Sepsis
 
 `2001-2011`
 __Infectious Diseases Fellows Core Curriculum__ | The University of Texas M.D. Anderson Cancer Center, Houston, Texas
-- “Antibiotic and Tumor-Related Fever”
-- “New Treatment Modalities for Acute and Chronic Leukemia” 
-- “Infectious Complications in Chronic Lymphocytic Leukemia” 
-- “The Pharmacology of Sepsis”
-- “Iatrogenic Immunosuppression” 
-- “Overview of Antifungal Pharmacology”
-- “Overview of Immunosuppression Associated with Cancer Chemotherapy” 
-- “Antibiotic Hypersensitivity”
+- Antibiotic and Tumor-Related Fever
+- New Treatment Modalities for Acute and Chronic Leukemia 
+- Infectious Complications in Chronic Lymphocytic Leukemia 
+- The Pharmacology of Sepsis
+- Iatrogenic Immunosuppression 
+- Overview of Antifungal Pharmacology
+- Overview of Immunosuppression Associated with Cancer Chemotherapy 
+- Antibiotic Hypersensitivity
 
 `2000-2001`
 __Diabetes TX-Pharm__ | University of Houston College of Pharmacy, Houston, Texas Houston, Texas
-- “Infections in the Diabetic Patient"
+- Infections in the Diabetic Patient
 
 `2000-2011`
 __PHAR 5365 Pharm.D Seminar.__ | University of Houston College of Pharmacy, Houston, Texas
 
 `1998-1999`
 __Pharmacotherapy IV__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
-- "Febrile neutropenia"
-- "Infective endocarditis"
+- Febrile neutropenia
+- Infective endocarditis
 
 `1997-1999`
 __Pharmacotherapy IV, Group case discussion leader__ | University of Iowa College of Pharmacy, Iowa City, Iowa 
@@ -242,16 +242,18 @@ __Adjunct Clinical Instructor at Barnes-Jewish Hospital__ | Saint Louis College 
 
 `1996-1997`
 __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. Louis, Missouri
-- “Overview of Microbiological Testing” 
-- “Overview of Antibacterial Resistance”
+- Overview of Microbiological Testing 
+- Overview of Antibacterial Resistance
 
 ## Invited Lectures
 
 `2022`<br>
 - __Antifungal prophylaxis considerations in the tageted chemotherapy era__
-<br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), Winnipeg, Manitoba, Canada
-<br> University of Alberta, Hematology Grand Rounds (Virtual), Edmonton, Alberta, Canada
--__Overview of the antifungal pipeline in 2022__
+<br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), 
+<br> Winnipeg, Manitoba, Canada
+<br> University of Alberta, Hematology Grand Rounds (Virtual)
+<br> Edmonton, Alberta, Canada
+- __Overview of the antifungal pipeline in 2022__
 <br> F2G Medical Laison Training (Virtual)
 
 `2021`<br>	
