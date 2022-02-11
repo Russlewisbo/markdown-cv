@@ -1995,13 +1995,12 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 
 ## Service
 
-`University of Bologna`
-
+__University of Bologna
 - English Medical School Curriculum Development Committee, 2015-2017.
 - Consiglio del CdL in Medicine and Surgery, 2017-present
 
-`University of Houston`
 
+__University of Houston__
 - University of Houston Research Council 2004-2006 University Institution Biosafety Committee 2006-2011
 - Chair, UH College of Pharmacy Research Committee, 2004-2005 UH College of Pharmacy P&T Committee 2007-2010
 - UH College of Pharmacy Research Committee, 2000-2003
@@ -2009,8 +2008,8 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 - UH College of Pharmacy Education Subcommittee on Curricular Issues 2003 UH Library and Information Technology Committee 2002-2004
 - UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
 
-`National`
 
+__National__
 *   SIDP Board of Directors (national elected position), 2008-2010
 *   Chair, ASHP Clinical Practice Network-Infectious Diseases 2002-2004 SIDP Research Committee 2003-2009
 *   Chair, SIDP Research Committee 2007-2008
