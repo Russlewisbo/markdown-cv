@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Russell Lewis's CV
+title: Russell Lewis
 ---
 # Russell Edward Lewis
 Associate Professor and Clinical Pharmacologist
