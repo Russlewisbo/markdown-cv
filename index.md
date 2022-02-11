@@ -1615,41 +1615,39 @@ __Scopus author ID: 7404846664 <br>
 
 6. Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7 th Ed. American Society for Microbiology Press, 2017.
 
-7. Lewis RE andKontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017.
-14. 
+7. Lewis RE, Beyda N, Kontoyiannis DP. Caspofungin In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017.
 
-8. Lewis RE, Beyda N, Kontoyiannis DP. Caspofungin In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017.
+8.  Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 6<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017.
 
-9.  Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 6<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017.
-
-10. Cleary JD, Lewis RE. Fungal infections. Koda-Kimble & Young's Applied Therapeutics, 11th Edition 2015.
+9. Cleary JD, Lewis RE. Fungal infections. Koda-Kimble & Young's Applied Therapeutics, 11th Edition 2015.
  
-11. Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 4th Ed. MacGraw- Hill. Revised Chapter 2017.
- 
-12. Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 4th Ed.. MacGraw-Hill. Revised Chapter 2017.
+10. Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 4th Ed. MacGraw- Hill. Revised Chapter 2017.
 
-13. Lewis RE. Update on Invasive fungal infections. Pharmacotherapy Self-Assessment Program-15 (PSAP-15). American College of Clinical Pharmacy.
+11. Lewis RE. Update on Invasive fungal infections. Pharmacotherapy Self-Assessment Program-15 (PSAP-15). American College of Clinical Pharmacy.
 
-14.  Viale P, Lewis RE. Voriconazole treatment in invasive candidiasis. Voriconazole: Pharmacokinetics, Role in Therapeutic Drug Monitoring and Clinical Outcomes 2015. p. 41-52.
+12.  Viale P, Lewis RE. Voriconazole treatment in invasive candidiasis. Voriconazole: Pharmacokinetics, Role in Therapeutic Drug Monitoring and Clinical Outcomes 2015. p. 41-52.
 
-15. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 8<sup>th</sup> edition. 2014.
+13. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 8<sup>th</sup> edition. 2014.
 
-16. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter. 2013
+14. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter. 2013
 
-17. Lewis RE. Management of Mucormycosis. Clinical Decision Support in Medicine 2014.
+15. Lewis RE. Management of Mucormycosis. Clinical Decision Support in Medicine 2014.
 
-18. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter 2011.
-19. Shelbourn S, Lewis RE, Kontoyiannis DP. Management of fever in neutropenic patients. Hematology: Basic Principles and Practice. 5<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2014.
+16. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter 2011.
 
-20. Lewis RE & Kontoyiannis DP. The clinical significance of antifungal resistance in _Candida_ species. Candida and Candidiasis. American Society for Microbiology Press 2011.
+17. Shelbourn S, Lewis RE, Kontoyiannis DP. Management of fever in neutropenic patients. Hematology: Basic Principles and Practice. 5<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2014.
 
-21. Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
+18. Lewis RE & Kontoyiannis DP. The clinical significance of antifungal resistance in _Candida_ species. Candida and Candidiasis. American Society for Microbiology Press 2011.
 
-22. Lewis RE and Kontoyiannis DP. Glucan synthesis inhibitors. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
+19. Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
 
-23. Lewis RE and DS Perlin. Antifungal drug resistance. In: Management of Infections in Cancer Patients. Humana Press, 2011.
+21. Lewis RE and Kontoyiannis DP. Glucan synthesis inhibitors. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
 
-24. Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 2<sup>nd</sup> Ed. MacGraw-Hill. Revised Chapter, 2010. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandall, Bennet and Dolin eds. 7<sup>th</sup> edition
+22. Lewis RE and DS Perlin. Antifungal drug resistance. In: Management of Infections in Cancer Patients. Humana Press, 2011.
+
+23. Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 2<sup>nd</sup> Ed. MacGraw-Hill. Revised Chapter, 2010. 
+
+24. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandall, Bennet and Dolin eds. 7<sup>th</sup> edition
 
 25. Lewis RE. Polyene antifungal agents. In: Aspergillosis: from Diagnosis to Prevention. In Pasqualotto AC ed. Springer Press. 2009.
 
