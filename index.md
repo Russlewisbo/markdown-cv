@@ -1426,58 +1426,92 @@ H index 71, 303 peer-reviewed publications, 15,511 citations__ <br>
 ## Bookchapters
 
 1. Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 8<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2021.
+
 2. Kontoyiannis DP and Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 10<sup>th</sup> edition. 2021.
+
 3. Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 7<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017.
+ 
 4. Kontoyiannis DP and Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 9<sup>th</sup> edition. 2019.
+
 5. Lewis RE. Pharmacokinetics of azole antifungals, Chapter 7\. In: Winter’s Basic Clinical Pharmacokinetics 6<sup>th</sup> edition. Wolters Kluwer, 2018.
+
 6. Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7 th Ed. American Society for Microbiology Press, 2017.
-7. Lewis RE andKontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017
-8. Lewis RE, Beyda N, Kontoyiannis DP. Caspofungin In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017
-9. Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 6<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017.
+
+7. Lewis RE andKontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017.
+14. 
+
+8. Lewis RE, Beyda N, Kontoyiannis DP. Caspofungin In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017.
+
+9.  Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 6<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017.
+
 10. Cleary JD, Lewis RE. Fungal infections. Koda-Kimble & Young's Applied Therapeutics, 11th Edition 2015.
+ 
 11. Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 4th Ed. MacGraw- Hill. Revised Chapter 2017.
+ 
 12. Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 4th Ed.. MacGraw-Hill. Revised Chapter 2017.
-13. Lewis RE. Update on Invasive fungal infections. Pharmacotherapy Self-Assessment Program-15 (PSAP-15). American College of Clinical Pharmacy
-14. Viale P, Lewis RE. Voriconazole treatment in invasive candidiasis. Voriconazole: Pharmacokinetics, Role in Therapeutic Drug Monitoring and Clinical Outcomes 2015. p. 41-52.
+
+13. Lewis RE. Update on Invasive fungal infections. Pharmacotherapy Self-Assessment Program-15 (PSAP-15). American College of Clinical Pharmacy.
+
+14.  Viale P, Lewis RE. Voriconazole treatment in invasive candidiasis. Voriconazole: Pharmacokinetics, Role in Therapeutic Drug Monitoring and Clinical Outcomes 2015. p. 41-52.
+
 15. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 8<sup>th</sup> edition. 2014.
+
 16. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter. 2013
+
 17. Lewis RE. Management of Mucormycosis. Clinical Decision Support in Medicine 2014.
-18. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials 3<sup>rd</sup> Ed.. McGraw-Hill. Revised Chapter 2011 (In press).
-19. Shelbourn S, Lewis RE, Kontoyiannis DP. Management of fever in neutropenic patients. Hematology: Basic Principles and Practice. 5<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2014
+
+18. Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter 2011.
+19. Shelbourn S, Lewis RE, Kontoyiannis DP. Management of fever in neutropenic patients. Hematology: Basic Principles and Practice. 5<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2014.
+
 20. Lewis RE & Kontoyiannis DP. The clinical significance of antifungal resistance in _Candida_ species. Candida and Candidiasis. American Society for Microbiology Press 2011.
+
 21. Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
 22. Lewis RE and Kontoyiannis DP. Glucan synthesis inhibitors. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
 23. Lewis RE and DS Perlin. Antifungal drug resistance. In: Management of Infections in Cancer Patients. Humana Press, 2011.
-24. Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 2<sup>nd</sup> Ed. MacGraw-Hill. Revised Chapter, 2010.
-25. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandall, Bennet and Dolin eds. 7<sup>th</sup> edition
-26. Lewis RE. Polyene antifungal agents. In: Aspergillosis: from Diagnosis to Prevention. In Pasqualotto AC ed. Springer Press. 2009.
-27. Lewis RE. Antifungal Drug Interactions _In:_ Aspergillus and Aspergillosis. ASM Press 2008.
-28. Lewis RE, Fothergill A. Antifungal Pharmacology. In: Hospenthal and Rinaldi. Clinical Mycology. Humana Press. 2008.
-29. Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials. MacGraw-Hill. 2007.
-30. Lewis RE. Infections in Immunocompromised Patients. In: Helms R, Quan DJ, eds. Textbook of Therapeutics: Drug and Disease Management Eighth Edition. Lippincott, Williams and Wilkins.2007
-31. Wiederhold NP, Lewis RE. Murine model of invasive aspergillosis. Methods in Molecular Mycology. Academic Press. 2005
-32. Lewis RE. Management of Primary and Secondary Invasive Mycoses. Pharmacotherapy Self-Assessment Program (PSAP). American College of Clinical Pharmacy 2005.
-33. Lewis RE, Raad II. Treatment Approaches for Catheter-Related Infections In: Biofilm Infections: Role of Antibiotic Tolerance and Resistance Marcel Dekker, Inc. (In Press).
-34. Klepser ME, Lewis RE. Antifungal Pharmacodynamics. In: Antimicrobial Pharmacodynamics in Theory and Practice. CH Nightingale, T Murakawa, PG Ambrose (ed.). Marcel Dekker, Inc., New York, New York. 2001
-35. Lewis RE, Prince RA. Pharmacokinetic and pharmacodynamic principles of antimicrobial dosing in the neutropenic host. In: Febrile Neutropenia. Rubenstein E, Rolston KVI eds. Martin Dunitz, London. 2001
+24. Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 2<sup>nd</sup> Ed. MacGraw-Hill. Revised Chapter, 2010. Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandall, Bennet and Dolin eds. 7<sup>th</sup> edition
+25. Lewis RE. Polyene antifungal agents. In: Aspergillosis: from Diagnosis to Prevention. In Pasqualotto AC ed. Springer Press. 2009.
+26. Lewis RE. Antifungal Drug Interactions _In:_ Aspergillus and Aspergillosis. ASM Press 2008.
+27. Lewis RE, Fothergill A. Antifungal Pharmacology. In: Hospenthal and Rinaldi. Clinical Mycology. Humana Press. 2008.
+28. Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials. MacGraw-Hill. 2007.
+29. Lewis RE. Infections in Immunocompromised Patients. In: Helms R, Quan DJ, eds. Textbook of Therapeutics: Drug and Disease Management Eighth Edition. Lippincott, Williams and Wilkins.2007
+30. Wiederhold NP, Lewis RE. Murine model of invasive aspergillosis. Methods in Molecular Mycology. Academic Press. 2005
+31. Lewis RE. Management of Primary and Secondary Invasive Mycoses. Pharmacotherapy Self-Assessment Program (PSAP). American College of Clinical Pharmacy 2005.
+32. Lewis RE, Raad II. Treatment Approaches for Catheter-Related Infections In: Biofilm Infections: Role of Antibiotic Tolerance and Resistance Marcel Dekker, Inc. (In Press).
+33. Klepser ME, Lewis RE. Antifungal Pharmacodynamics. In: Antimicrobial Pharmacodynamics in Theory and Practice. CH Nightingale, T Murakawa, PG Ambrose (ed.). Marcel Dekker, Inc., New York, New York. 2001
+34. Lewis RE, Prince RA. Pharmacokinetic and pharmacodynamic principles of antimicrobial dosing in the neutropenic host. In: Febrile Neutropenia. Rubenstein E, Rolston KVI eds. Martin Dunitz, London. 2001
 
 ## Conference abstracts/posters
 
 1. Lewis RE, Miller G, Reichly R, Schaiff RS, Hall T. Drug usage evaluation of G-CSF and GM-CSF at a tertiary care medical center. 1996\. ASHP Midyear Clinical Meeting. New Orleans, LA December 1996.
+
 2. Klepser ME, Ernst EJ, Ernst ME, Lewis RE, Pfaller MA. Antifungal time-kill curves, influence of test conditions on results. 37<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1997. Toronto, Ontario, Canada
+
 3. Klepser ME, Ernst EJ, Biedenbach D, Lewis RE, Lund BC, Jones RN. Evaluation of low-dose, extended interval clindamycin regimens against _Staphylococcus aureus_ and _Streptococcus pneumoniae_ using a dynamic in vitro model of infection. American College of Clinical Pharmacy 1997 Annual Meeting. Phoenix, AZ.
+
 4. Lund BC, Klepser ME, Ernst EJ, Lewis RE, Pfaller MA. Antifungal activity of fluconazole on _Candida albicans_in an in vitro dynamic model. American College of Clinical Pharmacy 1997 Annual Meeting. Phoenix, AZ.
+
 5. Lewis RE, Klepser ME, Ernst EJ, Yeramian PD, Jones RN. Time-kill analysis of metronidazole activity against _Bacteroides_ spp. and _Clostridium difficile_. American Society for Microbiology. 98<sup>th</sup> General Meeting, 1998. Atlanta, GA.
+
 6. Lewis RE, Klepser ME, Pfaller MA. Evaluation of antifungal activity and the duration of the post-antifungal effect of 5-fluorocytosine monotherapy against pathogenic yeast. 38<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1998. San Diego, CA.
+
 7. Lewis RE, Klepser ME, Ernst EJ, Yeramian PD, Jones RN. Comparison of oral immediate-release (IR) and extended release (ER) metronidazole bactericidal activity against _Bacteroides_ spp. using an in vitro model of infection. 38<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1998. San Diego, CA.
+
 8. De Lallo VC, Lewis RE, Petzold RC, Pfaller MA, Klepser ME. Evaluation of amphotericin B (AmB) and flucytosine (5-FC) alone, and in combination against _Candida albicans_ and _Cryptococcus neoformans_ using time-kill methodology. American College of Clinical Pharmacy. 1998 Annual Meeting. Cincinnati, OH.
+
 9. Klepser ME, Malone D, Lewis RE, Ernst EJ, Pfaller MA. Evaluation of Voriconazole Pharmacodynamics Using Time-kill Methodology. Conference on Antimicrobial Agents and Chemotherapy, 1999. San Diego, CA.
+
 10. Lewis RE, Klepser ME, Piscitelli SC, Groll A, De Lallo VC, Quintiliani R, Ernst EJ, Walsh T J, Pfaller MA. In vivo tissue activity of high-dose liposomal amphotericin B (AmBisome) in a neutropenic murine candidal thigh infection model. 39<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1999. San Diego, CA.
+
 11. Lewis RE, Diekema DJ, Messer SA, Pfaller MA, Klepser ME. Comparison of Etest, checkerboard dilution, and time-Kill testing for the detection of synergy or antagonism among Candida spp. 39<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1999. San Diego, CA.
+
 12. Klepser ME, Lewis RE, Ernst EJ, Pfaller MA, Society of Infectious Disease Pharmacists. Multicenter evaluation of standardized methods for conducting antifungal time-kill studies. 39<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1999. San Diego, CA.
+
 13. Lewis RE, Turley JC. Susceptibility of community-acquired respiratory tract pathogens collected in Texas during 1998-1999: Analysis of Texas Data from the Cast Study. 38<sup>th</sup> Infectious Disease Society of America. 2000 New Orleans, LA
+
 14. Rogers DP, Lewis RE, Chapman S. Antifungal activity of amphotericin B is not calcium dependent. 40<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2000. Toronto, ONT
+
 15. Lewis RE, Prince RA, Kontoyiannis DP. Pretreatment with Itraconazole Attenuates the Efficacy of Increasing Amphotericin B Dosages in a Murine Model of Invasive Pulmonary Aspergillosis. Platform Presentation-Animal Models of Infection Session. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001. Chicago, IL.
+
 16. Lewis, RE, Kontoyiannis DP, Dariouche RH, Raad II, and Prince RA. Antifungal activity of amphotericin B, fluconazole, and voriconazole in an in vitro model of Candida catheter-related bloodstream infection. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001\. Chicago, IL
 17. Lewis RE, Lo HJ, Raad II, and Kontoyiannis, DP. Lack of catheter colonization by the _cph1/cph1 efg1/efg1_double null mutant, a _C. albicans_ strain that is defective in filamentous growth. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001. Chicago, IL.
 18. Kontoyiannis DP, Reddy BT, Bodey GP, Luna M, Lewis RE, Tarrand J, Raad II. Pulmonary Candidiasis in Cancer Patients: An autopsy study. Platform presentation. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001. Chicago, IL
