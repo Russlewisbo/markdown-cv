@@ -9,7 +9,6 @@ I am a clinical pharmacist and an Associate Professor of Infectious Diseases in 
 
 <div id="webaddress"><a href="https://www.unibo.it/sitoweb/russeledward.lewis">Faculty website</a>
 <div id="webaddress"><a href="https://russlewisid.com">Personal website</a>
-</div> 
 
 <br>
 <br>
