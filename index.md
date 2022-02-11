@@ -245,7 +245,13 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 - “Overview of Antibacterial Resistance”
 
 ## Invited Lectures
+
 `2022`<br>
+- __Antifungal prophylaxis considerations in the tageted chemotherapy era__
+<br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), Winnipeg, Manitoba, Canada
+<br> University of Alberta, Hematology Grand Rounds (Virtual), Edmonton, Alberta, Canada
+-__Overview of the antifungal pipeline in 2022__
+<br> F2G Medical Laison Training (Virtual)
 
 `2021`<br>	
 - __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
@@ -262,8 +268,10 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 <br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
 - __Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
 <br> Society of Infectious Diseases Pharmacists 2021 Fall Business Meeting (Virtual)
-- __Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
-<br> Society of Infectious Diseases Pharmacists 2021 Fall Business Meeting (Virtual)
+- __Antifungal therapy in the era of targeted chemtoherapy for hematological maliganancies__
+<br> Canadian Infectious Diseases Meeting (Virtual)
+- __Antifungal therapy considerations in the tageted chemotherapy era__
+<br> Canadian Hematology National Conference (Virtual)
 
 `2020` <br>		
 - __COVID-19 and invasive aspergillosis: Lessons learned.__ 
