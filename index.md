@@ -1996,7 +1996,7 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 
 ## Service
 
-__University of Bologna
+__University of Bologna__
 - English Medical School Curriculum Development Committee, 2015-2017.
 - Consiglio del CdL in Medicine and Surgery, 2017-present
 
