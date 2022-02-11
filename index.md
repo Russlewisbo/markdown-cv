@@ -1584,16 +1584,16 @@ _H_ index 71- 15,511 citations <br>
 `University of Bologna`
 
 - English Medical School Curriculum Development Committee, 2015-2017.
-- Consiglio del CdL in Medicine and Surgery
+- Consiglio del CdL in Medicine and Surgery, 2017-present
 
 `University of Houston`
 
-*   University of Houston Research Council 2004-2006 University Institution Biosafety Committee 2006-2011
-*   Chair, UH College of Pharmacy Research Committee, 2004-2005 UH College of Pharmacy P&T Committee 2007-2010
-*   UH College of Pharmacy Research Committee, 2000-2003
-*   UH College of Pharmacy Graduate Affairs Committee, 2000-2004
-*   UH College of Pharmacy Education Subcommittee on Curricular Issues 2003 UH Library and Information Technology Committee 2002-2004
-*   UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
+- University of Houston Research Council 2004-2006 University Institution Biosafety Committee 2006-2011
+- Chair, UH College of Pharmacy Research Committee, 2004-2005 UH College of Pharmacy P&T Committee 2007-2010
+- UH College of Pharmacy Research Committee, 2000-2003
+- UH College of Pharmacy Graduate Affairs Committee, 2000-2004
+- UH College of Pharmacy Education Subcommittee on Curricular Issues 2003 UH Library and Information Technology Committee 2002-2004
+- UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
 
 `National`
 
@@ -1613,6 +1613,6 @@ _H_ index 71- 15,511 citations <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2022 -->
 
 
