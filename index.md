@@ -1981,36 +1981,38 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 - __Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
-## Grant or guideline committees
-Grant reviewer, French -German Call for Projects on Antimicrobial Resistance AMR (2019-)
+## Grant or guideline committees 
+__French -German Call for Projects on Antimicrobial Resistance AMR__ (2019-)
 
-Grant reviewer, European Society for Clinical Microbiology and Infectious Diseases (2019-)
+__European Society for Clinical Microbiology and Infectious Diseases__ (2019-)
 
-Abstract reviewer, European Congress on Clinical Microbiology and Infectious Diseases (2019-)
+__European Congress on Clinical Microbiology and Infectious Diseases__ (2019-)
 
-Grant reviewer, British Society for Antimicrobial Chemotherapy (2016-present)
+__British Society for Antimicrobial Chemotherapy__ (2016-present)
 
-Grant reviewer, Foundation for Polish Science, Proposal Reviewer 2018-present
+__Foundation for Polish Science__ (2018-present)
 
-European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines. Antifungal pharmacology and therapeutic drug monitoring committee chair.
+__European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines.__
+<br> Antifungal pharmacology and therapeutic drug monitoring committee chair
 
-European Society of Clinical Microbiology and Infectious Diseases Aspergillosis Guidelines Committee Chair: Pharmacology Section
+__European Society of Clinical Microbiology and Infectious Diseases__
+<br> Aspergillosis Guidelines Committee Chair: Pharmacology Section_
 
-Mycoses Study Group Education and Research Consortium, [http://msgerc.org/](http://msgerc.org/) 
+__Mycoses Study Group Education and Research Consortium, [http://msgerc.org/]__(http://msgerc.org/) 
 
-Infectious Diseases Pharmacology Reviewer, Austrian Science Fund
+__Infectious Diseases Pharmacology Reviewer, Austrian Science Fund__
 
-NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites
+__NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites__
 
-External Ad-Hoc Reviewer, U.S. Armed Forces IRB
+__External Ad-Hoc Reviewer, U.S. Armed Forces IRB__
 
-External Ad-Hoc Reviewer, National Aeronautics and Space Administration (NASA)
+__Ad-Hoc Reviewer, National Aeronautics and Space Administration (NASA)__
 
-Grant reviewer, Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant reviewer
+__Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant__
 
-Grant reviewer, University of Texas NIH SCORE Proposals
+__University of Texas NIH SCORE Proposals__
 
-Grant reviewer, European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme. Brussels, BE
+__European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme__
 
 ## Service
 
