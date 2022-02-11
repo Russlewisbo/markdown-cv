@@ -37,7 +37,7 @@ russ.e.lewis@gmail.com
 
 United States of America; Permanent Residency Visa, Italy
 
-## Online Research Profiles
+## Research Profiles
 
 - ORCID ID: <a href="https://orcid.org/0000-0002-2002-4339">0000-0002-2002-4339</a>
 - Google scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=5mYwM2gAAAAJ">Profile</a>
