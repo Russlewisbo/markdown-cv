@@ -2051,8 +2051,5 @@ __National__
 `2009` University of Houston College of Pharmacy Award for Outstanding Research Achievement
 `2010` University of Houston College of Pharmacy Faculty Clinical Preceptor of the Yea
 `2010` University of Houston Award for Excellence in Faculty Research-Associate Professor Level (University-wide award voted by committee of faculty from across the University
-<!-- ### Footer
-
-Last updated: February 2022 -->
 
 
