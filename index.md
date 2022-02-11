@@ -250,6 +250,20 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 `2021`<br>	
 - __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
+- __Antifungal pipeline for invasive candidiasis__
+<br> Bertino bloodstream infection meeting (Virtual hybrid), Bertino (Romagna), Italy
+- __Antifungal stewardship best practices__
+<br> SHAPE 2021 Meeting (Virtual)
+- __Antifungal PK/PD in the critically ill and hematology patient__
+<br> Antifungal therapy: Myths and truths (Virtual hybrid), Brazil
+- __Antifungal TDM in critically-ill patients, which drugs and how?__ 
+<br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
+- __What is the right dose for CRRT and ECMO?__
+<br> ATHENA 2021 Conferernce (Virtual hybrid), Athens, Greece
+- __Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
+<br> Society of Infectious Diseases Pharmacists 2021 Fall Business Meeting (Virtual)
+- __Spiraling empiricism vs. science: The delimma of breakthrough fungal infections__
+<br> Society of Infectious Diseases Pharmacists 2021 Fall Business Meeting (Virtual)
 
 `2020` <br>		
 - __COVID-19 and invasive aspergillosis: Lessons learned.__ 
@@ -718,10 +732,11 @@ St. Louis, Missouri
 <br>Doctor of Pharmacy Seminar. University of Kansas Medical Center, Kansas City, Kansas
 
 
+
 ## Publications
 
 Scopus author ID: 7404846664 <br>
-_H_ index 71; 15,511 citations <br>
+_H_ index 71- 15,511 citations <br>
 
 1. Brüggemann RJ, Verheggen R, Boerrigter E et al. Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. The Lancet Haematology. 2022;9:e58-e72.
 
@@ -1329,23 +1344,203 @@ _H_ index 71; 15,511 citations <br>
 
 303. Lewis RE, Lund BC, Klepser ME, Ernst EJ, Pfaller MA. Assessment of antifungal activities of fluconazole and amphotericin b administered alone and in combination against Candida albicans by using a dynamic in vitro mycotic infection model. Antimicrobial Agents and Chemotherapy. 1998;42:1382-1386.
 
-### Journals
+### Publications: Book chapters
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+1.  Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 8<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2021.
+2.  Kontoyiannis DP and Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 10<sup>th</sup> edition. 2021.
+3.  Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 7<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017.
+4.  Kontoyiannis DP and Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 9<sup>th</sup> edition. 2019.
+5.  Lewis RE. Pharmacokinetics of azole antifungals, Chapter 7\. In: Winter’s Basic Clinical Pharmacokinetics 6<sup>th</sup> edition. Wolters Kluwer, 2018.
+6.  Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7 th Ed. American Society for Microbiology Press, 2017.
+7.  Lewis RE andKontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017
+8.  Lewis RE, Beyda N, Kontoyiannis DP. Caspofungin In: Use of antibiotics. Kucer 7<sup>th</sup> Ed. American Society for Microbiology Press, 2017
+9.  Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 6<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2017
+10.  Cleary JD, Lewis RE. Fungal infections. Koda-Kimble & Young's Applied Therapeutics, 11th Edition 2015\.
+11.  Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 4th Ed. MacGraw- Hill. Revised Chapter 2017.
+12.  Lewis RE., Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 4th Ed.. MacGraw-Hill. Revised Chapter 2017.
+13.  Lewis RE. Update on Invasive fungal infections. Pharmacotherapy Self-Assessment Program-15 (PSAP-15). American College of Clinical Pharmacy
+14.  Viale P, Lewis RE. Voriconazole treatment in invasive candidiasis. Voriconazole: Pharmacokinetics, Role in Therapeutic Drug Monitoring and Clinical Outcomes 2015\. p. 41-52.
+15.  Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandell, Bennet and Dolin eds. 8<sup>th</sup> edition. 2014.
+16.  Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials Casebook 3<sup>rd</sup> Ed. McGraw-Hill. Revised Chapter. 2013
+17.  Lewis RE. Management of Mucormycosis. Clinical Decision Support in Medicine 2014.
+18.  Lewis RE. Invasive Fungal Infections. Pharmacotherapy Essentials 3<sup>rd</sup> Ed.. McGraw-Hill. Revised Chapter 2011 (In press).
+19.  Shelbourn S, Lewis RE, Kontoyiannis DP. Management of fever in neutropenic patients. Hematology: Basic Principles and Practice. 5<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2014
+20.  Lewis RE & Kontoyiannis DP. The clinical significance of antifungal resistance in _Candida_ species. Candida and Candidiasis. American Society for Microbiology Press 2011.
+21.  Lewis RE and Kontoyiannis DP. Butenafine. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
+22.  Lewis RE and Kontoyiannis DP. Glucan synthesis inhibitors. In: Use of antibiotics. Kucer 6<sup>th</sup> Ed. American Society for Microbiology Press, 2010.
+23.  Lewis RE and DS Perlin. Antifungal drug resistance. In: Management of Infections in Cancer Patients. Humana Press, 2011.
+24.  Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials 2<sup>nd</sup> Ed. MacGraw-Hill. Revised Chapter, 2010.
+25.  Kontoyiannis DP & Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Mandall, Bennet and Dolin eds. 7<sup>th</sup> edition.
+26.  Lewis RE. Polyene antifungal agents. In: Aspergillosis: from Diagnosis to Prevention. In Pasqualotto AC ed. Springer Press. 2009.
+27.  Lewis RE. Antifungal Drug Interactions _In:_ Aspergillus and Aspergillosis. ASM Press 2008.
+28.  Lewis RE, Fothergill A. Antifungal Pharmacology. In: Hospenthal and Rinaldi. Clinical Mycology. Humana Press. 2008.
+29.  Lewis RE, Rogers PD. Invasive Fungal Infections. Pharmacotherapy Essentials. MacGraw-Hill. 2007.
+30.  Lewis RE. Infections in Immunocompromised Patients. In: Helms R, Quan DJ, eds. Textbook of Therapeutics: Drug and Disease Management Eighth Edition. Lippincott, Williams and Wilkins.2007
+31.  Wiederhold NP, Lewis RE. Murine model of invasive aspergillosis. Methods in Molecular Mycology. Academic Press. 2005
+32.  Lewis RE. Management of Primary and Secondary Invasive Mycoses. Pharmacotherapy Self-Assessment Program (PSAP). American College of Clinical Pharmacy 2005.
+33.  Lewis RE, Raad II. Treatment Approaches for Catheter-Related Infections In: Biofilm Infections: Role of Antibiotic Tolerance and Resistance Marcel Dekker, Inc. (In Press).
+34.  Klepser ME, Lewis RE. Antifungal Pharmacodynamics. In: Antimicrobial Pharmacodynamics in Theory and Practice. CH Nightingale, T Murakawa, PG Ambrose (ed.). Marcel Dekker, Inc., New York, New York. 2001
+35.  Lewis RE, Prince RA. Pharmacokinetic and pharmacodynamic principles of antimicrobial dosing in the neutropenic host. In: Febrile Neutropenia. Rubenstein E, Rolston KVI eds. Martin Dunitz, London. 2001
 
-`1669`
-Lectiones opticæ.
+### Conference abstracts/posters
 
-etc. etc. etc.
+1.  Lewis RE, Miller G, Reichly R, Schaiff RS, Hall T. Drug usage evaluation of G-CSF and GM-CSF at a tertiary care medical center. 1996\. ASHP Midyear Clinical Meeting. New Orleans, LA December 1996.
+2.  Klepser ME, Ernst EJ, Ernst ME, Lewis RE, Pfaller MA. Antifungal time-kill curves, influence of test conditions on results. 37<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1997\. Toronto, Ontario, Canada
+3.  Klepser ME, Ernst EJ, Biedenbach D, Lewis RE, Lund BC, Jones RN. Evaluation of low-dose, extended interval clindamycin regimens against _Staphylococcus aureus_ and _Streptococcus pneumoniae_ using a dynamic in vitro model of infection. American College of Clinical Pharmacy 1997 Annual Meeting. Phoenix, AZ.
+4.  Lund BC, Klepser ME, Ernst EJ, Lewis RE, Pfaller MA. Antifungal activity of fluconazole on _Candida albicans_in an in vitro dynamic model. American College of Clinical Pharmacy 1997 Annual Meeting. Phoenix, AZ.
+5.  Lewis RE, Klepser ME, Ernst EJ, Yeramian PD, Jones RN. Time-kill analysis of metronidazole activity against _Bacteroides_ spp. and _Clostridium difficile_. American Society for Microbiology. 98<sup>th</sup> General Meeting, 1998\. Atlanta, GA.
+6.  Lewis RE, Klepser ME, Pfaller MA. Evaluation of antifungal activity and the duration of the post-antifungal effect of 5-fluorocytosine monotherapy against pathogenic yeast. 38<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1998\. San Diego, CA.
+7.  Lewis RE, Klepser ME, Ernst EJ, Yeramian PD, Jones RN. Comparison of oral immediate-release (IR) and extended release (ER) metronidazole bactericidal activity against _Bacteroides_ spp. using an in vitro model of infection. 38<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1998\. San Diego, CA.
+8.  De Lallo VC, Lewis RE, Petzold RC, Pfaller MA, Klepser ME. Evaluation of amphotericin B (AmB) and flucytosine (5-FC) alone, and in combination against _Candida albicans_ and _Cryptococcus neoformans_ using time-kill methodology. American College of Clinical Pharmacy. 1998 Annual Meeting. Cincinnati, OH.
+9.  Klepser ME, Malone D, Lewis RE, Ernst EJ, Pfaller MA. Evaluation of Voriconazole Pharmacodynamics Using Time-kill Methodology. Conference on Antimicrobial Agents and Chemotherapy, 1999\. San Diego, CA.
+10.  Lewis RE, Klepser ME, Piscitelli SC, Groll A, De Lallo VC, Quintiliani R, Ernst EJ, Walsh T J, Pfaller MA. In vivo tissue activity of high-dose liposomal amphotericin B (AmBisome) in a neutropenic murine candidal thigh infection model. 39<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1999\. San Diego, CA.
+11.  Lewis RE, Diekema DJ, Messer SA, Pfaller MA, Klepser ME. Comparison of Etest, checkerboard dilution, and time-Kill testing for the detection of synergy or antagonism among Candida spp. 39<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1999\. San Diego, CA.
+12.  Klepser ME, Lewis RE, Ernst EJ, Pfaller MA, Society of Infectious Disease Pharmacists. Multicenter evaluation of standardized methods for conducting antifungal time-kill studies. 39<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 1999\. San Diego, CA.
+13.  Lewis RE, Turley JC. Susceptibility of community-acquired respiratory tract pathogens collected in Texas during 1998-1999: Analysis of Texas Data from the Cast Study. 38<sup>th</sup> Infectious Disease Society of America. 2000 New Orleans, LA
+14.  Rogers DP, Lewis RE, Chapman S. Antifungal activity of amphotericin B is not calcium dependent. 40<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2000\. Toronto, ONT
+15.  Lewis RE, Prince RA, Kontoyiannis DP. Pretreatment with Itraconazole Attenuates the Efficacy of Increasing Amphotericin B Dosages in a Murine Model of Invasive Pulmonary Aspergillosis. Platform Presentation-Animal Models of Infection Session. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001\. Chicago, IL.
+16.  Lewis, RE, Kontoyiannis DP, Dariouche RH, Raad II, and Prince RA. Antifungal activity of amphotericin B, fluconazole, and voriconazole in an in vitro model of Candida catheter-related bloodstream infection. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001\. Chicago, IL
+17.  Lewis RE, Lo HJ, Raad II, and Kontoyiannis, DP. Lack of catheter colonization by the _cph1/cph1 efg1/efg1_double null mutant, a _C. albicans_ strain that is defective in filamentous growth. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001\. Chicago, IL.
+18.  Kontoyiannis DP, Reddy BT, Bodey GP, Luna M, Lewis RE, Tarrand J, Raad II. Pulmonary Candidiasis in Cancer Patients: An autopsy study. Platform presentation. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001\. Chicago, IL
+19.  Kontoyiannis DP, Osherov N, Lewis, RE, Albert ND, May G. L-685, 818, an non-immunosuppressive calcineurin inhibitor enhances the activity of caspofungin (CAS) against _Aspergillus fumigatus_. 41<sup>st</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy, 2001\. Chicago, IL
+20.  Lewis RE, Neuhauser MN, Tarrand J, Kontoyiannis, DP. Species Distribution and Antifungal Susceptibility of _Candida_ Isolates from an Oncology-Specialty Hospital. American College of Clinical Pharmacy. 2001\. Annual Meeting. Tampa, FL.
+21.  Coyle E, RE Lewis, RA Prince. Activity of TMP/SMX against _Stenotrophomonas maltophilia_ in a _in vitro_
 
-### Patents
+pharmacodynamics infection model. Infectious Diseases Society of America, 2001, San Francisco, CA.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+1.  Lewis RE, H.A. Torres, G.S. May, I.I. Raad, J. Thornby, K.V.I. Rolston, D. Upadhyaya, G. P. Bodey, D. P. Kontoyiannis. In vitro susceptibility and tolerance of _Aspergillus_ species in a tertiary care cancer center: Correlation with invasive aspergillosis (IA) and its outcome. 42nd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2002, San Diego, CA.
+2.  Liu W, RE Lewis, GS May, D. P. Kontoyiannis. Preexposure of _A. fumigatus_ to fluconazole induces tolerance to itraconazole _in vitro_. 42nd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2002,San Diego, CA.
+3.  DP Kontoyiannis, GS May, RE Lewis, ND Albert, RA Prade. Deletion of the _hog_A gene, an osmotic stress regulator, results in hypersensitivity to caspofungin in the model mould _A. nidulans_. 42nd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2002, San Diego, CA.
+4.  DP Kontoyiannis, R. Hachem, RE Lewis, G. Rivero, H. Kantarjian, II Raad. Efficacy and toxicity of caspofungin/liposomal amphotericin B combination (platform presentation). 42nd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2002, San Diego, CA.
+5.  DP Kontoyiannis, RE Lewis, GS May, ND Albert, II Raad. Sequential exposure of _A. fumigatus_ to itraconazole and caspofungin:Evidence of enhanced in vitro activity of this combination. 42nd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2002, San Diego, CA.
+6.  Antoniadou A, Torres HA, RE Lewis, II Raad, J Thornby, J Tarrand, KVI Rolston, X Han, GP Bodey, DP Kontoyiannis. Bloodstream candidiasis in cancer patients. 42nd Interscience Conf. on Antimicrobial Agents and Chemotherapy, 2002, San Diego, CA.
+7.  Coyle E, RE Lewis, J Chi, KVI Rolston, RA Prince. Varying Doses of Levofloxacin and the Corresponding Relationship of Antimicrobial Activity and Resistance Selection against Pseudomonas aeruginosa. (Platform presentation) 42nd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2002, San Diego, CA.
+8.  Healy M, Reece K., Lewis RE, Kontoyiannis DP. Molecular Fingerprinting of _Candida_ and _Aspergillus_ species by automated rep-PCR. American Society for Microbiology 103<sup>rd</sup> General Meeting, 2003, Washington, D.C.
+9.  RE Lewis, J. Chi, N. P. Wiederhold, D. P. Kontoyiannis, X. Han, R. A. Prince. Detection of gliotoxin, an immunologically-active metabolite secreted by _Aspergillus fumigatus,_ in animals and humans with invasive aspergillosis. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+10.  NP Wiederhold, Chi J, Kontoyiannis DP, Prince RA, Lewis RE. In vitro reduction of the Aspergillus fumigatus metabolite gliotoxin by amphotericin B, caspofungin, and voriconazole. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+11.  NP Wiederhold, DP Kontoyiannis, J Chi, RA Prince, VH Tam, RE Lewis. In vivo pharmacodynamics of caspofungin in a murine model of invasive pulmonary aspergillosis. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL. Platform presentation
+12.  NP Wiederhold, DP Kontoyiannis, RE Lewis. In vitro pharmacodynamics of rapid vs continuous infusion amphotericin B deoxycholate in the presence of human serum albumin. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+13.  Hend HA, Chatzinikolaou, Alakech B, Hachem R, Lewis RE, Kontoyiannis DP, Tarrand JT, Raad IR. Differential positive quantitative blood cultures and the diagnosis of catheter related bloodstream infections. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+14.  MS Lionakis, RE Lewis, HA Torres, KVI Rolston, II Raad, DP Kontoyiannis. In vitro susceptibility of Aspergillus clinical isolates to AMB, ITZ and VRC by E-test and the effect of prior antifungal exposure. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+15.  RE Lewis, NP Wiederhold, ME Klepser. In vitro pharmacodynamics of amphotericin B, itraconazole and voriuconazole against Aspergillus, Fusarium and Scedosporium spp. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+16.  MS Lionakis, Lahdenranta J, Liu W, RE Lewis, R Pasqualini, W. Arap, DP Kontoyiannis. Biopanning as an approach to study the pathogenesis of invasive aspergillosis. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL
+17.  MS Lionakis, G. Halder, RE Lewis, GS May, ND Albert, DP Kontoyiannis . A non-vertebrate in vivo model to study invasive aspergillosis and its treatment with oral antifungals: early experience with _Drospohila_. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL. Platform presentation.
+18.  MS Lionakis, RE Lewis, DP Kontoyiannis. Pentamidine is active in vitro against Fusarium species. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+19.  MS Lionakis, RE Lewis, HA Torres, KVI Rolston, II Raad, DP Kontoyiannis. Comparison of the in vitro activities of modern antifungals against Aspergillus isolates from cancer patients. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+20.  KW Garey, MM Neuhauser, DT Bearden, JP Cannon, RE Lewis, LO Gentry, DP Kontoyiannis Evaluation of antifungal usage in SICU patients: A multi-institutional study. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL. Platform presentation.
+21.  Wiederhold NP, Lewis RE, Raad, II, Coyle EA, Prince RA. Comparaison of linezolid vs. vancomycin in a simulated model of catheter-related bloodstream infections. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+22.  VH Tam, An Shilling, RE Lewis, DA Melnick, and AN Boucher. A novel approach for studying the combined pharmacodynamics of antibacterial agents. 43rd Interscience Conference on Antimicrobial Agents and Chemotherapy, 2003, Chicago, IL.
+23.  Segal, B. Bernacki, W. Slocum H., Pera, P., D. Carly. Lewis R. E. Combination antifungal therapy with micafungin (Mica) and amphotericin B desoxycholate (Amb-d) prolongs survival in the p47phox-deficient mouse model of chronic granulomatous disease (CGD) with experimental pulmonary aspergillosis. 12<sup>th</sup> Annual Focus on Fungal Infection, New Orleans, LA
+24.  Lewis RE, NP Wiederhold, MS Lionakis, J Chi, , RA Prince, DP Kontoyiannis. Frequency and Distribution of Gliotoxin (GT)-Producing _Aspergillus_ Isolates Recovered from Patients at a Tertiary Care Cancer Center. 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C.
+25.  M. S. Lionakis, G. Halder, R. E. Lewis, N. P. Wiederhold, D. P. Kontoyiannis. Efficacy of Voriconazole in Experimental Aspergillosis in _Drosophila_. 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C. Platform presentation
+26.  M. S. Lionakis, G. Halder, R E Lewis, N. P. Wiederhold, G. S. May, D. P. Kontoyiannis. Experimental Aspergillosis in _Drosophila_: Influence of Mode of Infection on _Aspergillus_ Virulence. 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C.
+27.  Wiederhold NP, Kontoyiannis DP, Lewis RE. Eagle-like effect of caspofungin (CAS) against _Candida_ and _Aspergillus_ spp.; Association with homeostatic mechanisms of cell-wall integrity. 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C. Platform Presentation.
+28.  Wiederhold NP, Kontoyiannis DP, Lewis RE. Relationship between interferon gamma/ Interleukin-10 and mycological efficacy of amphotericin B in invasive pulmonary aspergilloisis. 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C.
+29.  D. P. Kontoyiannis, M. S. Lionakis , R. E. Lewis, M. Healy , G. Chamilos, G. P. Bodey, C. Perego , Safdar A, Kantarjian H, Champlin R , T. J. Walsh , I. I. Raad . Zygomycosis in the era of _Aspergillus_-Active Antifungal Therapy in a Tertiary Care Cancer Center: A Case Control Observational Study of 27 Recent Cases. 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C. Platform Presentation.
+30.  G. Chamilos, R.E. Lewis, D.P. Kontoyiannis. The Unique Alternative Mitochondria Susceptibility to Caspofungin (CAS). 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 842.
+31.  G. Chamilos, R. E. Lewis, M. S. Lionakis, G. Halder, D.P. Kontoyiannis. Experimental zygomycosis in _Drosophila melanogaster_. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1198.
+32.  G. Chamilos, M. Luna, R. E. Lewis, A. Safdar, G. P. Bodey, I. I. Raad, D. P. Kontoyiannis. Invasive Fungal Infections An Autopsy Study. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 996\. Platform presentation.
+33.  G. Chamilos, R. E. Lewis, D. P. Kontoyiannis. Lovastatin has Significant Activity against _Zygomycetes In vitro_ and _In vivo_ and shows _In vitro_ Synergy with Voriconazole. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 768.
+34.  R.E. Lewis, D. P. Kontoyiannis. Micafungin (MICA) In Combination With Voriconazole (VRC) In Aspergillus Species: A Pharmacodynamic Approach For Detection Of Synergy In Vitro. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1083.
+35.  Tam VH, A.N. Schilling, A.L. Kwa, N.P. Wiederhold, R.E. Lewis. Pharmacodynamics (PD) of Polymyxin B (PB) against Multi-drug Resistant (MDR) _Pseudomonas aeruginosa_ (PA). 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, 2004, Washington, D.C.
+36.  R.E. Lewis, Singh N, Limaye A, Husain S, Safdar N, Munoz P, Pursell K, Kontoyiannis D. Detection Of Synergy By XTT-Enhanced Checkerboard Dilution Testing Of Aspergillus: Correlation With Outcome In Patients With Invasive Aspergillosis Treated With Combination Voriconazole (VRC) and Caspofungin (CAS) Therapy. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1053.
+37.  G. Chamilos, R.E. Lewis, R.A. Prince, and D.P. Kontoyiannis. Zygomycetes Hyphae Are Less Susceptible To Killing By Polymorphonuclear Neutrophils (PMNs) Than _Aspergillus_ Hyphae_,_ Through Toll-like Receptor (TLR) Independent Mechanisms. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1232.
+38.  G. Chamilos, R.E. Lewis, D.P. Kontoyiannis. The Unique Alternative Mitochondria Susceptibility to Caspofungin (CAS). 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 842.
+39.  G. Chamilos, R. E. Lewis, M. S. Lionakis, G. Halder, D.P. Kontoyiannis. Experimental zygomycosis in _Drosophila melanogaster_. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1198.
+40.  G. Chamilos, M. Luna, R. E. Lewis, A. Safdar, G. P. Bodey, I. I. Raad, D. P. Kontoyiannis. Invasive Fungal Infections An Autopsy Study. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. New Orleans, LA. Abstract 996\. Platform presentation.
+41.  G. Chamilos, R. E. Lewis, D. P. Kontoyiannis. Lovastatin has Significant Activity against _Zygomycetes In vitro_ and _In vivo_ and shows _In vitro_ Synergy with Voriconazole. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC . Abstract 768.
+42.  R.E. Lewis, D. P. Kontoyiannis. Micafungin (MICA) In Combination With Voriconazole (VRC) In Aspergillus Species: A Pharmacodynamic Approach For Detection Of Synergy In Vitro. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC Abstract 1083.
+43.  R.E. Lewis, G. Chamilos, K.V. Komanduri, R. A, Prince, D.P. Kontoyiannis. Liposomal Amphotericin B (L-AMB) is Superior to Amphotericin B Deoxycholate (AMB-d) in Reducing Inflammatory Lung Injury (ILI) and Fungal Burden in Corticosteroid-Treated Mice with Invasive Pulmonary Aspergillosis (IPA). 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1028.
+44.  R.E. Lewis, G. Chamilos, D.P. Kontoyiannis, R. A. Prince. Pseudomonas aeruginosa (PSA) Attenuates Human Neutrophil killing of Aspergillus fumigatus (AF) Hyphae. 45<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Washington, DC. Abstract 1082.
+45.  D.P. Kontoyiannis, G. Chamilos, R.E. Lewis, J.A. Tarrand. Increased Culture Recovery of Zygomycetes under Physiologic Temperature Conditions. 43<sup>rd</sup> Infectious Disease Society of America, San Francisco, CA. Abstract 797.
+46.  RE Lewis, G Chamilos, RA Prince, D Kontoyiannis Empty liposomes reduce inflammatory lung injury and boost PMN fungal clearance in a corticosteroid-immunosuppressed murine model of acute invasive pulmonary aspergillosis. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1686\. Platform presentation.
+47.  RE Lewis, Guanling Liao, Jinggou Hou, G Chamilos, RA Prince, DP Kontoyiannis. Comparative analysis of amphotericin B lipid complex (ABLC) and lipsomal amphotericin B (L-AMB) Kinetics of Lung Accumulation and Fungal Clearance in a Murine Model of Acute Invasive Pulmonary Aspergillosis. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1689\. Platform presentation.
+48.  Chamilos G, Lewis RE, Albert ND, Kontoyiannis DP. Genome-wide screening for Genes Associated with Increased gliotoxin sensitivity in _Saccharomyces cerevisiae_. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1782.
+49.  Bhatti, Z, Dennis C, FEminella J, Brun Y, Almyroudis NG, Lewis RE, Hollad S, Petraitiene R, Walsh TJ, Segal B. Host defense against spergillosis in the p47_phox-_/- mouse model of chronic granulomatous disease. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1683.
+50.  Chamilos G, Lewis RE, Kontoyiannis DP. Dissecting the molecular aspects of immunopathogenisis of zygomycosis in _Drosophila melanongaster_. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1330.
+51.  DP Kontoyiannis, G Chamilos, Lewis RE, Manning J,Raad I, Han X. Increased bone marrow iron stores are an independent risk factor for invasive aspergillosis in severely immunocompromised cancer patients: A case control observational study. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 0295.
+52.  GA Lamaris, Chamiols G, Lewis RE, Raad I, Kontoyiannis DP. Scedosporiosis in a tertiary care cacner center in the past 16 years. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1428.
+53.  Chamilos G, Lewis RE, Lanaris G, Walsh TJ, Kontoyiannis DP. Rhizopus hyphae trigger an early proinflammatory response in human PMNs by selective activation of TLR 2\. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 1332.
+54.  Chamilos G, Lewis RE, Raad I, Kontoyiannis DP. Epidemiology and outcome of invasive zygomycosis in a tertiary care cancer center (1989-2006): A retrospective study of 95 episodes. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 0890.
+55.  Kontoyiannis DP, Chamilos G, Lewis RE, Manning J, Raad II, Han X. Increased bone marrow iron stores are an independent risk factor for invasive aspergillosis in severely immunocompromised patients: A case control study. 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract 034.
+56.  Lewis RE. What pharmacodynamics have taught us about treating fungal pneumonia: are we giving enough? 46<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. San Francisco, CA. Abstract M-0574.
+57.  Lewis R.E. Evaluating the Activity of Antifungal Agents In Vitro and In Vivo: Beyond Broth Microdilution. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL
+58.  Chamilos G., Lewis R.E., Kontoyiannis D.P. Delaying Amphotericin B (AMB)-Based Frontline Therapy Significantly Increases Mortality in Hematologic Malignancy (HM) Patients (pts) with Zygomycosis (Z). 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract M-619.
+59.  G Chamilos, Cj Nobile, Vm Bruno, RE Lewis, AP Mithcell, DP Kontoyiannis. A Novel _Candida albicans_ Transcriptional Regulator of Cell Wall Integrity Identified Through a Screen in Toll Deficient (_Tl_) Flies, Promotes Virulence in Mammals. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract B-1446.
+60.  GA Lamaris, RE Lewis, DP Kontoyiannis. Voriconazole (VRC) is Effective against Posaconazole (POSA)- Preexposed _Aspergillus fumigatus_ (AF) in Experimental Aspergillosis in Flies. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract B-1451.
+61.  DP Kontoyiannis, R. LEWIS <sup>1</sup>, O. LORTHOLARY <sup>2</sup>, N. SINGH<sup>3</sup>, And Crypto Tx Study Gp; Interactions between Immunosuppressants and Antifungals against _C. neoformans_ (_C.n_) and their Correlation with Outcomes in Solid Organ Transplant (SOT) Patients (pts) with Cryptococcosis. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract M-1850.
+62.  RE Lewis, ND Albert, DP Kontoyiannis. Comparison of the Dose-Dependent Activity and Paradoxical Effect of Caspofungin (CAS) and Micafungin (MICA) in a Neutropenic Murine Model of Invasive Pulmonary Aspergillosis (IPA). 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract M-1824.
+63.  Lamaris G, Lewis RE, Kontoyiannis DP. Voriconazole (VRC) Pre-Exposed _Rhizopus oryzae (Rh.o)_ has Increased Virulence in Experimental Zygomycosis in Flies and Mice. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract B-1449.
+64.  Lamaris G, Lewis RE, Chamilos G, Kontoyiannis DP. Caspofungin (CAS) Mediated Beta-Glucan (BG) Unmasking and Enhancement of Human Neutrophil (PMN) Activity against _Aspergillus_ spp. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL. Abstract M-1857.
+65.  G. Lamaris, RE Lewis, G. Chamilos, Dp Kontoyiannis. Caspofungin (CAS) Mediated Beta-Glucan Unmasking and Enhancement of Neutrophil (PMN) Activity against Non-_Aspergillus_ Moulds. 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL
+66.  RE Lewis, G. Chamilos, ND Albert, D Kontoyianis.;Efficacy of Single-Dose Liposomal Amphotericin B (L-AMB) or Micafungin (MICA) Prophylaxis in a Persistently Neutropenic Murine Model of Invasive Pulmonary Aspergillosis (IPA). 47<sup>th</sup> Interscience Conference on Antimicrobial Agents and Chemotherapy. Chicago, IL
+67.  Kofteridis D, Lewis RE, Kontoyiannis DP. Caspofungin non-susceptible _Candida_ spp isolates in cancer patients. 19<sup>th</sup> European congress of Clinical Microbiology and Infectious diseases (ECCMID). Helsinki, Finland, 05/2009.
+68.  Pongas GN, Lewis RE, Kontoyiannis DP. _Aspergillus fumigatus_ – _Pseudomonas aeruginosa_: Friends or foes? 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+69.  Ben-Ami R, Lewis RE, Leventakos K, Latge JP, Kontoyiannis DP. The importance of catalases for _aspergillus fumigatus_ virulence determined in a cutaneous model system. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+70.  Campo M, Lewis RE, Kontoyiannis DP. Invasive Fusariosis in Patients with Hematologic Malignancy at MD Anderson Cancer Center: The Last Decade. 47th Annual Meeting of the Infectious Diseases Society of America (IDSA), Philadelphia, PA, 10/2009.
+71.  Best L, Singh N, Ben-Ami R, Albert N, Raad II, Lewis RE, Kontoyiannis DP. In Vitro Interactions of Tacrolimus with Posaconazole or Caspofungin against Zygomycetes, Annual Meeting of the Infectious Diseases Society of America (IDSA), Philadelphia, PA, 10/2009.
+72.  Leventakos K, Lewis RE, Kontoyiannis DP. Posaconazole (POS) Plasma Concentrations in Hematological Malignancy (HM) Patients without Mucositis or Gut GVHD. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+73.  Leventakos K, Lewis RE, Kontoyiannis DP. Effect of low-dose caspofungin in a neutropenic and steroid- treated murine model of pulmonary mucromycosis. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009
+74.  Watson CC, Ben-Ami R, Lewis RE, Arias C Raad II, Kontoyiannis DP. A study of the role of panton-valentine leukocidin in mrsa virulence using wild-type and toll-deficient _drosophila melanogaster_. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+75.  Ben-Ami R, Lewis RE, Leventakos K, Kontoyiannis DP. _Aspergillus fumigatus_ inhibits angiogenesis through the production of gliotoxin and other secondary metabolites. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+76.  Ben-Ami R, Garcia-Effron G, Lewis RE, Leventakos K, Perlin DS, Kontoyiannis DP. Mutations in _candida albicans_ FKS1 conferring echinocandin resistance are associated with attenuated virulence. 49<sup>th</sup> Annual ICAAC meeting, San Francisco, CA, 9/2009.
+77.  Watson C, Ben-Ami R, Arias C, Raad II, Lewis RE, Kontoyiannis DP. A study of the panton-velentine leukocidin in methicillin resistant Staphylococcus aureus virulence using wild-type and toll-deficient Drosophila melanogaster. Platform presentation. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
+78.  Best L, Singh N, Ben-Ami R, Raad II, Lewis RE, Konotyiannis DP. In vitro interactions of tacrolimus with posaconazole or caspofungin against zygomycetes. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
+79.  Campo M, Lewis RE, Kontoyiannis DP. Invasive fusariosis in patients with hematologic malignancy at M.D. Anderson Cancer Center. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA, 2010.
+80.  Leventakos K, Lewis RE, Chamilos G, Tamboli P, Raad II, Luna M, Kontoyiannis DP. Trends in epidemiology and sites of involvement by invasive fungal infections in patients with hematologic malignacies: a 20 year autopsy study. 47<sup>th</sup> Infectious Diseases Society of America (IDSA) Meeting, Philadelphia, PA 2010.
+81.  Lewis RE, G Liao, Wang W, Prince RA, Kontoyiannis DP. Comparative in vivo selection for breakthrough mucormycisis of antifungals used to treat invasive pulmonary aspergillosis. 4<sup>th</sup> Advances Against Aspergillosis Meeting, Rome, Italy 2010.
+82.  Lewis RE, ND Albert, G. Lia, Wang W, Prince RA, Kontoyiannis DP. Efficacy of dosage escalation strategies for liposomal amphotericin B in the treatment of experimental _Aspergillus terreus_ pneumonia. 4<sup>th</sup> Advances Against Aspergillosis Meeting, Rome, Italy 2010.
+83.  Perez C, Tam VH, Ledesma K, Abdelraouf K, Kontoyiannis DP, Lewis RE. Comparative immunoprofiling of multidrug resistant (MDR) _P. aeruginosa_. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
+84.  Sampsonas F, Lewis RE, Kontoyiannis DP. Risk stratification for early mortality in patients with hematologic cancer and invasive pulmomary mucormycosis. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
+85.  Lewis RE, G. Liao, Kontoyiannis DP. Use of a murine macrophage reporter cell assay to characterize the immunopharmacodynamics of caspofungin against _Aspergillus fumigatus_. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
+86.  Ben-Ami, Lewis RE, Perlin D, Kontoyiannis DP. Candida albicans FKS1 hot spot mutations associated with echinocandin resistance affect biofilm formation. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA 2011.
+87.  Pongas GN, Lewis RE, Walsh TJ, Kontoyiannis DP. Activity of deferasirox against Mucorales: Influence of species, exogenous iron and sub-ceullular compartment. 50<sup>th</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Boston, MA. 2011.
+88.  Pongas GN, Lewis RE, Kontoyiannis DP. Invasive mould infections in pediatric cancer patients: a single institution, 10-year retrospective study. 48<sup>th</sup> Infectious Disease Society of America (IDSA) Meeting, Vancouver, BC, Canada 2011.
+89.  Ben- Ami R, Lewis RE, Kontoyiannis DP. In vitro interactions among echinocandins against _Aspergillus fumigatus_: Lack of concordance among methods. 48<sup>th</sup> Infectious Disease Society of America (IDSA) Meeting, Vancouver, BC, Canada 2011.
+90.  Stanzani M, Lewis RE, Fiacchini M<sup>,</sup> Ricci P, Tumietto F, Viale P, Ambretti S, Baccarani M, and Vianelli N. Development and validation of a risk-based score for invasive mold disease in patients with hematological malignancies. 17th International Meeting of the Immunocompromised Host Society. Platform presentation. Genoa, Italy. 2012
+91.  Girometti N, Lewis RE, Tumietto F, Ambretti S, Viale P. Bacteremia with _Klebsiella penumoniae_ carbapenemase (KPC)-Producing Organisms: Ana analysis of attributable mortality and risk factors for recurrance. Abstract B-2333\. 52<sup>nd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, San Francisco, CA. 2012
+92.  Lewis RE, Sampsonis F, Georgiadou S, Chamilos G, Kontoyiannis DP. Absolute lymphocyte count as a prognostic marker for early mortality in hematological malignancy patients with pulmonary mucormycosis.Abstract M-1994\. 52<sup>nd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, San Francisco, CA. 2012.
+93.  Lewis RE, Liao G, Young K, Douglas C, Kontoyiannis DP. In vitro immunopharmacodynamics of cell-wall active antifungals against _Candida albicans_ and _Aspergillus fumigatus_. Abstract M-1102\. 52<sup>nd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, San Francisco, CA. 2012
+94.  Lewis RE, Liao G, Young K, Douglas C, Konotyiannis DP. Conditional expression of cell-wall polysaccharide- encoding genes in _C. albicans_ and _A. fumigatus_ reproduces immunopharmacologic effects of caspofungin and nikkomycin Z exposure. Abstract M-1105\. 52<sup>nd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, San Francisco, CA. 2012
+95.  Lewis RE, Stanzani M, Ambretti S, Viale P, Vianelli N. Prospective cross-sectional observational study of documented infections in patients with hematological malignancies. Abstract P-2124\. 23rd European Congress of Clinical Microbiology and Infectious Diseases. Berlin, Germany
+96.  Bartoletti M, Girometti N, Lewis RE, Tumietto F, Cristini F, Ambretti S, Tedeschi S, Ciliberti MF, Lauria D, Finzi G, Viale P. Prospective, Cross-Sectional Observational Study of Hospitalized Patients Colonized with Carbapenemase-Resistant Klebsiella pneumoniae (CR-KP). Abstract P-968\. _Highlighted E-poster_. 23rd European Congress of Clinical Microbiology and Infectious Diseases. Berlin, Germany
+97.  Bartoletti M, Giannella M, Caraceni P, Domenicali M, Ambretti S, Tedeschi S, Lewis RE, Bernardi M, Viale P. Epidemiology and outcomes of bloodstream infections in patients with liver cirrhosis. 48<sup>th</sup> European Association for Study of the Liver, Amsterdam, NE 2013.
+98.  Lewis RE, Albert ND, Konotyiannis DP. Comparison of Posaconazole Pharmacodynamics in Neutropenic Murine Models of Sinopulmonary Aspergillosis and Mucormycosis. Abstract M-733\. 53<sup>rd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Denver, CO. 2013
+99.  Lewis RE, Stanzani M, Ambretti S, Tedeschi S, Viale P, Cavo M, Vianelli N. Prospective, cross-section observational study of 1,263 infection-related hospital admissions in 787 hematological malignancy patients with fever. Abstract P-1265., 24<sup>th</sup> European Congress on Clinical Microbiology Infectious Diseases, 2104\. Barcelona, Spain
+100.  Gaibani P, Lombardo D, Bartoletti M, Tedeschi S, Giannella M, Viale P, Lewis RE, M. Landini. Serum bactericidal assay (SBA) of three antimicrobial combination therapies against KPC-producing K. pneumoniae. Abstract, EP0231\. 26th European Congress of Clinical Microbiology and Infectious Diseases.
+101.  Giannella M, Marconi L, Graziano E, Tedeschi S, Bartoletti M, Girometti N, Tumietto F, Cristini F, Ambretti S, Giabiani P, Lewis RE, Viale P. Carbapenem-resistant Klebsiella pneumoniae bacteraemia: recurrence and impact of antibiotic treatment .Abstract 0118..26th European Congress of Clinical Microbiology and Infectious Diseases, Amsterdam, Netherlands
+102.  Bartoletti, M, Giannella M, Lewis RE, Schramm C, Bruns T, Merli M, Cobos-Tigueros N, Paul M, Seminari E, Rodríguez-Baño J, Bouza E, Santiago, Tumbarello M, Burra P, Torrani Cerenzia, Calbo E, Barsic B, Petrosillo, Galan Ladero NM, D'Offizi G, Viale Psd. Bloodstream infection in cirrhotic patients: a prospective multicentre study (bichrome). Abstract 0312.26th European Congress of Clinical Microbiology and Infectious Diseases, Amsterdam, Netherlands
+103.  Bartoletti, M., Tedeschi S, Pascale R, Maraolo A, Palmiero G, Luigi R, Tumietto F, Ambretti S, Cristini F, Lewis RE, Giannella M, Viale P. Does frontline use of tigecycline versus meropenem-based regimens for intra- abdominal infection reduce the risk for carbapenem resistant Klebsiella pneumoniae colonization or Clostridium difficile infection. Abstract S0893\. 27th European Congress of Clinical Microbiology and Infectious Diseases, Vienna, Austria
+104.  Giannella M, Paolucci M, Vandi G, Roncarati G, Trapani F, Bartoletti M, Tedeschi S, Campoli C, Ambretti S, Landini M, Lewis RE, Viale P. Potential impact of T2Candida assay on the use of empiric antifungal therapy in patients at high risk for candidaemia/invasive candidiasis: a tool for antifungal stewardship programmes? Abstract P0975; 27th European Congress of Clinical Microbiology and Infectious Diseases 2017, Vienna, Austria
+105.  Giannella M, Campoli C, Gaibani P, Conti M, Tedeschi S, Bartoletti M, Cristini F, Tumietto F, Viale P, Lewis RE. Utility of the serum bactericidal titre assay for monitoring antimicrobial therapy of carbapenem resistant Klebsiella pneumoniae. Abstract P1209\. 27<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2017\. Vienna, Austria.
+106.  Paolucci M, Roncarati G, Landini M, Lewis RE. Antifungal susceptibility testing for Candida spp.: agreement between EUCAST reference method and commercial tests. Abstract 0134\. 27<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2017\. Vienna, Austria.
+107.  Bartoletti M, Giannella M, Tedeschi S, Lewis RE, Viale P. Continuous infusion of beta-lactam antibiotics in patients with liver cirrhosis and bloodstream infection: results from a prospective, multicentre study. Abstract 0094\. 28<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2018\. Madrid, Spain.
+108.  Lewis RE, Beyda N, Albert ND, Kontoyiannis D. In vitro pharmacodynamics of isavuconazole, voriconazole, and posaconazole against agents of aspergillosis, mucormycosis, phaeohyphomycosis, fusariosis, and scedosporiosis. Abstract 0297\. 28<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2018\. Madrid, Spain.
+109.  Giannella M, Pascale R, Toschi A, Ferraro G, Furii F, Bartoletti M, Tedeschi S, Graziano E, Ambretti S, Lewis RE, Viale P. Impact of treatment duration on the risk of relapse in patients with Escherichia coli bloodstream infection Abstract 01184\. 28<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2019, Amsterdam, Netherlands
+110.  Glampedakis E, Cassaing S, Fekkar A, Dannaoui E, Bougnoux M, Bretagne S, Neofytos D, Schreiber P, Hennequin C, Morio F, Shadrivova O, Bongomin F, Fernandez Ruiz M, Bellanger A, Arikan-Akdagli S, Erard V, Aigner M, Paolucci M, Charpentier E, Bonnal C, Brun S, Gabriel F, Riat A, Zbinden R, Le Pape P, Klimko N, Lewis RE, Richardson M, İnkaya A, Coste A, Lamoth F. Invasive aspergillosis due to Aspergillus section Usti: a European multi-centre study. Abstract 01184\. 28<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2019, Amsterdam, Netherlands
+111.  Giannella M, Bartoletti M, Campoli C, Rinaldi M, Coladonato S, Pascale R, Tedeschi S, Ambretti S, Cristini F, Siniscalchi A, Bertuzzo V, Morelli M, Cescon M, Pinna A, Lewis RE, Viale P. Carbapenem-resistant Enterobacteriaceae infection risk after liver transplantation: the impact of colonisation. Abstract 01144\. 28<sup>th</sup> European Congress of Clinical Microbiology and Infectious Diseases, 2019, Amsterdam, Netherlands
+112.  Stanzani M , Sassi C, Sartor C, Battista G, Coppola P, and Lewis RE. Early Low-Dose Computed Tomography with Pulmonary Angiography to Improve the Diagnosis of Invasive Mould Disease in Patients with Haematological Malignancies: A Pilot Clinical Study. 9<sup>th</sup> Advances in Aspergillosis and Mucormycosis Meeting, Lugano, Switzerland
+
+### Webcontent
+
+1. Echinocandin Antifungals-Monograph. Up to Date [http://www.uptodate.com](http://www.uptodate.com/)
+2. Antifungal toolkit. Mycoses Study Group/Doctor fungus website. [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
+3. Editor Antifungal Pharmacology Pages, 2001-2012. [http://www.doctorfungus.org](http://www.doctorfungus.org/) (2002-2007)
+4. Pharmacoeconomic of antifungal therapy-Primary and Secondary Costs” Dr. Fungus Website (Drs. John Rex and Michael McGinnis, Editors) [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
+5. Pharmacokinetic optimization of itraconazole therapy. Fungal Research Trust- Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
+6.  Antifungal Pharmacology Module. Fungal Research Trust-Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
 
 
-## Occupation
+## Editorial Boards
+
+`2022`<br>
+
+- __Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
+<br> British Socieity of Antimicrobial Chemotherapy
+
+`202`<br>
+
+- __Associate Editor, Journal of Antimicrobial Chemotherapy
 
 `1600`
 __Royal Mint__, London
