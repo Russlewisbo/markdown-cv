@@ -1942,7 +1942,7 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 
 ## Web Content
 
-- Up to Date [http://www.uptodate.com](http://www.uptodate.com/) Echinocandin Antifungals-Monograph. 
+- Up to Date [http://www.uptodate.com](http://www.uptodate.com/), Echinocandin Antifungals Monograph. 
 - Mycoses Study Group/Doctor fungus website. [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
 - Doctor fungus website Editor Antifungal Pharmacology Pages, 2001-2012. [http://www.doctorfungus.org](http://www.doctorfungus.org/) (2002-2007)
 - Pharmacoeconomic of antifungal therapy-Primary and Secondary Costs” Dr. Fungus Website [http://www.doctorfungus.org/](http://www.doctorfungus.org/)
