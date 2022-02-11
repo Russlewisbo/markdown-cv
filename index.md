@@ -1671,6 +1671,9 @@ __Scopus author ID: 7404846664 <br>
 
 34. Lewis RE, Prince RA. Pharmacokinetic and pharmacodynamic principles of antimicrobial dosing in the neutropenic host. In: Febrile Neutropenia. Rubenstein E, Rolston KVI eds. Martin Dunitz, London. 2001
 
+## Book Translation Editor
+Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, M. Cavo, P. Zinzani. 1st edition.
+
 ## Conference abstracts/posters
 
 1. Lewis RE, Miller G, Reichly R, Schaiff RS, Hall T. Drug usage evaluation of G-CSF and GM-CSF at a tertiary care medical center. 1996\. ASHP Midyear Clinical Meeting. New Orleans, LA December 1996.
