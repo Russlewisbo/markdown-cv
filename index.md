@@ -1981,18 +1981,36 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 - __Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
-## Grant review committees
-*   Grant reviewer, French -German Call for Projects on Antimicrobial Resistance AMR 2019-2021
-*   Grant reviewer, European Society for Clinical Microbiology and Infectious Diseases 2019-Present
-*   Abstract reviewer, European Congress on Clinical Microbiology and Infectious Diseases, 2019-Present
-*   Grant reviewer, British Society for Antimicrobial Chemotherapy 2016-present Grant reviewer, Foundation for Polish Science, Proposal Reviewer 2018-present
-*   European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines. Antifungal pharmacology and therapeutic drug monitoring committee chair.
-*   European Society of Clinical Microbiology and Infectious Diseases Aspergillosis Guidelines Committee Chair: Pharmacology Section
-*   Mycoses Study Group Education and Research Consortium, [http://msgerc.org/](http://msgerc.org/) Infectious Diseases Pharmacology Reviewer, Austrian Science Fund
-*   NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites
-*   External Ad-Hoc Reviewer, U.S. Armed Forces IRB
-*   Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant reviewer, University of Texas NIH SCORE Proposals
-*   Grant reviewer. European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme. Brussels, BE
+## Grant or guideline committees
+Grant reviewer, French -German Call for Projects on Antimicrobial Resistance AMR (2019-)
+
+Grant reviewer, European Society for Clinical Microbiology and Infectious Diseases (2019-)
+
+Abstract reviewer, European Congress on Clinical Microbiology and Infectious Diseases (2019-)
+
+Grant reviewer, British Society for Antimicrobial Chemotherapy (2016-present)
+
+Grant reviewer, Foundation for Polish Science, Proposal Reviewer 2018-present
+
+European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines. Antifungal pharmacology and therapeutic drug monitoring committee chair.
+
+European Society of Clinical Microbiology and Infectious Diseases Aspergillosis Guidelines Committee Chair: Pharmacology Section
+
+Mycoses Study Group Education and Research Consortium, [http://msgerc.org/](http://msgerc.org/) 
+
+Infectious Diseases Pharmacology Reviewer, Austrian Science Fund
+
+NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites
+
+External Ad-Hoc Reviewer, U.S. Armed Forces IRB
+
+External Ad-Hoc Reviewer, National Aeronautics and Space Administration (NASA)
+
+Grant reviewer, Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant reviewer
+
+Grant reviewer, University of Texas NIH SCORE Proposals
+
+Grant reviewer, European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme. Brussels, BE
 
 ## Service
 
