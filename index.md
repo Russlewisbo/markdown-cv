@@ -47,22 +47,22 @@ United States of America; Permanent Residency Visa, Italy
 ## Professional Experience
 
 `2013-Present`
-__Associate Professor of Infectious Diseases (MED/17) with Tenure | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
+__Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
 
 `2011-2012`
-__Full Professor with Tenure, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
+__Full Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
 
 `2005-2011`
-__Associate Professor with Tenure, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
+__Associate Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy, __ | Houston, Texas
 
 `2005-2007`
-__Chair, ad interm, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
+__Chair, ad interm,Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
 
 `2000-2011`
 __Adjunct Faculty, Division of Infectious Diseases, Infection Control and Employee Health, The University of Texas M.D. Anderson Cancer Center__ |  Houston, Texas
 
 `1999-2005`
-__Assitant Professor, University of Houston College of Pharmacy, Department of Clinical and Administrative Sciences__ | Houston, Texas
+__Assitant Professor, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
 
 ## Education 
 
@@ -720,7 +720,7 @@ __Differentiating the Quinolones-Do we really need new agents?__
 `1997`<br>
 
 - __Pharmacodynamic Evaluation of Combination Amphotericin B-Fluconazole Activity Using an In Vitro Infection Model__
-- <br> Fellow Seminar Series. University of Iowa. Iowa City, Iowa
+<br> Fellow Seminar Series. University of Iowa. Iowa City, Iowa
 - __Evolving Role of Oral Antimicrobial Therapy-__
 <br> Pulmonology Conference Series. Barnes-Jewish Hospital. Washington University Medical School.
 St. Louis, Missouri
@@ -744,7 +744,7 @@ St. Louis, Missouri
 ## Publications
 
 Scopus author ID: 7404846664 <br>
-_H_ index 71- 15,511 citations <br>
+H index 71- 15,511 citations <br>
 
 1. Brüggemann RJ, Verheggen R, Boerrigter E et al. Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. The Lancet Haematology. 2022;9:e58-e72.
 
@@ -1545,11 +1545,11 @@ _H_ index 71- 15,511 citations <br>
 
 `2016-2021`
 
-- __Associate Editor, Journal of Antimicrobial Chemotherapy
+- __Associate Editor, Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2013-2020`
-- __Editor, Mycoses__
+- __Deputy Editor, Mycoses__
 <br> Deutschsprachige Mykologische Gesellschaft
 
 
@@ -1566,7 +1566,7 @@ _H_ index 71- 15,511 citations <br>
 - __Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
-## Grant review committee
+## Grant review committees
 *   Grant reviewer, French -German Call for Projects on Antimicrobial Resistance AMR 2019-2021
 *   Grant reviewer, European Society for Clinical Microbiology and Infectious Diseases 2019-Present
 *   Abstract reviewer, European Congress on Clinical Microbiology and Infectious Diseases, 2019-Present
@@ -1603,11 +1603,6 @@ _H_ index 71- 15,511 citations <br>
 *   Chair, Internet Committee, Society of Infectious Disease Pharmacists 2001-2002 Guidelines and Publications Committee, American Society of Clinical Pharmacy 2001-2002 Publications Committee, Society of Infectious Diseases Pharmacists 1998 1999.
 *   Publications Committee, ACCP Infectious Diseases PRN 1998-1999.
 
-## University of Houston
-
-
-
-## University of Bologna
 
 
 
