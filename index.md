@@ -5,14 +5,12 @@ title: Russell Lewis's CV
 # Russell Edward Lewis
 Associate Professor, Infectious Diseases (MED/17)
 
-I am a clinical pharmacist and an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. I have over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
-
+I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial/antifungal pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
 
 <div id="webaddress">
 <a href="https://www.unibo.it/sitoweb/russeledward.lewis">UNIBO Webpage</a>
 | <a href="http://russlewisid.com">Personal website</a>
 </div>
-<br>
 
 last update: 2/02/2022
 
@@ -43,7 +41,7 @@ United States of America; Permanent Residency Visa, Italy
  
 ## Professional Experience
 
-`2013-Present`
+`2013-`
 __Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__ | Bologna, Italy
 
 `2011-2012`
@@ -79,13 +77,17 @@ __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches
 
 ## Professional Licensure
 
+`1997-`
 - __Licensed Pharmacist__: Missouri (Previously Texas)
-- __Board Certified Pharmacotherapy Specialist with Added Qualifications in Infectious Diseases__: 2001-2015
+
+`2001-2015`
+- __Board Certified Pharmacotherapy Specialist__
+<br> Added qualifications in infectious diseases
 
 ## Clinical Practice Experience
 
-`2012-Present`
-__Clincial Pharmacologist, UO Malattie Infettive (Viale)-IRCCS Policlinico S. Orsola-Malpighi__ | Bologna, Italy
+`2012-`
+__Clincial Pharmacologist, UO Malattie Infettive IRCCS Policlinico S. Orsola-Malpighi__ | Bologna, Italy
 
 `2000-2011`
 __Clinical Staff (Pharmacy) and Faculty (Medicine) Infectious Diseases Consultation Services, The University of Texas M.D. Anderson Cancer Center__ | Houston, Texas
@@ -100,89 +102,91 @@ __Clinical Pharmacist, Barnes-Jewish Hospital__ | St. Louis, Missouri
 __Pharmacy Intern, St. Francis regional Hospital__ | Topeka, Kansas
 
 `1992-1995`
-__Laboratory Research Assistant, Department of Pharmacology and Toxicology (PI: Morris Faiman, Ph.D.), University of Kansas School of Pharmacy__ | Lawrence, Kansas
+__Laboratory Research Assistant, Department of Pharmacology and Toxicology, University of Kansas School of Pharmacy__ | Lawrence, Kansas
 
 ## Doctoral/Post-Doctoral Students Supervised
 
 `2002-2004`
-__Nathan Widerhold, Pharm.D.__ Thesis: "Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis" | Houston, Texas 
+__Nathan Widerhold, Pharm.D.__ Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis | Houston, Texas 
 
 `2014-2015`
-__Irene Zaghi, M.D.__  Thesis: “Diagnostic Meta-Analysis of Serum Bactericidal Testing” | Bologna, Italy 
+__Irene Zaghi, M.D.__  Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing | Bologna, Italy 
 
 `2018-2019`
-__Giulia De Luca, M.D__ Thesis: "Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae”
+__Giulia De Luca, M.D__ Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
 
 `2019-2020`
-__Mayleko Mohamedwais, M.D.__ Thesis: "Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation" | Bologna, Italy
+__Mayleko Mohamedwais, M.D.__ Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation | Bologna, Italy
 
 `2018-2021`
-__Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: "Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections" | Bologna, Italy
+__Irene Zaghi, M.D.__ Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predicint Infection Outcome and Catheter-Related Bloodstream Infections | Bologna, Italy
 
 ## Teaching Experience
 
 `2021-present`
-__9730- Global Health, Antimicrobial Therapy and Vaccines__ | University of Bologna, Italy
+__9730- Global Health, Antimicrobial Therapy and Vaccines__ | 
+<br> University of Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
 __79947 – Malattive Infettive II__ | University of Bologna, Italy <br>
-- “Antimicrobial pharmacokinetics and pharmacodynamics” 
-- “Antifungal pharmacokinetics and pharmacodynamics”
+- Antimicrobial pharmacokinetics and pharmacodynamics 
+- Antifungal pharmacokinetics and pharmacodynamics
 
 `2014-2021`
 __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ | University of Houston College of Pharmacy, Houston, Texas <br>
 
-- “The clinician and the microbiology laboratory”
-- “Aerosolized and percutaneous antibiotic dosing” 
-- “Immunology of ID”
-- “Antibiotic hypersensitivity and allergy” 
-- “Vaccination”
-- “Antifungal therapy”
+- The clinician and the microbiology laboratory
+- “Aerosolized and percutaneous antibiotic dosing 
+- “Immunology of ID
+- Antibiotic hypersensitivity and allergy
+- Vaccination
+- Antifungal therapy
 
 `2007-2011`
 __PHAR 4308. Cellular Life Sciences II__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- “Adversarial pathogen strategies during infection, Parts 1-3” 
-- “Immunobiologicals used in transplant and oncology”
+- Adversarial pathogen strategies during infection, Parts 1-3 
+- Immunobiologicals used in transplant and oncology
 
 `2007-2011`
 __PCOL 6371-Advanced Pharmacology II__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- “Principles of Host Immunity” 
-- “Immunopharmacology”
-- “Pharmacology of anti-inflammatory agents”
+- Principles of Host Immunity 
+- Immunopharmacology
+- Pharmacology of anti-inflammatory agents
 
 `2000-2010`
 __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- “Essentials of in vitro testing of antimicrobials” 
-- “Molecular mechanisms of antibacterial resistance” 
--  “Quinolone antibiotics” 
--  “Macrolides, lincosamides, streptogramins, and linezolid” 
--  “Systemic antifungal agents”
--  "Immunology of Infectious Diseases” 
--  “Vaccinations” 
+-  Essentials of in vitro testing of antimicrobials 
+-  Molecular mechanisms of antibacterial resistance
+-  Quinolone antibiotics 
+-  Macrolides, lincosamides, streptogramins, and linezolid 
+-  Systemic antifungal agents
+-  Immunology of Infectious Diseases 
+-  Vaccinations 
 
 `2007-2010`
 __University of Houston Residency Certificate Program__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- "Academic careers”
-- "Scientific publication”
+- Academic careers
+- Scientific publication
 
 `1999-2011`
 __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- “Systemic Fungal Infections” 
-- “Infective Endocarditis”
-- “Sexually Transmitted Diseases”
-- “Septic Meningitis” 
-- “Tuberculosis” 
-- “Immunology of auto-immune diseases” 
-- “Drug Hypersensitivity” 
+- Systemic Fungal Infections 
+- Infective Endocarditis
+- Sexually Transmitted Diseases
+- Septic Meningitis 
+- Tuberculosis 
+- Immunology of auto-immune diseases 
+- Drug Hypersensitivity 
 
 `2001-2011`
 __PHAR 5229 Research Methodologies in Pharmaceutical Research__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- “Animal Models in Pharmaceutical Development” 
+- Animal Models in Pharmaceutical Development
 
 `2001-2011`
 __PHAR 5682 Infectious Diseases Clinical Clerkship__ | University of Houston College of Pharmacy, Houston, Texas <br>
-- Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service, The University of Texas M.D. Anderson Cancer Center
+ The University of Texas M.D. Anderson Cancer Center
+- Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service,
 - Solid Tumor Malignancies Consult Service, The University of Texas M.D. Anderson Cancer Center
 - Intensive Care Unit Consult Service, The University of Texas M.D. Anderson Cancer Center
 
