@@ -100,7 +100,7 @@ __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches
 ## Clinical Practice Experience
 
 `2012-`
-__Clincial Pharmacologist, UO Malattie Infettive IRCCS Policlinico S. Orsola-Malpighi__ 
+__Clincial Pharmacologist UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
 <br> Bologna, Italy
 
 `2000-2011`
