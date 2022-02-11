@@ -599,101 +599,101 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 
 `2003`<br>
 
-- __Antifungal Therapy and Evidence-Based Medicine__
+- __Antifungal therapy and Evedence-based medicine__
 <br> ASHP Annual Meeting, New Orleans, Louisiana
-- __The Perfect Storm In Infectious Diseases__
+- __The perfect storm in infectious diseases__
 <br> ASHP Section of Clinical Specialists and Scientist Network Assembly. Moderator. ASHP Annual Meeting, New Orleans, Louisiana
-- __Antibiotic Selection in Gynecology-Oncology Patient__
+- __Antibiotic selection in gynecology-oncology patient__
 <br> Gynecology-Oncology Grand Rounds. The University of Texas M.D. Anderson Cancer Center, Houston, TX
-- __Significant Papers in Pharmacotherapy—SARS__
+- __Significant papers in pharmacotherapy—SARS__
 <br> American College of Clinical Pharmacy Annual Meeting, Atlanta, Georgia
-- __Menacing Moulds and New Antifungals__
+- __Menacing moulds and new antifungals__
 - <br> Gulf Coast Society of Health-System Pharmacists, Houston, Texas
 - __Antifungal therapy consideration in the transplant patient__
 <br> Good Samaritan Hospital, Phoenix, Arizona
-- __Antifungal Resistance-Is the Fluconazole Era Over?__
+- __Antifungal resistance-Is the fluconazole era over?__
 <br> University of Missouri-Kansas City Infectious Diseases Symposium
-
-- __Antifungal Resistance__
+- __Antifungal resistance__
 - <br> Oklahoma Society of Health System Pharmacist Annual Meeting, Oklahoma City, Oklahoma
-- __Pharmacotherapy of Invasive Candidiasis__
+- __Pharmacotherapy of invasive candidiasis__
 <br> Citywide Pharmacy CE Conference. Denver, Colorado
-- __Invasive Candidiasis__
+- __Invasive candidiasis__
 <br> St. Lukes Hospital, Houston, Texas
-- __Menacing Moulds__ 
+- __Menacing moulds__ 
 <br> Great Lakes CE Conference. Grand Rapids, Michigan
-- __Echinocandins and Lipid AMB formulations.” 
-<br> Mycoses 2002 Symposia (given with Drs. Gerald Bodey, Dimitrios Kontoyiannis, and Issam Raad. Houston, Texas
+- __Echinocandins and Lipid AMB formulations__ 
+<br> Mycoses 2002 Symposia (given with Drs. Gerald Bodey, Dimitrios Kontoyiannis, and Issam Raad) Houston, Texas
 
 `2002`<br>
 
 - __Beyond Microdilution Broth Antifungal Susceptibility Testing__ 
-<br> Pre-symposium to the 41st, 42nd and 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, Antifungal Susceptibility Testing for the Clinician. San Diego, CA, Chicago, Il, and Washington, D.C.
-
-
+<br> Pre-symposium to the 41st, 42nd and 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, Antifungal Susceptibility Testing for the Clinician. San Diego, California, Chicago, Illinois, and Washington, D.C
 - __Respiratory Infection Update__
 <br> Texas Academy of Family Practice Physicians- Fall CME Symposium, Houston, Texas
-
 - __Management of Invasive Fungal Infections in the Critically Ill Patient__
 <br> Infectious Disease Pharmacotherapy CE Symposium, San Antonio, Texas
+- __New Agents and Evolving Strategies for Life-Threatening Fungal Infections in the Immunocompromised Patients__ 
+<br> The 24th Annual M.D. Anderson Cancer Center Pharmacy Symposium on Cancer Chemotherapy. Houston, Texas
+- __Controversies in Antifungal Pharmacology__
+<br> Citywide ID conference. Seattle, Washington
+- __Is Immunodysregulation a Virulence Factor for Aspergillus__
+- <br> Houston Area Mycoses Study Group. The University of Texas M.D. Anderson Cancer Center, Houston, Texas
+- __The Immunology of Effective Antifungal Therapy__
+<br> M.D. Anderson Cancer Center Infectious Diseases Research Conference, Houston Texas
 
-2002	“New Agents and Evolving Strategies for Life-Threatening Fungal Infections in the Immunocompromised Patients.” Given with Dr. Dimitrios Kontoyiannis, M.D.). The 24th Annual M.D. Anderson Cancer Center Pharmacy Symposium on Cancer Chemotherapy. Houston, TX
-2002	“Controversies in Antifungal Pharmacology,” Citywide ID conference. Seattle, WA
-2002	Is Immunodysregulation a Virulence Factor for Aspergillus? Houston Area Mycoses Study Group. The University of Texas M.D. Anderson Cancer Center, Houston, TX
-2002	The Immunology of Effective Antifungal Therapy- M.D. Anderson Cancer Center Infectious Diseases Research Conference, Houston TX.
-2001	“New antifungal formulations, new antifungal targets”
--Grand Rounds, Fairfax Hospital, Fairfax, Virginia Baylor Medical Center, Dallas, Texas
--Texas Society of Health System Pharmacists, Annual Meeting Austin, Texas
--Kentucky Society of Health System Pharmacists, Annual Meeting Louisville, Kentucky
--Infectious Diseases Pharmacy Symposium, Albuquerque, New Mexico
--Infectious Diseases Citywide Symposium, Phoenix, Arizona
--Oklahoma Society of Health System Pharmacists, Tulsa OK
+`2001`<br>
 
-2001	“The Dilemma of Defining Optimal Treatment Strategies for Refractory Mycoses.” Satellite symposium Invasive Fungal Infections at the 2001 ACCP
-Annual Meeting. Tampa, FL
-2001	“New antibiotic update” Ft. Bend Physician Medical Society, Sugarland, TX
-2001	“Pharmacology of Current and Future Antifungals” Infectious Diseases Morning Rounds, Barnes-Jewish Hospital at Washington University Medical Center,
-St. Louis, MO.
-2001	“Pharmacology of Current and Future Antifungals” at Mycoses 2001
-(with Drs. John Rex, Richard Hamill, and Dimitrios Kontoyiannis), Houston, TX
+- __New antifungal formulations, new antifungal targets__
+<br> Grand Rounds, Fairfax Hospital, Fairfax, Virginia 
+<br> Baylor Medical Center, Dallas, Texas
+<br> Texas Society of Health System Pharmacists, Annual Meeting Austin, Texas
+<br> Kentucky Society of Health System Pharmacists, Annual Meeting Louisville, Kentucky
+<br> Infectious Diseases Pharmacy Symposium, Albuquerque, New Mexico
+<br> Infectious Diseases Citywide Symposium, Phoenix, Arizona
+<br> Oklahoma Society of Health System Pharmacists, Tulsa Oklahoma
+- __The Dilemma of Defining Optimal Treatment Strategies for Refractory Mycoses__
+<br> 2001 American College of Clinical Pharmacy Meeting, Tampa, Florida
+- __New antibiotic update-__
+<br> Ft. Bend Physician Medical Society, Sugarland, Texas
+- __Pharmacology of Current and Future Antifungals__
+<br> Infectious Diseases Morning Rounds, Barnes-Jewish Hospital at Washington University Medical Center, St. Louis, MO.
+- __Pharmacology of Current and Future Antifungals__
+<br> Mycoses 2001 (with Drs. John Rex, Richard Hamill, and Dimitrios Kontoyiannis), Houston, Texas
 
 `2000`<br>
 
-2000	“New Antimicrobials for Resistant Gram-Positive Infections” Dallas, TX.
-2000	“What is Considered Broad-Spectrum Therapy? A re-examination of the ATS Guidelines for Nosocomial Pneumonia” Memorial Southwest Hospital (Baylor) Grand Rounds, Houston, TX
-2000	“Controversies in the Management of Invasive Fungal Infections.”
-Presented: -Southwestern Med. School Infect. Dis. Grand Rounds, Dallas, Texas
-
-Grand Rounds, Wilford Hall Medical Center, San Antonio, TX
-Clinical Updates 2000- Annual Meeting of the California Society of Health System Pharmacists, Palm Springs, CA.
-Winter CE meeting of the Southern Colorado Society of Health System Pharmacists, Colorado Springs, CO
-Grand Rounds, Memorial Southeast Medical Center, Houston, TX
-
-2000	“New Antimicrobials for the Post-Antibiotic Era” UH Infectious Diseases Continuing Education Symposium, Texas Medical Center Marriott Hotel, Houston, Texas
-
-2000	“Are We Nearing the End of the Fluconazole Era?” Advances in Oncology Institutional Grand Rounds. M.D. Anderson Cancer Center (Given with Drs. Gerald Bodey and Issam Raad). Houston, TX
-
-2000	“Antifungal Pharmacodynamics” M.D. Anderson Infectious Diseases Research Conference, Houston TX.
-
-2000	“Differentiating the Quinolones-Do we really need new agents?”
--Resident Grand Rounds, Corpus Christi, TX
--Houston Area Society of Otolaryngologists, Houston, TX.
-
-- __Implications of Streptococcal Resistance for Antibiotic Therapy__
+- __New Antimicrobials for Resistant Gram-Positive Infections__
+<br> Parkland Medical Center Infectious Diseases Dallas, Texas
+- __What is Considered Broad-Spectrum Therapy? A re-examination of the ATS Guidelines for nosocomial pneumonia__
+<br> Memorial Southwest Hospital (Baylor) Grand Rounds, Houston, Texas
+-__Controversies in the Management of Invasive Fungal Infections__
+<br> Southwestern Med. School Infectious Diseases Grand Rounds, Dallas, Texas
+<br> Grand Rounds, Wilford Hall Medical Center, San Antonio, Texas
+<br> Clinical Updates 2000- Annual Meeting of the California Society of Health System Pharmacists, Palm Springs, California
+<br> Winter CE meeting of the Southern Colorado Society of Health System Pharmacists, Colorado Springs, Colorado
+<br> Grand Rounds, Memorial Southeast Medical Center, Houston, Texas
+-__New Antimicrobials for the Post-Antibiotic Era__
+<br> UH Infectious Diseases Continuing Education Symposium, Texas Medical Center Marriott Hotel, Houston, Texas
+__Are We Nearing the End of the Fluconazole Era?__ 
+<br> Advances in Oncology Institutional Grand Rounds. M.D. Anderson Cancer Center (Given with Drs. Gerald Bodey and Issam Raad). Houston, Texas
+__Antifungal Pharmacodynamics__
+<br> M.D. Anderson Infectious Diseases Research Conference, Houston Texas
+__Differentiating the Quinolones-Do we really need new agents?__
+<br> Resident Grand Rounds, Corpus Christi, Texas
+<br> Houston Area Society of Otolaryngologists, Houston, Texas.
+- __Implications of streptococcal resistance for antibiotic therapy__
 <br> Border Issues and Resistance, University of Texas CME Otolaryngology Conference. McAllen, Texas
 
 `1999`<br>
 
 - __Antifungal Pharmacodynamics-What Emerging Data Are Telling Us About Dosing Antifungal Therapy__
 <br> Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. University of Houston College of Pharmacy. Houston, Texas
-
 - __Should Combinations of Amphotericin B and Fluconazole Be Used for the Treatment of Candidemia?__ <br> University of Wisconsin College of Pharmacy, Madison, Wisconsin
 
 `1998`<br>
 
 - __IDSA Guidelines for the Treatment of Community Acquired Pneumonia:Resistant S. pneumoniae and the Role of Quinolones__
 - <br> Fellowship Forum. University of Iowa, Iowa City, Iowa
-
 
 `1997`<br>
 
@@ -716,7 +716,6 @@ St. Louis, Missouri
 
 - __Continuous infusion loop diuretics to overcome diuretic resistance__ 
 <br>Doctor of Pharmacy Seminar. University of Kansas Medical Center, Kansas City, Kansas
-
 
 
 ## Publications
