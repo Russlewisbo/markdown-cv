@@ -79,7 +79,7 @@ __Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Med
 <br> St. Louis, Missouri
 
 `1997-1999`
-__Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ <br>
+__Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ 
 <br> Iowa City, Iowa
 
 ## Training courses
@@ -123,13 +123,19 @@ __Pharmacy Intern, St. Francis regional Hospital__
 __Laboratory Research Assistant, Department of Pharmacology and Toxicology, University of Kansas School of Pharmacy__ 
 <br> Lawrence, Kansas
 
-## Doctoral/Post-Doctoral Students Supervised
+## Post-doctoral students
 
 `2002-2004`
 __Nathan Widerhold, Pharm.D.__ 
 <br> Thesis: _Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis _
 <br> Houston, Texas 
 
+`2018-2021`
+__Irene Zaghi, M.D.__ 
+<br> Infectious Diseases Specialization Thesis: _Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predict Infection Outcome and Catheter-Related Bloodstream Infections_
+<br> Bologna, Italy
+
+## Doctoral students
 `2014-2015`
 __Irene Zaghi, M.D.__
 <br> Thesis: _Diagnostic Meta-Analysis of Serum Bactericidal Testing _
@@ -145,67 +151,64 @@ __Mayleko Mohamedwais, M.D.__
 <br> Thesis: _Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation_ 
 <br> Bologna, Italy
 
-`2018-2021`
-__Irene Zaghi, M.D.__ 
-<br> Infectious Diseases Specialization Thesis: _Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predict Infection Outcome and Catheter-Related Bloodstream Infections_
-<br> Bologna, Italy
+
 
 ## Teaching Experience
 
 `2021-present`
 __9730- Global Health, Antimicrobial Therapy and Vaccines__
-<br> University of Bologna, Italy
+<br> **University of Bologna**, Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
 __79947 – Malattive Infettive II__ 
-<br> University of Bologna, Italy
-- _Antimicrobial pharmacokinetics and pharmacodynamics _
-- _Antifungal pharmacokinetics and pharmacodynamics_
+<br> **University of Bologna**, Bologna,Italy
+- Antimicrobial pharmacokinetics and pharmacodynamics
+- Antifungal pharmacokinetics and pharmacodynamics
 
 `2014-2021`
 __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ 
-<br> University of Houston College of Pharmacy, Houston, Texas 
+<br> **University of Houston College of Pharmacy**, Houston, Texas 
 - _The clinician and the microbiology laboratory_
-- _Aerosolized and percutaneous antibiotic dosin_g 
-- _Immunology of ID_
-- _Antibiotic hypersensitivity and allergy_
-- _Vaccination_
-- _Antifungal therapy_
+- Aerosolized and percutaneous antibiotic dosing
+- Immunology of ID
+- Antibiotic hypersensitivity and allergy
+- Vaccination
+- Antifungal therapy
 
 `2007-2011`
 __PHAR 4308. Cellular Life Sciences II__ 
-<br> University of Houston College of Pharmacy, Houston, Texas 
-- _Adversarial pathogen strategies during infection, Parts 1-3_ 
-- _Immunobiologicals used in transplant and oncology_
+<br> **University of Houston College of Pharmacy**, Houston, Texas 
+- Adversarial pathogen strategies during infection, Parts 1-3 
+- Immunobiologicals used in transplant and oncology
 
 `2007-2011`
 __PCOL 6371-Advanced Pharmacology II__ 
-<br> University of Houston College of Pharmacy, Houston, Texas 
+<br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Principles of Host Immunity 
 - Immunopharmacology
 - Pharmacology of anti-inflammatory agents
 
 `2000-2010`
 __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ 
-<br> University of Houston College of Pharmacy, Houston, Texas 
+<br> **University of Houston College of Pharmacy**, Houston, Texas 
 -  Essentials of in vitro testing of antimicrobials 
 -  Molecular mechanisms of antibacterial resistance
 -  Quinolone antibiotics 
 -  Macrolides, lincosamides, streptogramins, and linezolid 
 -  Systemic antifungal agents
 -  Immunology of Infectious Diseases 
--  Vaccinations 
+-  Vaccinations
 
 `2007-2010`
 __University of Houston Residency Certificate Program__ 
-<br> University of Houston College of Pharmacy, Houston, Texas 
+<br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Academic careers
 - Scientific publication
 
 `1999-2011`
 __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__
-<br> University of Houston College of Pharmacy, Houston, Texas 
+<br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Systemic Fungal Infections 
 - Infective Endocarditis
 - Sexually Transmitted Diseases
@@ -216,13 +219,13 @@ __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator 2004-2006)__
 
 `2001-2011`
 __PHAR 5229 Research Methodologies in Pharmaceutical Research__ 
-<br> University of Houston College of Pharmacy, Houston, Texas <br>
-- Animal Models in Pharmaceutical Development
+<br> **University of Houston College of Pharmacy**, Houston, Texas <br>
+- _Animal Models in Pharmaceutical Development_
 
 `2001-2011`
 __PHAR 5682 Infectious Diseases Clinical Clerkship__ 
-<br> University of Houston College of Pharmacy, Houston, Texas 
-<br> The University of Texas M.D. Anderson Cancer Center
+<br> **University of Houston College of Pharmacy and  
+<br> **The University of Texas M.D. Anderson Cancer Center** Houston, Texas
 - Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service
 - Solid Tumor Malignancies Consult Service
 - Intensive Care Unit Consult Service
