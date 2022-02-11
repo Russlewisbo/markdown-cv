@@ -127,7 +127,7 @@ __Laboratory Research Assistant, Department of Pharmacology and Toxicology, Univ
 
 `2002-2004`
 __Nathan Widerhold, Pharm.D.__ 
-<br> Thesis: _Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis _
+<br> Thesis: _Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis_
 <br> Houston, Texas 
 
 `2018-2021`
@@ -138,7 +138,7 @@ __Irene Zaghi, M.D.__
 ## Doctoral students
 `2014-2015`
 __Irene Zaghi, M.D.__
-<br> Thesis: _Diagnostic Meta-Analysis of Serum Bactericidal Testing _
+<br> Thesis: _Diagnostic Meta-Analysis of Serum Bactericidal Testing_
 <br> Bologna, Italy 
 
 `2018-2019`
@@ -232,18 +232,18 @@ __PHAR 5682 Infectious Diseases Clinical Clerkship__
 
 `2002-2003`
 __PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ 
-<br> University of Houston College of Pharmacy, Houston, Texas <br>
+<br> **University of Houston College of Pharmacy**, Houston, Texas <br>
 
 `2001-2005`
 __PHPR 646 – Pharmacotherapy I. Invited lecturer__ 
-<br> University of Kansas School of Pharmacy, 
+<br> **University of Kansas School of Pharmacy**, 
 <br> Kansas Medical Center, Kansas City, Kansas 
 - Invasive fungal infection
 - Sepsis
 
 `2001-2011`
 __Infectious Diseases Fellows Core Curriculum__ 
-<br> The University of Texas M.D. Anderson Cancer Center, Houston, Texas
+<br> **The University of Texas M.D. Anderson Cancer Center and Baylor College of Medicine**, Houston, Texas
 - Antibiotic and Tumor-Related Fever
 - New Treatment Modalities for Acute and Chronic Leukemia 
 - Infectious Complications in Chronic Lymphocytic Leukemia 
@@ -255,38 +255,38 @@ __Infectious Diseases Fellows Core Curriculum__
 
 `2000-2001`
 __Diabetes TX-Pharm__ 
-<br> University of Houston College of Pharmacy, Houston, Texas Houston, Texas
+<br> **University of Houston College of Pharmacy**, Houston, Texas Houston, Texas
 - Infections in the Diabetic Patient
 
 `2000-2011`
 __PHAR 5365 Pharm.D Seminar__ 
-<br> University of Houston College of Pharmacy, Houston, Texas
+<br> **University of Houston College of Pharmacy**, Houston, Texas
 
 `1998-1999`
 __Pharmacotherapy IV__
-<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
+<br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 - Febrile neutropenia
 - Infective endocarditis
 
 `1997-1999`
 __Pharmacotherapy IV, Group case discussion leader__ 
-<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
+<br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1997-1999`
 __Introduction to Pharmaceutical Care, Group leader__ 
-<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
+<br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1997-1999`
 __Instructor, Infectious Diseases Research Elective__ 
-<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
+<br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1997-1999`
 __Instructor and context evaluator, Honors Seminar__ 
-<br> University of Iowa College of Pharmacy, Iowa City, Iowa 
+<br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1996-1997`
 __Adjunct Clinical Instructor at Barnes-Jewish Hospital__ 
-<br> St. Louis College of Pharmacy, St. Louis, Missouri
+<br> **St. Louis College of Pharmacy**, St. Louis, Missouri
 - Infectious Diseases Clerkship 
 - Internal Medicine Clerkship
 - Critical Care Clerkship
@@ -294,7 +294,7 @@ __Adjunct Clinical Instructor at Barnes-Jewish Hospital__
 
 `1996-1997`
 __Infectious Diseases Pharmacotherapy__ 
-<br> Saint Louis College of Pharmacy, St. Louis, Missouri
+<br> **St. Louis College of Pharmacy**, St. Louis, Missouri
 - Overview of Microbiological Testing 
 - Overview of Antibacterial Resistance
 
