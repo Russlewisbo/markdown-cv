@@ -3,7 +3,7 @@ layout: cv
 title: Russell Lewis's CV
 ---
 # Russell Edward Lewis
-Associate Professor, Infectious Diseases 
+Associate Professor and Clinical Pharmacologist
 
 I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal PK/PD in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
 
