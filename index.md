@@ -50,7 +50,7 @@ __Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento 
 __Full Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
 
 `2005-2011`
-__Associate Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy, __ | Houston, Texas
+__Associate Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
 
 `2005-2007`
 __Chair, ad interm,Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ | Houston, Texas
