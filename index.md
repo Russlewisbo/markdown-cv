@@ -785,7 +785,7 @@ St. Louis, Missouri
 ## Publications
 
 Scopus author ID: 7404846664 <br>
-H index 71- 15,511 citations <br>
+H index 71, 303 peer-reviewed publications, 15,511 citations <br>
 
 1. Brüggemann RJ, Verheggen R, Boerrigter E et al. Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. The Lancet Haematology. 2022;9:e58-e72.
 
