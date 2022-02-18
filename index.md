@@ -2076,7 +2076,7 @@ Publications Committee, Society of Infectious Diseases Pharmacists
 Publications Committee, Americal College of CLinical Pharmacy, Infectious Diseases
 
 ## Awards
-`1996` 
+`1995` 
 Facts and Comparison Excellence in Clinical Medical Communications
 `1999` 
 ACCP Best poster award finalist
