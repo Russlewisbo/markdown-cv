@@ -2040,20 +2040,28 @@ __University of Houston__
 <br>
 `2006-2011`
 University of Houston Research Council 2004-2006 
+
 `2006-2011`
 University Institution Biosafety Committee 
+
 `2004-2005`
 Chair, UH College of Pharmacy Research Committee 
+
 `2007-2010`
 UH College of Pharmacy P&T Committee 
+
 `2000-2007`
 UH College of Pharmacy Research Committee
+
 `2000-2007`
 UH College of Pharmacy Graduate Affairs Committee
+
 `2003`
 UH College of Pharmacy Education Subcommittee on Curricular Issues
+
 `2002-2004`
 UH Library and Information Technology Committee 2002-2004
+
 `2009-2011`
 UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
 
@@ -2062,44 +2070,62 @@ __National__
 <br>
 `2008-2010`
 Society of INfectious Diseases Pharmacists (SIDP) Board of Directors (national elected position) 
+
 `2002-2004`
 Chair, ASHP Clinical Practice Network-Infectious Diseases
+
 `2003-2009`
 Society of INfectious Diseases Pharmacists (SIDP) Research Committee 2003-2009; Chair (2007-2009)
+
 `2001-2002`
 Chair, Internet Committee, Society of Infectious Disease Pharmacists 
+
 `2001-2002`
 Guidelines and Publications Committee, American Society of Clinical Pharmacy 
+
 `1998-1999`
 Publications Committee, Society of Infectious Diseases Pharmacists
+
 `1998-1999`
 Publications Committee, Americal College of CLinical Pharmacy, Infectious Diseases
 
 ## Awards
 `1995` 
 Facts and Comparison Excellence in Clinical Medical Communications
+
 `1999` 
 ACCP Best poster award finalist
+
 `2002` 
 Outstanding Faculty Achievement in Research Award, University of Houston
+
 `2002` 
 Manuscript Selected-ASM News Journal Highlights (May 2002)
+
 `2002` 
 Phi Lambda Sigma Honorary Faculty Lifetime Member Inductee
+
 `2002` 
 Society of Infectious Diseases Pharmacists Young Investigator of the Year Award
+
 `2004` 
 University of Houston College of Pharmacy Clinical Faculty Preceptor of the Year
+
 `2004` 
 Merck Award for Outstanding Achievement in Pharmacy Education
+
 `2005` 
 Fellow, American College of Clinical Pharmacy
+
 `2005` 
 University of Houston College of Pharmacy Award for Outstanding Faculty Service
+
 `2009` 
 University of Houston College of Pharmacy Award for Outstanding Research Achievement
+
 `2010` 
 University of Houston College of Pharmacy Faculty Clinical Preceptor of the Yea
+
 `2010` 
 University of Houston Award for Excellence in Faculty Research-Associate Professor Level <br> (University-wide award voted by committee of faculty from across the University
 
