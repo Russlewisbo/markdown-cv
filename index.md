@@ -2032,8 +2032,9 @@ European Commission. Program for Research, Technological Development and Demonst
 `2015-Present`
 __University of Bologna__
 <br>
-- English Medical School Curriculum Development Committee
-- Consiglio del CdL in Medicine and Surgery
+`2015-Present`
+English Medical School Curriculum Development Committee
+Consiglio del CdL in Medicine and Surgery
 
 
 __University of Houston__
@@ -2090,6 +2091,7 @@ Publications Committee, Society of Infectious Diseases Pharmacists
 Publications Committee, Americal College of CLinical Pharmacy, Infectious Diseases
 
 ## Awards
+<br>
 `1995` 
 Facts and Comparison Excellence in Clinical Medical Communications
 
