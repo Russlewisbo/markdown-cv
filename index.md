@@ -1954,12 +1954,10 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 ## Editorial Boards
 
 `2022`
-
 __Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2016-2021`
-
 __Associate Editor, Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
@@ -1983,47 +1981,63 @@ __Editorial board, Pharmacotherapy__
 
 ## Grant or guideline committees 
 `2019-`
-__French -German Call for Projects on Antimicrobial Resistance AMR__ 
+French -German Call for Projects on Antimicrobial Resistance AMR 
+
 `2019-`
-__European Society for Clinical Microbiology and Infectious Diseases__ 
+European Society for Clinical Microbiology and Infectious Diseases 
+
 `2019-`
-__European Congress on Clinical Microbiology and Infectious Diseases__ 
+European Congress on Clinical Microbiology and Infectious Diseases 
+
 `2016-present`
-__British Society for Antimicrobial Chemotherapy__ 
+British Society for Antimicrobial Chemotherapy 
+
 `2018-present`
-__Foundation for Polish Science__ 
+Foundation for Polish Science
+
 `2015`
-__European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines.__
+European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines.
 <br> Antifungal pharmacology and therapeutic drug monitoring committee chair
+
 `2014`
-__European Society of Clinical Microbiology and Infectious Diseases__
-<br> Aspergillosis Guidelines Committee Chair: Pharmacology Section_
+European Society of Clinical Microbiology and Infectious Diseases
+<br> Aspergillosis Guidelines Committee Chair: Pharmacology Section
+
 `2011-present`
-__Mycoses Study Group Education and Research Consortium, [http://msgerc.org/]__(http://msgerc.org/) 
+Mycoses Study Group Education and Research Consortium, [http://msgerc.org/]__(http://msgerc.org/) 
+
 `2011`
-__Infectious Diseases Pharmacology Reviewer, Austrian Science Fund__
+Infectious Diseases Pharmacology Reviewer, Austrian Science Fund
+
 `2010`
-__NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites__
+NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites
+
 `2010`
-__External Ad-Hoc Reviewer, U.S. Armed Forces IRB__
+External Ad-Hoc Reviewer, U.S. Armed Forces IRB
+
 `2010`
-__Ad-Hoc Reviewer, National Aeronautics and Space Administration (NASA)__
+Ad-Hoc Reviewer, National Aeronautics and Space Administration (NASA)
+
 `2011-present`
-__Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant__
+Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant
+
 `2009`
-__University of Texas NIH SCORE Proposals__
+University of Texas NIH SCORE Proposals
+
 `2006`
-__European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme__
+European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme
 
 ## Service
 
 `2015-Present`
 __University of Bologna__
+<br>
 - English Medical School Curriculum Development Committee
 - Consiglio del CdL in Medicine and Surgery
 
 
 __University of Houston__
+<br>
 `2006-2011`
 University of Houston Research Council 2004-2006 University Institution Biosafety Committee 
 `2004-2005`
@@ -2044,7 +2058,7 @@ UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
 
 __National__
 `2008-2010`
-Society of INfectious Diseases Pharmacists (SIDP) Board of Directors (national elected position), 
+Society of INfectious Diseases Pharmacists (SIDP) Board of Directors (national elected position) 
 `2002-2004`
 Chair, ASHP Clinical Practice Network-Infectious Diseases
 `2003-2009`
