@@ -2039,7 +2039,9 @@ __University of Bologna__
 __University of Houston__
 <br>
 `2006-2011`
-University of Houston Research Council 2004-2006 University Institution Biosafety Committee 
+University of Houston Research Council 2004-2006 
+`2006-2011`
+University Institution Biosafety Committee 
 `2004-2005`
 Chair, UH College of Pharmacy Research Committee 
 `2007-2010`
@@ -2081,7 +2083,7 @@ ACCP Best poster award finalist
 `2002` 
 Outstanding Faculty Achievement in Research Award, University of Houston
 `2002` 
-Manuscript Selected-ASM News Journal Highlights (May 2002
+Manuscript Selected-ASM News Journal Highlights (May 2002)
 `2002` 
 Phi Lambda Sigma Honorary Faculty Lifetime Member Inductee
 `2002` 
