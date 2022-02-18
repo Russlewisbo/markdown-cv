@@ -1955,101 +1955,135 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 
 `2022`
 
-- __Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
+__Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2016-2021`
 
-- __Associate Editor, Journal of Antimicrobial Chemotherapy__
+__Associate Editor, Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2013-2020`
-- __Deputy Editor, Mycoses__
+__Deputy Editor, Mycoses__
 <br> Deutschsprachige Mykologische Gesellschaft
 
 
 `2013-2015`
-- __Editor, Current Fungal Infection Reports__
+__Editor, Current Fungal Infection Reports__
 <br> Springer Publishing
 
 
 `2006-present`
-- __Editorial board, Antimicrobial Agents Chemotherapy__
+__Editorial board, Antimicrobial Agents Chemotherapy__
 <br> American Society for Microbiology
 
 `2006-2011`
-- __Editorial board, Pharmacotherapy__
+__Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
 ## Grant or guideline committees 
-__French -German Call for Projects on Antimicrobial Resistance AMR__ (2019-)
-
-__European Society for Clinical Microbiology and Infectious Diseases__ (2019-)
-
-__European Congress on Clinical Microbiology and Infectious Diseases__ (2019-)
-
-__British Society for Antimicrobial Chemotherapy__ (2016-present)
-
-__Foundation for Polish Science__ (2018-present)
-
+`2019-`
+__French -German Call for Projects on Antimicrobial Resistance AMR__ 
+`2019-`
+__European Society for Clinical Microbiology and Infectious Diseases__ 
+`2019-`
+__European Congress on Clinical Microbiology and Infectious Diseases__ 
+`2016-present`
+__British Society for Antimicrobial Chemotherapy__ 
+`2018-present`
+__Foundation for Polish Science__ 
+`2015`
 __European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines.__
 <br> Antifungal pharmacology and therapeutic drug monitoring committee chair
-
+`2014`
 __European Society of Clinical Microbiology and Infectious Diseases__
 <br> Aspergillosis Guidelines Committee Chair: Pharmacology Section_
-
+`2011-present`
 __Mycoses Study Group Education and Research Consortium, [http://msgerc.org/]__(http://msgerc.org/) 
-
+`2011`
 __Infectious Diseases Pharmacology Reviewer, Austrian Science Fund__
-
+`2010`
 __NIH/NIAID RFA AI-09-026 and -029, Partnerships for Development of Therapeutics and Diagnostics for Drug-Resistant Bacteria and Eukaryotic Parasites__
-
+`2010`
 __External Ad-Hoc Reviewer, U.S. Armed Forces IRB__
-
+`2010`
 __Ad-Hoc Reviewer, National Aeronautics and Space Administration (NASA)__
-
+`2011-present`
 __Netherlands Organization for Scientific Research. Council for the Earth and Life Sciences Grant__
-
+`2009`
 __University of Texas NIH SCORE Proposals__
-
+`2006`
 __European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme__
 
 ## Service
 
+`2015-Present`
 __University of Bologna__
-- English Medical School Curriculum Development Committee, 2015-2017.
-- Consiglio del CdL in Medicine and Surgery, 2017-present
+- English Medical School Curriculum Development Committee
+- Consiglio del CdL in Medicine and Surgery
 
 
 __University of Houston__
-- University of Houston Research Council 2004-2006 University Institution Biosafety Committee 2006-2011
-- Chair, UH College of Pharmacy Research Committee, 2004-2005 UH College of Pharmacy P&T Committee 2007-2010
-- UH College of Pharmacy Research Committee, 2000-2003
-- UH College of Pharmacy Graduate Affairs Committee, 2000-2004
-- UH College of Pharmacy Education Subcommittee on Curricular Issues 2003 UH Library and Information Technology Committee 2002-2004
-- UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
+`2006-2011`
+University of Houston Research Council 2004-2006 University Institution Biosafety Committee 
+`2004-2005`
+Chair, UH College of Pharmacy Research Committee 
+`2007-2010`
+UH College of Pharmacy P&T Committee 
+`2000-2007`
+UH College of Pharmacy Research Committee
+`2000-2007`
+UH College of Pharmacy Graduate Affairs Committee
+`2003`
+UH College of Pharmacy Education Subcommittee on Curricular Issues
+`2002-2004`
+UH Library and Information Technology Committee 2002-2004
+`2009-2011`
+UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
 
 
 __National__
-*   SIDP Board of Directors (national elected position), 2008-2010
-*   Chair, ASHP Clinical Practice Network-Infectious Diseases 2002-2004 SIDP Research Committee 2003-2009
-*   Chair, SIDP Research Committee 2007-2008
-*   Chair, Internet Committee, Society of Infectious Disease Pharmacists 2001-2002 Guidelines and Publications Committee, American Society of Clinical Pharmacy 2001-2002 Publications Committee, Society of Infectious Diseases Pharmacists 1998 1999.
-*   Publications Committee, ACCP Infectious Diseases PRN 1998-1999.
+`2008-2010`
+Society of INfectious Diseases Pharmacists (SIDP) Board of Directors (national elected position), 
+`2002-2004`
+Chair, ASHP Clinical Practice Network-Infectious Diseases
+`2003-2009`
+Society of INfectious Diseases Pharmacists (SIDP) Research Committee 2003-2009; Chair (2007-2009)
+`2001-2002`
+Chair, Internet Committee, Society of Infectious Disease Pharmacists 
+`2001-2002`
+Guidelines and Publications Committee, American Society of Clinical Pharmacy 
+`1998-1999`
+Publications Committee, Society of Infectious Diseases Pharmacists
+`1998-1999`
+Publications Committee, Americal College of CLinical Pharmacy, Infectious Diseases
 
 ## Awards
-`1996` Facts and Comparison Excellence in Clinical Medical Communications
-`1999` ACCP Best poster award finalist
-`2002` Outstanding Faculty Achievement in Research Award, University of Houston
-`2002` Manuscript Selected-ASM News Journal Highlights (May 2002
-`2002` Phi Lambda Sigma Honorary Faculty Lifetime Member Inductee
-`2002` Society of Infectious Diseases Pharmacists Young Investigator of the Year Award
-`2004` University of Houston College of Pharmacy Clinical Faculty Preceptor of the Year
-`2004` Merck Award for Outstanding Achievement in Pharmacy Education
-`2005` Fellow, American College of Clinical Pharmacy
-`2005` University of Houston College of Pharmacy Award for Outstanding Faculty Service
-`2009` University of Houston College of Pharmacy Award for Outstanding Research Achievement
-`2010` University of Houston College of Pharmacy Faculty Clinical Preceptor of the Yea
-`2010` University of Houston Award for Excellence in Faculty Research-Associate Professor Level (University-wide award voted by committee of faculty from across the University
+`1996` 
+Facts and Comparison Excellence in Clinical Medical Communications
+`1999` 
+ACCP Best poster award finalist
+`2002` 
+Outstanding Faculty Achievement in Research Award, University of Houston
+`2002` 
+Manuscript Selected-ASM News Journal Highlights (May 2002
+`2002` 
+Phi Lambda Sigma Honorary Faculty Lifetime Member Inductee
+`2002` 
+Society of Infectious Diseases Pharmacists Young Investigator of the Year Award
+`2004` 
+University of Houston College of Pharmacy Clinical Faculty Preceptor of the Year
+`2004` 
+Merck Award for Outstanding Achievement in Pharmacy Education
+`2005` 
+Fellow, American College of Clinical Pharmacy
+`2005` 
+University of Houston College of Pharmacy Award for Outstanding Faculty Service
+`2009` 
+University of Houston College of Pharmacy Award for Outstanding Research Achievement
+`2010` 
+University of Houston College of Pharmacy Faculty Clinical Preceptor of the Yea
+`2010` 
+University of Houston Award for Excellence in Faculty Research-Associate Professor Level (University-wide award voted by committee of faculty from across the University
 
 
