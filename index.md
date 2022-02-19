@@ -1844,9 +1844,9 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 
 118.  Bartoletti M, Giannella M, Caraceni P, Domenicali M, Ambretti S, Tedeschi S, Lewis RE, Bernardi M, Viale P. Epidemiology and outcomes of bloodstream infections in patients with liver cirrhosis. 48<sup>th</sup> European Association for Study of the Liver, Amsterdam, NE 2013.
 
-119.  Lewis RE, Albert ND, Konotyiannis DP. Comparison of Posaconazole Pharmacodynamics in Neutropenic Murine Models of Sinopulmonary Aspergillosis and Mucormycosis. Abstract M-733\. 53<sup>rd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Denver, CO. 2013.
+119.  Lewis RE, Albert ND, Konotyiannis DP. Comparison of Posaconazole Pharmacodynamics in Neutropenic Murine Models of Sinopulmonary Aspergillosis and Mucormycosis. Abstract M-733. 53<sup>rd</sup> Interscience Conference on Antimicrobial Agents Chemotherapy, Denver, CO. 2013.
 
-120.  Lewis RE, Stanzani M, Ambretti S, Tedeschi S, Viale P, Cavo M, Vianelli N. Prospective, cross-section observational study of 1,263 infection-related hospital admissions in 787 hematological malignancy patients with fever. Abstract P-1265., 24<sup>th</sup> European Congress on Clinical Microbiology Infectious Diseases, 2104\. Barcelona, Spain.
+120.  Lewis RE, Stanzani M, Ambretti S, Tedeschi S, Viale P, Cavo M, Vianelli N. Prospective, cross-section observational study of 1,263 infection-related hospital admissions in 787 hematological malignancy patients with fever. Abstract P-1265., 24<sup>th</sup> European Congress on Clinical Microbiology Infectious Diseases, 2104. Barcelona, Spain.
 
 121.  Gaibani P, Lombardo D, Bartoletti M, Tedeschi S, Giannella M, Viale P, Lewis RE, M. Landini. Serum bactericidal assay (SBA) of three antimicrobial combination therapies against KPC-producing K. pneumoniae. Abstract, EP0231\. 26th European Congress of Clinical Microbiology and Infectious Diseases.
 
@@ -1888,63 +1888,50 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 ## Editorial Boards
 
 `2022`
-
 __Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2016-2021`
-
 __Associate Editor, Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2013-2020`
-
 __Deputy Editor, Mycoses__
 <br> Deutschsprachige Mykologische Gesellschaft
 
 `2013-2015`
-
 __Editor, Current Fungal Infection Reports__
 <br> Springer Publishing
 
 `2006-present`
-
 __Editorial board, Antimicrobial Agents Chemotherapy__
 <br> American Society for Microbiology
 
 `2006-2011`
-
 __Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
 ## Grant or guideline committees 
 `2019-`
-
 French -German Call for Projects on Antimicrobial Resistance AMR 
 
 `2019-`
-
 European Society for Clinical Microbiology and Infectious Diseases 
 
 `2019-`
-
 European Congress on Clinical Microbiology and Infectious Diseases 
 
 `2016-present`
-
 British Society for Antimicrobial Chemotherapy 
 
 `2018-present`
-
 Foundation for Polish Science
 
 `2015`
-
 European Committee on Infections in Leukemia-6 (ECIL-6): Guidelines.
 <br> Antifungal pharmacology and therapeutic drug monitoring committee chair
 
 `2014`
-
 European Society of Clinical Microbiology and Infectious Diseases
 <br> Aspergillosis Guidelines Committee Chair: Pharmacology Section
 
@@ -1973,8 +1960,6 @@ University of Texas NIH SCORE Proposals
 European Commission. Program for Research, Technological Development and Demonstration- Infectious Diseases., 6<sup>th</sup> Framework Programme
 
 ## Service
-
-`2015-present`
 
 __University of Bologna__
 <br>
