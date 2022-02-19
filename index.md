@@ -1884,7 +1884,6 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
  <br> Fungal Research Trust- Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
 - Antifungal Pharmacology Module. Fungal Research Trust-Aspergillus Website (Dr. David Denning, Editor) [http://www.aspergillus.man.ac.uk](http://www.aspergillus.man.ac.uk/)
 
-
 ## Editorial Boards
 
 `2022`
@@ -1912,13 +1911,13 @@ __Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
 ## Grant or guideline committees 
-`2019-`
+`2019-present`
 French -German Call for Projects on Antimicrobial Resistance AMR 
 
-`2019-`
+`2019-present`
 European Society for Clinical Microbiology and Infectious Diseases 
 
-`2019-`
+`2019-present`
 European Congress on Clinical Microbiology and Infectious Diseases 
 
 `2016-present`
