@@ -2052,7 +2052,6 @@ European Commission. Program for Research, Technological Development and Demonst
 __University of Bologna__
 <br>
 `2015-present`
-
 English Medical School Curriculum Development Committee
 Consiglio del CdL in Medicine and Surgery
 
