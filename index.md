@@ -46,111 +46,91 @@ United States of America; Permanent Residency Visa, Italy
 ## Professional Experience
 
 `2013-`
-
 __Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__  <br> Bologna, Italy
 
 `2011-2012`
-
 __Full Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
 <br> Houston, Texas
 
 `2005-2011`
-
 __Associate Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
 <br> Houston, Texas
 
 `2005-2007`
-
 __Chair, ad interm,Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
 <br> Houston, Texas
 
 `2000-2011`
-
 __Adjunct Faculty, Division of Infectious Diseases, Infection Control and Employee Health, The University of Texas M.D. Anderson Cancer Center__ 
 <br> Houston, Texas
 
 `1999-2005`
-
 __Assitant Professor, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
 <br> Houston, Texas
 
 ## Education 
 
 `1990-1996`
-
 __Doctor of Clinical Pharmacy (Pharm.D.), University of Kansas__ 
 <br> Lawrence, Kansas
 
 `1996-1997`
-
 __Clinical Pharmacy Residency, Barnes-Jewish Hospital, Washington Univeristy Medical Center__ 
 <br> St. Louis, Missouri
 
 `1997-1999`
-
 __Infectious Diseases Research Fellowship, University of Iowa Colleges of Pharmacy and Medicine__ 
 <br> Iowa City, Iowa
 
 ## Training courses
 
 `2005`
-
 __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches to Fungal Pathogenesis__ 
 <br> Woods Hole, Massachusetts
 
 ## Professional Licensure
 
 `1997-`
-
-- __Licensed Pharmacist__: Missouri (Previously Texas)
+__Licensed Pharmacist__: Missouri (Previously Texas)
 
 `2001-2015`
-
-- __Board Certified Pharmacotherapy Specialist__
+__Board Certified Pharmacotherapy Specialist__
 <br> Added qualifications in infectious diseases
 
 ## Clinical Experience
 
 `2012-`
-
 __Clincial Pharmacologist UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
 <br> Bologna, Italy
 
 `2000-2011`
-
 __Clinical Staff (Pharmacy) and Faculty (Medicine) Infectious Diseases Consultation Services, The University of Texas M.D. Anderson Cancer Center__ 
 <br> Houston, Texas
 
 `1997-1999`
-
 __Clinical Adjunct Faculty Infectious Diseases/Internal Medicine, University of Iowa College of Pharmacy__ 
 <br> Iowa City, Iowa
 
 `1996-1997`
-
 __Clinical Pharmacist, Barnes-Jewish Hospital__ 
 <br> St. Louis, Missouri
 
 `1995-1996`
-
 __Pharmacy Intern, St. Francis regional Hospital__ 
 <br> Topeka, Kansas
 
 `1992-1995`
-
 __Laboratory Research Assistant, Department of Pharmacology and Toxicology, University of Kansas School of Pharmacy__ 
 <br> Lawrence, Kansas
 
 ## Post-doctoral students
 
 `2002-2004`
-
 __Nathan Widerhold, Pharm.D.__ 
 <br> Thesis: Pharmacodynamics of caspofungin in a murine model of invasive aspergillosis
 <br> Houston, Texas 
 
 `2018-2021`
-
 __Irene Zaghi, M.D.__ 
 <br> Infectious Diseases Specialization Thesis: Bayesian Diagnostic Meta-Analysis of Blood Time To positivity for Predict Infection Outcome and Catheter-Related Bloodstream Infections
 <br> Bologna, Italy
@@ -158,19 +138,16 @@ __Irene Zaghi, M.D.__
 ## Doctoral students
 
 `2014-2015`
-
 __Irene Zaghi, M.D.__
 <br> Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing
 <br> Bologna, Italy 
 
 `2018-2019`
-
 __Giulia De Luca, M.D__ 
 <br> Thesis: Use of State Transition Models to Explore the Utility of Selective Digestive Tract Decontamination in Patients Colonized with Carbapenem-Resistant Enterobacteriaceae
 <br> Bologna, Italy
 
 `2019-2020`
-
 __Mayleko Mohamedwais, M.D.__ 
 <br> Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
 <br> Bologna, Italy
@@ -178,20 +155,17 @@ __Mayleko Mohamedwais, M.D.__
 ## Teaching Experience
 
 `2021-present`
-
 __9730- Global Health, Antimicrobial Therapy and Vaccines__
 <br> **University of Bologna**, Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
-
 __79947 – Malattive Infettive II__ 
 <br> **University of Bologna**, Bologna,Italy
 - Antimicrobial pharmacokinetics and pharmacodynamics
 - Antifungal pharmacokinetics and pharmacodynamics
 
 `2014-2021`
-
 __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 - _The clinician and the microbiology laboratory_
@@ -202,14 +176,12 @@ __PHAR 5208 Infectious Diseases Therapeutics, Course coordinator__
 - Antifungal therapy
 
 `2007-2011`
-
 __PHAR 4308. Cellular Life Sciences II__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Adversarial pathogen strategies during infection, Parts 1-3 
 - Immunobiologicals used in transplant and oncology
 
 `2007-2011`
-
 __PCOL 6371-Advanced Pharmacology II__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Principles of Host Immunity 
@@ -217,7 +189,6 @@ __PCOL 6371-Advanced Pharmacology II__
 - Pharmacology of anti-inflammatory agents
 
 `2000-2010`
-
 __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 -  Essentials of in vitro testing of antimicrobials 
@@ -229,14 +200,12 @@ __PHCA 5209 Infectious Diseases Pharmacotherapeutics II__
 -  Vaccinations
 
 `2007-2010`
-
 __University of Houston Residency Certificate Program__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Academic careers
 - Scientific publication
 
 `1999-2011`
-
 __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator__
 <br> **University of Houston College of Pharmacy**, Houston, Texas 
 - Systemic Fungal Infections 
@@ -248,13 +217,11 @@ __PHAR 5581. Advanced Pharmacotherapeutics, Co-course coordinator__
 - Drug Hypersensitivity 
 
 `2001-2011`
-
 __PHAR 5229 Research Methodologies in Pharmaceutical Research__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas <br>
 - Animal Models in Pharmaceutical Development
 
 `2001-2011`
-
 __PHAR 5682 Infectious Diseases Clinical Clerkship
 <br> University of Houston College of Pharmacy and The University of Texas M.D. Anderson Cancer Center,__ Houston, Texas
 - Hematological Malignancies /Hematopoetic Stem Cell Transplant Consult Service
@@ -262,12 +229,10 @@ __PHAR 5682 Infectious Diseases Clinical Clerkship
 - Intensive Care Unit Consult Service
 
 `2002-2003`
-
 __PHAR 5372 –Pharmacy Law and Ethics, Course Coordinator__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas <br>
 
 `2001-2005`
-
 __PHPR 646 – Pharmacotherapy I. Invited lecturer__ 
 <br> **University of Kansas School of Pharmacy**, 
 <br> Kansas Medical Center, Kansas City, Kansas 
@@ -275,7 +240,6 @@ __PHPR 646 – Pharmacotherapy I. Invited lecturer__
 - Sepsis
 
 `2001-2011`
-
 __Infectious Diseases Fellows Core Curriculum__ 
 <br> **The University of Texas M.D. Anderson Cancer Center and Baylor College of Medicine**, Houston, Texas
 - Antibiotic and Tumor-Related Fever
@@ -288,45 +252,37 @@ __Infectious Diseases Fellows Core Curriculum__
 - Antibiotic Hypersensitivity
 
 `2000-2001`
-
 __Diabetes TX-Pharm Elective 
 <br> University of Houston College of Pharmacy__, Houston, Texas
 - Infections in the Diabetic Patient
 
 `2000-2011`
-
 __PHAR 5365 Pharm.D Seminar__ 
 <br> **University of Houston College of Pharmacy**, Houston, Texas
 
 `1998-1999`
-
 __Pharmacotherapy IV__
 <br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 - Febrile neutropenia
 - Infective endocarditis
 
 `1997-1999`
-
 __Pharmacotherapy IV, Group case discussion leader__ 
 <br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1997-1999`
-
 __Introduction to Pharmaceutical Care, Group leader__ 
 <br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1997-1999`
-
 __Instructor, Infectious Diseases Research Elective__ 
 <br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1997-1999`
-
 __Instructor and context evaluator, Honors Seminar__ 
 <br> **University of Iowa College of Pharmacy**, Iowa City, Iowa 
 
 `1996-1997`
-
 __Adjunct Clinical Instructor at Barnes-Jewish Hospital__ 
 <br> **St. Louis College of Pharmacy**, St. Louis, Missouri
 - Infectious Diseases Clerkship 
@@ -335,7 +291,6 @@ __Adjunct Clinical Instructor at Barnes-Jewish Hospital__
 - Ambulatory Care Clerkship (VA Medical Center)
 
 `1996-1997`
-
 __Infectious Diseases Pharmacotherapy__ 
 <br> **St. Louis College of Pharmacy**, St. Louis, Missouri
 - Overview of Microbiological Testing 
@@ -344,7 +299,6 @@ __Infectious Diseases Pharmacotherapy__
 ## Invited Lectures
 
 `2022`
-
 __Antifungal prophylaxis in the tageted chemotherapy era__
 <br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), 
 <br> Winnipeg, Manitoba, Canada
@@ -355,7 +309,6 @@ __Overview of the antifungal pipeline in 2022__
 <br> F2G Medical Laison Training (Virtual)
 
 `2021`	
-
 __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
 
@@ -384,7 +337,6 @@ __Antifungal therapy considerations in the tageted chemotherapy era__
 <br> Canadian Hematology National Conference (Virtual)
 
 `2020` 
-
 __COVID-19 and invasive aspergillosis: Lessons learned.__ 
 <br> Gilead Care Webinar Series (Virtual). 
 
@@ -401,7 +353,6 @@ __Managing drug interactions in the era of targeted therapies for hematological 
 <br> Kings College London Hematology Grand Rounds (Virtual)
 
 `2019`
-
 __How I manage drug interactions in the era of targeted therapies for hematological malignancies__ 
 <br>12th Annual Gilead Care Meeting, Paris, France	
 
@@ -418,7 +369,6 @@ __How will targeted therapies in hematological disease change the management of 
 <br> 55th Annual British Society Medical Mycology Meeting, Sheffield, United Kingdom
 
 `2018`
-
 __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program: Modena, Italy
 
@@ -447,7 +397,6 @@ __The Antifungal Pipeline__
 <br> La micologia del III millennio – 2° edizione. Pescara, Italy
 
 `2017` 
-
 __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ 
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program. Modena, Italy
 
@@ -470,7 +419,6 @@ __Differentiating fungal versus non-fungal pathology by CT imaging__
 <br> Fungal Infection Update Meeting. London, UK
 
 `2016`
-
 __Antifungal pharmacology in the CNS__ 
 <br> Gilead CARE Meeting, Munich, Germany
 
@@ -511,7 +459,6 @@ __Antifungal stewardship performance indicators and assessment__
 <br> Transdisciplinary ECMM Antifungal Stewardship Workshop, Wesel, Germany
 
 `2015`
-
 __Antifungal stewardship in hematology units__ 
 <br> Italy & Spain Friendship and opinions about antimicrobial stewardship programs. Bologna, Italy
 
@@ -531,7 +478,6 @@ __Antimicrobial Susceptibility Testing-A view from the pharmacologist__
 <br> XI Corso Avanzato Di Terapia Antibiotica Pisa, Italy
 
 `2014`
-
 __Safety and toxicity of antifungal therapy__
 <br> Infezioni fungine nel trapianto di organo solido: un anno dopo. Bologna, Italy
 
@@ -563,7 +509,6 @@ __Drug interactions and tolerability of triazoles__
 <br> 6th Advances Against Aspergillus Conference, Madrid, Spain
 
 `2013`
-
 __Antimicrobial susceptibility testing-A view from the pharmacologist__
 <br> X Corso Avanzato Di Terapia Antibiotica, Pisa, Italy
 
@@ -598,7 +543,6 @@ __Overview of animal models of mucormycosis__
 <br> ISHAM Zygomyctes workshop April, 2013, Utrecht, Netherlands
 
 `2012`
-
 __Optimizing antifungal therapy through pharmacokinetic/pharmacodynamics principles__ 
 <br> Infectious Diseases Society of Portugal, Lisbon, Portugal
 
@@ -615,7 +559,6 @@ __Antimicrobial pharmacokinetics and dynamics in the critically-ill__
 <br> Stage Formativo. Società Italiana di Malettie Infettive e Tropicali (SIMIT). Bologna, Italy
 
 `2011`
-
 __Is Antifungal susceptibility testing necessary in the Mmnagement of invasive candidiasis?__
 <br> Pro-Con Debate. 49th Infectious Diseases Society of America Annual Meeting, Boston, Massachusetts, USA
 
@@ -626,7 +569,6 @@ __Overview of the immunopharmacological mechanisms of antifungals__
 <br> Aggionarmenti in Terapia Antifungina: La Parola Agli Esperti, Bologna, Italy
 
 `2010`
-
 __Optimized antifungal prophylaxis in the high-risk patient__
 <br> 45th Annual Midyear Meeting of the American Society for Health System Pharmacy, Anaheim, California
 
@@ -670,7 +612,6 @@ __Controversies and questions surrounding the antifungal formulary__
 <br> Teleconference CME series. Broadlane Pharmacy Management Group, Houston, Texas
 
 `2009`
-
 __Where are the new antibiotics?__
 <br> University of Houston College of Pharmacy Infectious Diseases Pharmacy CE Symposium, Houston, Texas
 
@@ -697,7 +638,6 @@ __Controversies in the management of invasive candidiasis__
 <br> 5th Annual Infectious Diseases- Critical Care Pharmacy CE Conference, Toronto, Ontario, Canada
 
 `2008`
-
 __Improving the pharmacology of invasive mould infections__
 <br> Infectious Diseases Grand Rounds, Memorial Sloan-Kettering Cancer Center, New York, New York
 
@@ -708,7 +648,6 @@ __Cases in antifungal therapeutic drug monitoring__
 <br> Houston Infectious Diseases Pharmacy Network. Houston, Texas
 
 `2007`
-
 __The case for fluconazole as front-line therapy in invasive candidiasis: Pro-con debate__
 <br> American Society of Heath-System Pharmacy Annual Meeting, Las Vegas, Nevada
 
@@ -731,7 +670,6 @@ __Managing infections in the immunocompromised host__
 <br> Hematology Oncology Pharmacist Association (HOPA) Annual Meeting. Denver, Colorado
 
 `2006`
-
 __The new antifungal formulary__
 <br> City of Hope Pharmacotherapy Symposium. Anaheim, California
 
@@ -796,7 +734,6 @@ __Overview of antifungal pharmacology__
 <br> Frontline CE Symposium. Houston, Texas
 
 `2005`
-
 __Drosophila as a high-throughput model for studying fungal pathogenesis-__
 <br> Texas-UK Biosciences Research Collaborative, London School of Tropical Health and Hygiene, London, United Kingdom
 
@@ -837,7 +774,6 @@ __Toxigenic moulds in Texas: New insights into the pathogenesis of an opportunis
 <br> The University of Tennessee College of Pharmacy, Memphis, TN
 
 `2004`
-
 __Practical management of multidrug resistant infections__
 <br> Session moderator. ASHP Annual Meeting, Orlando, Florida
 
@@ -866,7 +802,6 @@ __New antibiotics for the perfect storm of infectious diseases__
 <br> Texas Society of Health Systems Annual Meeting. Houston, Texas
 
 `2003`
-
 __Antifungal therapy and Evedence-based medicine__
 <br> ASHP Annual Meeting, New Orleans, Louisiana
 
@@ -904,7 +839,6 @@ __Echinocandins and Lipid AMB formulations__
 <br> Mycoses 2002 Symposia (given with Drs. Gerald Bodey, Dimitrios Kontoyiannis, and Issam Raad), Houston, Texas
 
 `2002`
-
 __Beyond Microdilution Broth Antifungal Susceptibility Testing__ 
 <br> Pre-symposium to the 41st, 42nd and 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, Antifungal Susceptibility Testing for the Clinician. San Diego, California, Chicago, Illinois, and Washington, D.C
 
@@ -927,7 +861,6 @@ __The Immunology of Effective Antifungal Therapy__
 <br> M.D. Anderson Cancer Center Infectious Diseases Research Conference, Houston Texas
 
 `2001`
-
 __New antifungal formulations, new antifungal targets__
 <br> Grand Rounds, Fairfax Hospital, Fairfax, Virginia 
 <br> Baylor Medical Center, Dallas, Texas
@@ -950,7 +883,6 @@ __Pharmacology of Current and Future Antifungals__
 <br> Mycoses 2001 (with Drs. John Rex, Richard Hamill, and Dimitrios Kontoyiannis), Houston, Texas
 
 `2000`
-
 __New Antimicrobials for Resistant Gram-Positive Infections__
 <br> Parkland Medical Center Infectious Diseases Dallas, Texas
 
@@ -981,7 +913,6 @@ __Implications of streptococcal resistance for antibiotic therapy__
 <br> Border Issues and Resistance, University of Texas CME Otolaryngology Conference. McAllen, Texas
 
 `1999`
-
 __Antifungal Pharmacodynamics-What Emerging Data Are Telling Us About Dosing Antifungal Therapy__
 <br> Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. University of Houston College of Pharmacy. Houston, Texas
 
@@ -989,12 +920,10 @@ __Should Combinations of Amphotericin B and Fluconazole Be Used for the Treatmen
 <br> University of Wisconsin College of Pharmacy, Madison, Wisconsin
 
 `1998`
-
 __IDSA Guidelines for the Treatment of Community Acquired Pneumonia:Resistant S. pneumoniae and the Role of Quinolones__
 <br> Fellowship Forum. University of Iowa, Iowa City, Iowa
 
 `1997`
-
 __Pharmacodynamic Evaluation of Combination Amphotericin B-Fluconazole Activity Using an In Vitro Infection Model__
 <br> Fellow Seminar Series. University of Iowa. Iowa City, Iowa
 
@@ -1006,7 +935,6 @@ __Evaluation of Colony Stimulating Factor Use in a Large Teaching Hospital__
 <br> Midwest Residency Conference, Memphis, Tennessee
 
 `1996`
-
 __Colony Stimulating Factors as Adjunctive Treatment in Acute Myelogenous Leukemia__
 <br> Residency Seminar Series. St. Louis, Missouri
 
@@ -1014,7 +942,6 @@ __Rational Use of Step-Down Oral Antibiotic Therapy-__
 <br> Pharmacists Continuing Education. Barnes- Jewish Hospital, St. Louis, Missouri
 
 `1995`
-
 __Continuous infusion loop diuretics to overcome diuretic resistance__ 
 <br>Doctor of Pharmacy Seminar. University of Kansas Medical Center, Kansas City, Kansas
 
@@ -2062,118 +1989,89 @@ __University of Houston__
 University of Houston Research Council 2004-2006 
 
 `2006-2011`
-
 University Institution Biosafety Committee 
 
 `2004-2005`
-
 Chair, UH College of Pharmacy Research Committee 
 
 `2007-2010`
-
 UH College of Pharmacy P&T Committee 
 
 `2000-2007`
-
 UH College of Pharmacy Research Committee
 
 `2000-2007`
-
 UH College of Pharmacy Graduate Affairs Committee
 
 `2003`
-
 UH College of Pharmacy Education Subcommittee on Curricular Issues
 
 `2002-2004`
-
 UH Library and Information Technology Committee 2002-2004
 
 `2009-2011`
-
 UH College of Pharmacy AACP Accreditation Self-Study Committee 2009-2011
 
 __National__
 <br>
 `2008-2010`
-
-Society of INfectious Diseases Pharmacists (SIDP) Board of Directors (national elected position) 
+Society of Infectious Diseases Pharmacists (SIDP) Board of Directors (national elected position) 
 
 `2002-2004`
-
 Chair, ASHP Clinical Practice Network-Infectious Diseases
 
 `2003-2009`
-
 Society of INfectious Diseases Pharmacists (SIDP) Research Committee 2003-2009; Chair (2007-2009)
 
 `2001-2002`
-
 Chair, Internet Committee, Society of Infectious Disease Pharmacists 
 
 `2001-2002`
-
 Guidelines and Publications Committee, American Society of Clinical Pharmacy 
 
 `1998-1999`
-
 Publications Committee, Society of Infectious Diseases Pharmacists
 
 `1998-1999`
-
 Publications Committee, Americal College of CLinical Pharmacy, Infectious Diseases
 
 ## Awards
 <br>
 `1995` 
-
 Facts and Comparison Excellence in Clinical Medical Communications
 
 `1999` 
-
 ACCP Best poster award finalist
 
 `2002` 
-
 Outstanding Faculty Achievement in Research Award, University of Houston
 
 `2002` 
-
 Manuscript Selected-ASM News Journal Highlights (May 2002)
 
 `2002` 
-
 Phi Lambda Sigma Honorary Faculty Lifetime Member Inductee
 
 `2002` 
-
 Society of Infectious Diseases Pharmacists Young Investigator of the Year Award
 
 `2004` 
-
 University of Houston College of Pharmacy Clinical Faculty Preceptor of the Year
 
 `2004` 
-
 Merck Award for Outstanding Achievement in Pharmacy Education
 
 `2005` 
-
 Fellow, American College of Clinical Pharmacy
 
 `2005` 
-
 University of Houston College of Pharmacy Award for Outstanding Faculty Service
 
 `2009` 
-
 University of Houston College of Pharmacy Award for Outstanding Research Achievement
 
 `2010` 
-
 University of Houston College of Pharmacy Faculty Clinical Preceptor of the Yea
 
 `2010` 
-
 University of Houston Award for Excellence in Faculty Research-Associate Professor Level <br> (University-wide award voted by committee of faculty from across the University
-
