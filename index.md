@@ -959,11 +959,11 @@ __Scopus author ID: 7404846664 <br>
 
 4. Rinaldi M, Bartoletti M, Ferrarese A, Franceschini E, Campoli C, Coladonato S, Pascale R, Tedeschi S, Gatti M, Cricca M, Ambretti S, Siniscalchi A, Morelli MC, Cescon M, Cillo U, Di Benedetto F, Burra P, Mussini C, Cristini F, Lewis R, Viale P, Giannella M. Breakthrough invasive fungal infection after liver transplantation in patients on targeted antifungal prophylaxis: A prospective multicentre study. Transplant Infectious Disease [Internet]. 2021;23(4).
 
-5. Pascale R, Bussini L, Gaibani P, Bovo F, Fornaro G, Lombardo D, Ambretti S, Pensalfine G, Appolloni L, Bartoletti M, Tedeschi S, Tumietto F, Lewis R, Viale P, Giannella M. Carbapenem resistant bacteria in Intensive Care Unit during COVID-19 pandemic: Multicenter before-after cross sectional study. Infection Control and Hospital Epidemiology [Internet]. 2021
+5. Pascale R, Bussini L, Gaibani P, Bovo F, Fornaro G, Lombardo D, Ambretti S, Pensalfine G, Appolloni L, Bartoletti M, Tedeschi S, Tumietto F, Lewis R, Viale P, Giannella M. Carbapenem resistant bacteria in Intensive Care Unit during COVID-19 pandemic: Multicenter before-after cross sectional study. Infection Control and Hospital Epidemiology. 2021
 
-6. Lewis RE, Andes DR. Managing uncertainty in antifungal dosing: antibiograms, therapeutic drug monitoring and drug-drug interactions. Current opinion in infectious diseases. 2021;34(4):288–96\.
+6. Lewis RE, Andes DR. Managing uncertainty in antifungal dosing: antibiograms, therapeutic drug monitoring and drug-drug interactions. Current Opinion in Infectious Diseases. 2021;34(4):288–96.
 
-7. Lamoth F, Lewis RE, Kontoyiannis DP. Role and interpretation of antifungal susceptibility testing for the management of invasive fungal infections. Journal of Fungi. 2021;7(1):1–21\.
+7. Lamoth F, Lewis RE, Kontoyiannis DP. Role and interpretation of antifungal susceptibility testing for the management of invasive fungal infections. Journal of Fungi. 2021;7(1):1–21.
 
 8. Johnson MD, Lewis RE, Dodds Ashley ES, Perfect JR, Kontoyiannis DP. Reply to Day et al. Journal of Infectious Diseases. 2021;224(9):1627–8.
 
