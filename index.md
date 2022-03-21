@@ -961,7 +961,7 @@ __Scopus author ID: 7404846664 <br>
 
 5. Pascale R, Bussini L, Gaibani P, Bovo F, Fornaro G, Lombardo D, Ambretti S, Pensalfine G, Appolloni L, Bartoletti M, Tedeschi S, Tumietto F, Lewis R, Viale P, Giannella M. Carbapenem resistant bacteria in Intensive Care Unit during COVID-19 pandemic: Multicenter before-after cross sectional study. Infection Control and Hospital Epidemiology. 2021
 
-7. Navigating the uncertainties of COVID-19–associated aspergillosis: A Comparison With influenza-associated aspergillosis. Journal of Infections Diseases. 2021;224:1631-1640.
+7. Lamoth F, Lewis RE, Kontoyiannis DP. Navigating the uncertainties of COVID-19–associated aspergillosis: A Comparison With influenza-associated aspergillosis. Journal of Infections Diseases. 2021;224:1631-1640.
 
 6. Lewis RE, Andes DR. Managing uncertainty in antifungal dosing: antibiograms, therapeutic drug monitoring and drug-drug interactions. Current Opinion in Infectious Diseases. 2021;34(4):288–96.
 
