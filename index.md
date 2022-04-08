@@ -12,7 +12,6 @@ I am an Associate Professor of Infectious Diseases in the Department of Medical 
 | <a href="http://russlewisid.com">Personal website</a>
 </div>
 <br>
-<br>
 last updated: March 15, 2022
 
 ## Contact information
