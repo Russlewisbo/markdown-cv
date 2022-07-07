@@ -5,7 +5,7 @@ title: Russell Lewis
 # Russell Edward Lewis
 Associate Professor and Clinical Pharmacologist
 
-I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal PK/PD in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
+I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal PK/PD in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
 
 <div id="webaddress">
 <a href="https://www.unibo.it/sitoweb/russeledward.lewis">UNIBO Webpage</a>
@@ -45,7 +45,7 @@ United States of America; Permanent Residency Visa, Italy
 ## Professional Experience
 
 `2013-`
-__Associate Professor of Infectious Diseases with Tenure (MED/17 | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__  <br> Bologna, Italy
+__Associate Professor of Infectious Diseases (MED/17) | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__  <br> Bologna, Italy
 
 `2011-2012`
 __Full Professor with Tenure, Department of Clinical and Administrative Sciences, University of Houston College of Pharmacy__ 
@@ -99,7 +99,7 @@ __Board Certified Pharmacotherapy Specialist__
 ## Clinical Experience
 
 `2012-`
-__Clincial Pharmacologist UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
+__UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
 <br> Bologna, Italy
 
 `2000-2011`
@@ -149,6 +149,11 @@ __Giulia De Luca, M.D__
 `2019-2020`
 __Mayleko Mohamedwais, M.D.__ 
 <br> Thesis: Development and internal validation of a model to predict early invasive mold disease risk in patients undergoing allogeneic hematopoietic stem cell transplantation 
+<br> Bologna, Italy
+
+`2021-2022`
+__Nicola Montovani, M.D.__ 
+<br> Thesis: Incorporation of genetic risk factors in a clinical risk prediction score for invasive mold disease for patients undergoing treatment for hematological malignancies
 <br> Bologna, Italy
 
 ## Teaching Experience
@@ -948,7 +953,7 @@ __Continuous infusion loop diuretics to overcome diuretic resistance__
 ## Publications
 
 __Scopus author ID: 7404846664 <br>
-305 peer-reviewed publications, H index 71, 15,511 citations__ <br>
+307 peer-reviewed publications, H index 73, 15,511 citations__ <br>
 
 1. Stemler J, de Jonge N, Skoetz N, Sinkó J, Brüggemann RJ, Busca A, Ben-Ami R, Racil Z, Piechotta V, Lewis R, Cornely OA. Antifungal prophylaxis in adult patients with acute myeloid leukaemia treated with novel targeted therapies: EHA recommendations. The Lancet Haematology 2022; In press.
 
