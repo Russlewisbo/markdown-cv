@@ -5,7 +5,7 @@ title: Russell Lewis
 # Russell Edward Lewis
 Associate Professor and Clinical Pharmacologist
 
-I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal PK/PD in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
+I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacologist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal pharmacokinetic and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
 
 <div id="webaddress">
 <a href="https://www.unibo.it/sitoweb/russeledward.lewis">UNIBO Webpage</a>
@@ -22,7 +22,7 @@ Alma Mater Studiorum Università di Bologna Via Massarenti, 9 <br>
 Bologna, Italy 40138 <br>
 Office: +39 051 214 3987 <br>
 russeledward.lewis@unibo.it
-
+<br>
 (Home): Via Fortunato Venanzio, 60 <br>
 Treviso, Italy 31100 <br>
 +39 345 309 9843 <br>
