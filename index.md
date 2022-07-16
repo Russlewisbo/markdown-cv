@@ -21,8 +21,8 @@ IRCCS- Policlinico S. Orsola-Malpighi <br>
 Alma Mater Studiorum Università di Bologna Via Massarenti, 9 <br>
 Bologna, Italy 40138 <br>
 Office: +39 051 214 3987 <br>
-russeledward.lewis@unibo.it
-<br>
+russeledward.lewis@unibo.it <br>
+
 (Home): Via Fortunato Venanzio, 60 <br>
 Treviso, Italy 31100 <br>
 +39 345 309 9843 <br>
