@@ -1919,6 +1919,10 @@ __Editorial board, Pharmacotherapy__
 <br> American College of Clinical Pharmacy
 
 ## Grant or guideline committees 
+
+`2022-present`
+Medical Research Council, Infection and Immunity Section, United Kingdom
+
 `2019-present`
 French -German Call for Projects on Antimicrobial Resistance AMR 
 
