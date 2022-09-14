@@ -303,6 +303,9 @@ __Infectious Diseases Pharmacotherapy__
 ## Invited Lectures
 
 `2022`
+__Importance of pharmacokinetics/pharmacodynamics in the immunocompromised host__
+<br> 21st Immunocompromised Host Society Symposium on Infections in the Immunocompromised Host, Basel, Switzerland
+
 __Antifungal prophylaxis in the tageted chemotherapy era__
 <br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), 
 <br> Winnipeg, Manitoba, Canada
@@ -983,7 +986,7 @@ __Scopus author ID: 7404846664 <br>
 
 12. Gaibani P, Viciani E, Bartoletti M, Lewis RE, Tonetti T, Lombardo D, Castagnetti A, Bovo F, Horna CS, Ranieri M, Viale P, Re MC, Ambretti S. The lower respiratory tract microbiome of critically ill patients with COVID-19\. Scientific Reports [Internet]. 2021;11(1).
 
-13. Bartoletti M, Pascale R, Cricca M, Rinaldi M, Maccaro A, Bussini L, Fornaro G, Tonetti T, Pizzilli G, Francalanci E, Giuntoli L, Rubin A, Moroni A, Ambretti S, Trapani F, Vatamanu O, Ranieri VM, Castelli A, Baiocchi M, Lewis R, Giannella M, Viale P. Epidemiology of invasive pulmonary aspergillosis among intubated patients with COVID-19: A prospective study. Clinical Infectious Diseases .. 2021;73(11):e3606–14\.
+13. Bartoletti M, Pascale R, Cricca M, Rinaldi M, Maccaro A, Bussini L, Fornaro G, Tonetti T, Pizzilli G, Francalanci E, Giuntoli L, Rubin A, Moroni A, Ambretti S, Trapani F, Vatamanu O, Ranieri VM, Castelli A, Baiocchi M, Lewis R, Giannella M, Viale P. Epidemiology of invasive pulmonary aspergillosis among intubated patients with COVID-19: A prospective study. Clinical Infectious Diseases. 2021;73(11):e3606–14\.
 
 14. Axell-House DB, Wurster S, Jiang Y, Kyvernitakis A, Lewis RE, Tarrand JJ, Raad II, Kontoyiannis DP. Breakthrough mucormycosis developing on mucorales-active antifungals portrays a poor prognosis in patients with hematologic cancer. Journal of Fungi [Internet]. 2021;7(3).
 
@@ -1895,7 +1898,7 @@ Hematology: Pathophysiology, Diagnosis and Treatment (Lingua inglese). S. Tura, 
 ## Editorial Boards
 
 `2022`
-__Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
+__Senior Editor, Pharmacokinetics/Pharmacodynamics Section, Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2016-2021`
