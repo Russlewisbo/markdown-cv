@@ -247,6 +247,8 @@ __Infectious Diseases Pharmacotherapy__ | Saint Louis College of Pharmacy, St. L
 ## Invited Lectures
 
 `2022`<br>
+- __Importance of pharmacokinetics/pharmacodynamics in antifungal therapy__
+<br> 21st ICHS Symposium on Infections in the Immunocompromised Host, Basel, Switzerland
 - __Antifungal prophylaxis considerations in the tageted chemotherapy era__
 <br> University of Manitoba, Hematology-Infectious Diseases Conference (Virtual), Winnipeg, Manitoba, Canada
 <br> University of Alberta, Hematology Grand Rounds (Virtual), Edmonton, Alberta, Canada
