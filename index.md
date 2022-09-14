@@ -1540,7 +1540,7 @@ H index 71- 15,511 citations <br>
 
 `2022`
 
-- __Senior Editor, Pharmacokinetics/Pharmacodynamics Journal of Antimicrobial Chemotherapy__
+- __Senior Editor, Pharmacokinetics/Pharmacodynamics Section, Journal of Antimicrobial Chemotherapy__
 <br> British Socieity of Antimicrobial Chemotherapy
 
 `2016-2021`
@@ -1567,6 +1567,7 @@ H index 71- 15,511 citations <br>
 <br> American College of Clinical Pharmacy
 
 ## Grant review committees
+*   Grant reviewer, Infectious Diseases, UK Medical Research Council, United Kingdom
 *   Grant reviewer, French -German Call for Projects on Antimicrobial Resistance AMR 2019-2021
 *   Grant reviewer, European Society for Clinical Microbiology and Infectious Diseases 2019-Present
 *   Abstract reviewer, European Congress on Clinical Microbiology and Infectious Diseases, 2019-Present
