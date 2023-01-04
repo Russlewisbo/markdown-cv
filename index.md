@@ -958,7 +958,7 @@ __Continuous infusion loop diuretics to overcome diuretic resistance__
 __Scopus author ID: 7404846664 <br>
 308 peer-reviewed publications, H index 73, 16,651 citations__ <br>
 
-1.Lamoth F, Lewis RE, Kontoyiannis DP. Investigational agents for invasive mycoses: A clinical perspective. Clinical Infectious Diseases 2022;75:534-544.
+1. Lamoth F, Lewis RE, Kontoyiannis DP. Investigational agents for invasive mycoses: A clinical perspective. Clinical Infectious Diseases 2022;75:534-544.
 
 1. Stemler J, de Jonge N, Skoetz N, Sinkó J, Brüggemann RJ, Busca A, Ben-Ami R, Racil Z, Piechotta V, Lewis R, Cornely OA. Antifungal prophylaxis in adult patients with acute myeloid leukaemia treated with novel targeted therapies: EHA recommendations. The Lancet Haematology 2022; In press.
 
