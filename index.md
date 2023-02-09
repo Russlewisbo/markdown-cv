@@ -41,7 +41,7 @@ United States of America; Permanent Residency Visa, Italy
 ## Professional Experience
 
 `2023-`
-__Associate Professor of Infectious Diseases (MED/17) | Dipartimento di Medicine Moleculare, Università degli studi di Padova__  <br> Padova, Italy
+__Associate Professor of Infectious Diseases (MED/17) | Dipartimento di Medicine Molecolare, Università degli studi di Padova__  <br> Padova, Italy
 
 `2013-2023`
 __Associate Professor of Infectious Diseases (MED/17) | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__  <br> Bologna, Italy
