@@ -5,23 +5,19 @@ title: Russell Lewis
 # Russell Edward Lewis
 Associate Professor and Clinical Pharmacologist
 
-I am an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna and a clinical pharmacologist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal pharmacokinetic and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
+I am an Associate Professor of Infectious Diseases in the Department of Molecular Medicine at the University of Padua and a clinical pharmacologist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal pharmacokinetic and pharmacodynamics in immunocompromised hosts. My current research focuses on the development and incorporation of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
 
 <div id="webaddress">
-<a href="https://www.unibo.it/sitoweb/russeledward.lewis">UNIBO Webpage</a>
+<a href="https://www.medicinamolecolare.unipd.it/category/ruoli/personale-docente?key=7F6B3194E9D1AA6B33AE5DDA22979880">UNIPD Webpage</a>
 | <a href="http://russlewisid.com">Personal website</a>
 </div>
 <br>
-last updated: September 14, 2022
+last updated: February 9,2023
 
 ## Contact information
 
-(Office): UO Malattie Infettive, Pad.6 <br>
-IRCCS- Policlinico S. Orsola-Malpighi <br>
-Alma Mater Studiorum Università di Bologna Via Massarenti, 9 <br>
-Bologna, Italy 40138 <br>
-Office: +39 051 214 3987 <br>
-russeledward.lewis@unibo.it <br>
+(Office): via Gabelli 63, 35121 Padova <br>
+russelledward.lewis@unipd.it <br>
 
 (Home): Via Fortunato Venanzio, 60 <br>
 Treviso, Italy 31100 <br>
@@ -44,7 +40,10 @@ United States of America; Permanent Residency Visa, Italy
 
 ## Professional Experience
 
-`2013-`
+`2023-`
+__Associate Professor of Infectious Diseases (MED/17) | Dipartimento di Medicine Moleculare, Università degli studi di Padova__  <br> Padova, Italy
+
+`2013-2023`
 __Associate Professor of Infectious Diseases (MED/17) | Dipartimento di Scienze Mediche e Chirurgiche, Alma Mater Studiorum Università di Bologna__  <br> Bologna, Italy
 
 `2011-2012`
