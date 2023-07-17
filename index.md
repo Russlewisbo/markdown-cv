@@ -97,7 +97,8 @@ __Board Certified Pharmacotherapy Specialist__
 
 ## Clinical Experience
 
-`2012-`
+
+`2012-2023`
 __UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
 <br> Bologna, Italy
 
@@ -157,7 +158,19 @@ __Nicola Montovani, M.D.__
 
 ## Teaching Experience
 
-`2021-present`
+`2023-Present`
+<br> **University of Padua**, Padua, Italy
+<br> MEP 2491 Infectious Diseases
+- Principles of antibiotic therapy
+- Antibiotic resistance in ESKAPE pathogens
+- Antibiotic allergies
+- Fever of unknown origin
+- Invasive fungal infections
+- Infectious diarrhea
+- Intraabdominal infections
+- Parasites-malaria and leishmaniasis
+ 
+`2021-2023`
 __9730- Global Health, Antimicrobial Therapy and Vaccines__
 <br> **University of Bologna**, Bologna, Italy
 <br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
@@ -533,7 +546,7 @@ __Combination antifungal therapy-bench to bedside__
 __Clinical Case- Voriconazole associated photoxicity__
 <br> 7th International Transplant Infectious Diseases Conference, Vienna, Austria
 
-__Antimicrobial pharmacokinetics and dynamics in thecCritically-Ill__
+__Antimicrobial pharmacokinetics and dynamics in the Critically-Ill__
 <br> Stage Formativo. Società Italiana di Malattie Infettive e Tropicali (SIMIT). Bologna, Italy
 
 __Risk model for invasive mold disease in hematology patient__
@@ -955,11 +968,15 @@ __Continuous infusion loop diuretics to overcome diuretic resistance__
 ## Publications
 
 __Scopus author ID: 7404846664 <br>
-308 peer-reviewed publications, H index 73, 16,651 citations__ <br>
+314 peer-reviewed publications, H index 77, 18,686 citations__ <br>
+
+1. Lewis RE, Stanzani M, Morana G, Sassi C. Radiology-based diagnosis of fungal pulmonary infections in high-risk hematology patients: are we making progress? Current Opinion Infectious Diseases. 2023:36:250-256.
+
+1. Bartoletti, M Antonelli, A Bussini, L Corcione, S Giacobbe, DR Marconi, L Pascale, R Dettori, S Shbaklo, N Ambretti, S Gaibani, P Giani, T Coppi, M Bassetti, M De Rosa, FG Marchese, A Cavallo, R Lewis, R Rossolini, GM Viale, P Giannella, M. Clinical consequences of very major errors with semi-automated testing systems for antimicrobial susceptibility of carbapenem-resistant Enterobacterales. Clinical Microbiology and Infections Diseases 2022;8:1290.e1 - 1290.e4.
 
 1. Lamoth F, Lewis RE, Kontoyiannis DP. Investigational agents for invasive mycoses: A clinical perspective. Clinical Infectious Diseases 2022;75:534-544.
 
-1. Stemler J, de Jonge N, Skoetz N, Sinkó J, Brüggemann RJ, Busca A, Ben-Ami R, Racil Z, Piechotta V, Lewis R, Cornely OA. Antifungal prophylaxis in adult patients with acute myeloid leukaemia treated with novel targeted therapies: EHA recommendations. The Lancet Haematology 2022; In press.
+1. Stemler J, de Jonge N, Skoetz N, Sinkó J, Brüggemann RJ, Busca A, Ben-Ami R, Racil Z, Piechotta V, Lewis R, Cornely OA. Antifungal prophylaxis in adult patients with acute myeloid leukaemia treated with novel targeted therapies: EHA recommendations. The Lancet Haematology 2022;9:e361-e373.
 
 1. Brüggemann RJ, Verheggen R, Boerrigter E, Stanzani M, Verweij PE, Blijlevens NMA, Lewis RE. Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. The Lancet Haematology. 2022;9(1):e58–72.
 
