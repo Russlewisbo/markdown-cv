@@ -5,14 +5,14 @@ title: Russell Lewis
 # Russell Edward Lewis
 Associate Professor and Clinical Pharmacologist
 
-I am an Associate Professor of Infectious Diseases in the Department of Molecular Medicine at the University of Padua and a clinical pharmacologist. I have over 20 years experience in laboratory and clinical research of antimicrobial and antifungal pharmacokinetic and pharmacodynamics in immunocompromised hosts. My current research focuses on the development and incorporation of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
+I am an Associate Professor of Infectious Diseases in the Department of Molecular Medicine at the University of Padua and a clinical pharmacologist. I have over 25 years experience in laboratory and clinical research of antimicrobial and antifungal pharmacokinetic and pharmacodynamics in immunocompromised hosts. My current research focuses on the development and incorporation of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
 
 <div id="webaddress">
 <a href="https://www.medicinamolecolare.unipd.it/category/ruoli/personale-docente?key=7F6B3194E9D1AA6B33AE5DDA22979880">UNIPD Webpage</a>
 | <a href="http://russlewisid.com">Personal website</a>
 </div>
 <br>
-last updated: July 17, 2023
+last updated: May 17, 2024
 
 ## Contact information
 
@@ -38,6 +38,7 @@ United States of America; Permanent Residency Visa, Italy
 - ORCID ID: <a href="https://orcid.org/0000-0002-2002-4339">0000-0002-2002-4339</a>
 - Google scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=5mYwM2gAAAAJ">Profile</a>
 - SCOPUS: <a href="https://www.scopus.com/authid/detail.uri?authorId=7404846664">7404846664</a>
+- <i class="fa-brands fa-github"></i> https://github.com/russlewisbo
 
 ## Professional Experience
 
@@ -89,8 +90,8 @@ __Woods Hole Marine Biology Laboratories: Molecular Mycology: Current Approaches
 
 ## Professional Licensure
 
-`1997-`
-__Licensed Pharmacist__: Missouri (Previously Texas)
+`1997-2023`
+__Licensed Pharmacist__: Missouri (Inactive) (Previously Texas)
 
 `2001-2015`
 __Board Certified Pharmacotherapy Specialist__
@@ -98,6 +99,10 @@ __Board Certified Pharmacotherapy Specialist__
 
 ## Clinical Experience
 
+`2024-Present`
+_Programma Trapianti di Cellule Staminali Ematopoietiche e Terapie Cellulari_
+UOC Ematologia, Dipartimento di Medicina Interna, Ospedale Ca' Foncello, ULSS2 - Marca Trevigiana 
+<br> Treviso, Italy
 
 `2012-2023`
 __UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
@@ -158,6 +163,42 @@ __Nicola Montovani, M.D.__
 <br> Bologna, Italy
 
 ## Teaching Experience
+
+`2023-Present`
+<br> **University Padua, School of Medicine and Surgery,** Padua Italy <br>
+Medical Biotechnologies, <br> ME1934 Antibiotic Therapy: Discovery, Development, and Rationale Clinical Use <br>
+- History of antibiotic development
+- Principles of antibiotic therapy 1&2
+- Antibiotic PK/PD 1&2
+- Antimicrobial resistance 1&2
+- Antibiotic discovery
+- Antibiotic lead development,
+- First in human studies,
+- Phase III clincial trials,
+- Economics of antibiotic development, Antibiotic availability in LMICs,
+- Alternative antibiotic approaches
+
+`2023-Present`<br> **University of Padua School of Medicine and Surgery,** Padua, Italy <br> 
+MEP 2491 Infectious Diseases <br>
+- Principles of antibiotic therapy 
+- Antibiotic resistance in ESKAPE pathogens
+- Antibiotic allergies
+- Fever of unknown origin
+- Invasive fungal infections 1&2
+
+
+`2023-Present`<br> **University of Padua School of Medicine and Surgery,**, Padua, Italy <br>
+MED1727, MED 1728, MED 1729, ME 2549 Malattie Infettive: 
+- Principles of antibiotic therapy 1&2
+- Antibiotic allergies
+- Invasive fungal infections 1&2
+- Febrile neutropenia
+
+2023-Present`<br> **University of Padua School of Specialization-Infectious Diseases**, Padua, Italy <br>
+- Principles of antibiotic therapy 
+- Antibiotic allergies
+- Infections in immunocompromised hosts
+- Bone and joiint infections
 
 `2023-Present`
 <br> **University of Padua**, Padua, Italy
@@ -971,7 +1012,17 @@ __Continuous infusion loop diuretics to overcome diuretic resistance__
 __Scopus author ID: 7404846664 <br>
 314 peer-reviewed publications, H index 77, 18,686 citations__ <br>
 
-1. Lewis RE, Stanzani M, Morana G, Sassi C. Radiology-based diagnosis of fungal pulmonary infections in high-risk hematology patients: are we making progress? Current Opinion Infectious Diseases. 2023:36:250-256.
+1. Lewis R, Niazi-Ali S, McIvor A, Kanj SS, Maertens J, Bassetti M, Levin D., Groll A.H., Denning, DW. Triazole antifungal drug interactions—practical considerations for excellent prescribing. Journal of Antimicrobial Chemotherapy. 2024 Apr 17;dkae103. 
+
+1. Matsuo, T.; Wurster, S.; Jiang, Y.; Sasaki, K.; Tarrand, J.; Lewis, R. E; and Kontoyiannis, D. P. Invasive Fusariosis in Patients with Leukaemia in the Era of Mould-Active Azoles: Increasing Incidence, Frequent Breakthrough Infections and Lack of Improved Outcomes. Journal of Antimicrobial Chemotherapy, 79(2): 297–306. February 2024.
+
+1. Pechacek, J.; Webb, T.; Ferre, E.; Schmitt, M.; Dimaggio, T.; Kobrin, D.; Rajasimhan, S.; Colton, B.; Lewis, R.; Andes, D.; Herrera, A.; Hammoud, D.; Seyedmousavi, S.; Hasni, S.; Bolaños, J.; Afzali, B.; and Lionakis, M. Successful Treatment of Paecilomyces Variotii Pneumonia and Lupus Nephritis with Posaconazole-Cyclophosphamide Co-administration Without Drug Interaction-Induced Toxicity. Open Forum Infectious Diseases. 2023;10.
+
+1.  McCreary, E. K.; Davis, M. R.; Narayanan, N.; Andes, D. R.; Cattaneo, D.; Christian, R.; Lewis, R. E.; Watt, K. M.; Wiederhold, N. P.; and Johnson, M. D. Utility of Triazole Antifungal Therapeutic Drug Monitoring: Insights from the Society of Infectious Diseases Pharmacists. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy. 20203.43: 1043–1050. 2023.
+
+1. Lewis RE, Stanzani M, Morana G, Sassi C. Radiology-based diagnosis of fungal pulmonary infections in high-risk hematology patients: are we making progress? Current Opinion Infectious Diseases. 2023;36:250-256.
+
+1. Lewis, R.; and Stanzani, M. Antifungal Prophylaxis in the Era of Targeted Chemotherapy for Acute Myelogenous Leukemia. Current Fungal Infection Reports 2023;17:250–261.
 
 1. Bartoletti, M Antonelli, A Bussini, L Corcione, S Giacobbe, DR Marconi, L Pascale, R Dettori, S Shbaklo, N Ambretti, S Gaibani, P Giani, T Coppi, M Bassetti, M De Rosa, FG Marchese, A Cavallo, R Lewis, R Rossolini, GM Viale, P Giannella, M. Clinical consequences of very major errors with semi-automated testing systems for antimicrobial susceptibility of carbapenem-resistant Enterobacterales. Clinical Microbiology and Infections Diseases 2022;8:1290.e1 - 1290.e4.
 
