@@ -1061,7 +1061,27 @@ __Continuous infusion loop diuretics to overcome diuretic resistance__
 __Scopus author ID: 7404846664 <br>
 345 peer-reviewed publications, H index 85, 23,580 citations__ <br>
 
+1.	Zaghi I, Cricca M, Roberts JA, Brandolini M, Colosimo C, Montanari S, et al. Development of blood culture time-to-positivity as a pharmacodynamic indicator for monitoring antibiotic therapy against MDR Gram-negative bacteria. Journal of Antimicrobial Chemotherapy. 2025;80(10):2705–13.
+  
+1.	Lipman J, Lewis RE. The long walk to a short half-life: the discovery of augmented renal clearance and its impact on antibiotic dosing. Journal of Antimicrobial Chemotherapy. 2025;80(12):3367–74. 
 
+1.	Latorre R, Valerii MC, Benati M, Lewis RE, Spigarelli R, Bernacchi A, et al. Lights and Shadows of Essential Oil-Derived Compounds: Antimicrobial and Anti-Inflammatory Properties of Eugenol, Thymol, Cinnamaldehyde, and Carvacrol. Current Issues in Molecular Biology [Internet]. 2025;47(11). Available from: https://www.scopus.com/inward/record.uri?eid=2-s2.0-105022921348&doi=10.3390%2fcimb47110915&partnerID=40&md5=ebef76bbbfeb6612d4275c052eb3d77c
+
+1.	Cornely OA, Sprute R, Bassetti M, Chen SCA, Groll AH, Kurzai O, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. The Lancet Infectious Diseases. 2025;25(5):e280–93. 
+
+1. Cho SY, Wurster S, Jiang Y, Bazinet A, Hui Y, Lewis RE, et al. Blastemia portrays a poor prognosis in acute leukemia patients with invasive pulmonary aspergillosis. Journal of Infection [Internet]. 2025;91(2). Available from: https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008283535&doi=10.1016%2fj.jinf.2025.106535&partnerID=40&md5=fb0aadcd29de19f1ae2b850af4c4e331
+
+1. Andes D, Brüggemann RJ, Flanagan S, Lepak AJ, Lewis RE, Ong V, et al. The distinctive pharmacokinetic profile of rezafungin, a long-acting echinocandin developed in the era of modern pharmacometrics. Journal of Antimicrobial Chemotherapy. 2025;80(1):18–28. 
+
+1. Akova U, Hicklen R, Lewis RE, Walsh TJ, Kontoyiannis DP. Fungal infections in patients with haematological malignancies in the pre-triazole era: the dawn of a new era in medical mycology. Clinical Microbiology and Infection. 2025;31(10):1647–54. 
+
+1. Matsuo T, Wurster S, Jiang Y, Sasaki K, Tarrand J, Lewis RE, et al. Invasive fusariosis in patients with leukaemia in the era of mould-active azoles: increasing incidence, frequent breakthrough infections and lack of improved outcomes. Journal of Antimicrobial Chemotherapy. 2024;79(2):297–306. 
+
+1. Lewis RE, Stanzani M. Primary antifungal prophylaxis after haematopoietic stem cell transplantation: will the search for perfection become the enemy of good? Clinical Microbiology and Infection. 2024;30(12):1503–4. 
+
+1. Lewis RE, Palombo M, Diani E, Secci B, Gibellini D, Gaibani P. Synergistic Activity of Cefiderocol in Combination with Avibactam, Sulbactam or Tazobactam against Carbapenem-Resistant Gram-Negative Bacteria. Cells [Internet]. 2024;13(16). Available from: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202583202&doi=10.3390%2fcells13161315&partnerID=40&md5=7d1b8cd999e1f93170393cd0b0ea307c
+
+1. Lewis RE. The Impact of Dimitrios P. Kontoyiannis on Mucormycosis Research. Journal of Fungi [Internet]. 2024;10(6). Available from: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197451137&doi=10.3390%2fjof10060382&partnerID=40&md5=f4109c9cd03f2d36e6b9a55ab9001787
 
 1. Lewis R, Niazi-Ali S, McIvor A, Kanj SS, Maertens J, Bassetti M, Levin D., Groll A.H., Denning, DW. Triazole antifungal drug interactions—practical considerations for excellent prescribing. Journal of Antimicrobial Chemotherapy. 2024 Apr 17;dkae103. 
 
