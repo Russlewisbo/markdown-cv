@@ -375,23 +375,23 @@ __Infectious Diseases Pharmacotherapy__
 
 `2025`
 
-___Navigating the maze: Antifungal drug interactions inteh era of targeted cancer therapy__
+__Navigating the maze: Antifungal drug interactions inteh era of targeted cancer therapy__
 <br> Il Monitoraggio Terapeutica Del Farmaco (TDM) Meeting
 <br> Ospedale Bambino Gesu
 <br> Rome, Italy
 
-___Optimizing antifungal PK/PD in the critically-ill__
+__Optimizing antifungal PK/PD in the critically-ill__
 <br> Hellenic Infectious Diseases Congress
 <br> Athens, Greece <virtual>
 
 
 `2024`
-___Antifungal therapeutic drug monitoring: Current indications and practical recommendations__
+__Antifungal therapeutic drug monitoring: Current indications and practical recommendations__
 <br> 35th Congress of the European Society of  Clinical Microbiology and Infectious Diseases (ESCMID GLobal)
 <br> Copenhagen, Denmark
 
 `2023`
-___Importance of nanomedicine for antifungal drug delivery__
+__Importance of nanomedicine for antifungal drug delivery__
 <br> 34th European Congress Clinical Microbiology and Infectious Diseases
 <br> Copenhagen, Denmark
 
@@ -1059,7 +1059,9 @@ __Continuous infusion loop diuretics to overcome diuretic resistance__
 ## Publications
 
 __Scopus author ID: 7404846664 <br>
-314 peer-reviewed publications, H index 77, 18,686 citations__ <br>
+345 peer-reviewed publications, H index 85, 23,580 citations__ <br>
+
+
 
 1. Lewis R, Niazi-Ali S, McIvor A, Kanj SS, Maertens J, Bassetti M, Levin D., Groll A.H., Denning, DW. Triazole antifungal drug interactions—practical considerations for excellent prescribing. Journal of Antimicrobial Chemotherapy. 2024 Apr 17;dkae103. 
 
