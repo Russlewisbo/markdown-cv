@@ -12,7 +12,7 @@ I am an Associate Professor of Infectious Diseases in the Department of Molecula
 | <a href="http://russlewisid.com">Personal website</a>
 </div>
 <br>
-last updated: May 17, 2024
+last updated: 20 December 2025
 
 ## Contact information
 
@@ -142,6 +142,11 @@ __Irene Zaghi, M.D.__
 
 ## Doctoral students
 
+`2024-2025`
+__Marco Centonze, M.D.__
+<br> Thesis: Diagnostic Meta-Analysis of Galactomannan Testing in Patients Receiving Antifungal Prophylaxis
+<br> Padua, Italy
+
 `2014-2015`
 __Irene Zaghi, M.D.__
 <br> Thesis: Diagnostic Meta-Analysis of Serum Bactericidal Testing
@@ -164,7 +169,20 @@ __Nicola Montovani, M.D.__
 
 ## Teaching Experience
 
-`2023-Present`
+`2025-`
+<br> **University Padua, School of Medicine and Surgery,** Padua Italy <br>
+Medical Biotechnologies, <br> MEQ5108785 Infectious Diseases and Epidemiology <br>
+- History of antibiotic development
+- Principles of antibiotic therapy 1&2
+- Antibiotic PK/PD 1&2
+- Antibiotic discovery
+- Antibiotic lead development
+- First in human studies
+- Phase III clincial trials,
+- Economics of antibiotic development, Antibiotic availability in LMICs,
+- Alternative antibiotic approaches
+
+`2023-2025`
 <br> **University Padua, School of Medicine and Surgery,** Padua Italy <br>
 Medical Biotechnologies, <br> ME1934 Antibiotic Therapy: Discovery, Development, and Rationale Clinical Use <br>
 - History of antibiotic development
@@ -172,9 +190,9 @@ Medical Biotechnologies, <br> ME1934 Antibiotic Therapy: Discovery, Development,
 - Antibiotic PK/PD 1&2
 - Antimicrobial resistance 1&2
 - Antibiotic discovery
-- Antibiotic lead development,
-- First in human studies,
-- Phase III clincial trials,
+- Antibiotic lead development
+- First in human studies
+- Phase III clincial trials
 - Economics of antibiotic development, Antibiotic availability in LMICs,
 - Alternative antibiotic approaches
 
@@ -215,7 +233,6 @@ MED1727, MED 1728, MED 1729, ME 2549 Malattie Infettive:
 `2021-2023`
 __9730- Global Health, Antimicrobial Therapy and Vaccines__
 <br> **University of Bologna**, Bologna, Italy
-<br> Course website: <a href="https://www.uniboglobalhealth.com/">www.uniboglobalhealth.com</a> 
 
 `2014-2021`
 __79947 – Malattive Infettive II__ 
@@ -356,7 +373,39 @@ __Infectious Diseases Pharmacotherapy__
 
 ## Invited Lectures
 
+`2025`
+
+___Navigating the maze: Antifungal drug interactions inteh era of targeted cancer therapy__
+<br> Il Monitoraggio Terapeutica Del Farmaco (TDM) Meeting
+<br> Ospedale Bambino Gesu
+<br> Rome, Italy
+
+___Optimizing antifungal PK/PD in the critically-ill__
+<br> Hellenic Infectious Diseases Congress
+<br> Athens, Greece <virtual>
+
+
+`2024`
+___Antifungal therapeutic drug monitoring: Current indications and practical recommendations__
+<br> 35th Congress of the European Society of  Clinical Microbiology and Infectious Diseases (ESCMID GLobal)
+<br> Copenhagen, Denmark
+
+`2023`
+___Importance of nanomedicine for antifungal drug delivery__
+<br> 34th European Congress Clinical Microbiology and Infectious Diseases
+<br> Copenhagen, Denmark
+
 `2022`
+__Beyond antifungal MICs__
+<br> 33rd European Congress Clinical Microbiology and Infectious Diseases
+<br> Lisbon, Portugal
+
+__The Changing landscape of hematological malignancy: Implications for antifungal therapy__
+<br> Manitoba Infetious Diseases Group(Virtual)
+
+__Importance of pharmacokinetics/pharmacodynamics in the immunocompromised host__
+<br> Oxford Textbook of Medical Mycology Lecture Series (Virtual)
+
 __Importance of pharmacokinetics/pharmacodynamics in the immunocompromised host__
 <br> 21st Immunocompromised Host Society Symposium on Infections in the Immunocompromised Host, Basel, Switzerland
 
