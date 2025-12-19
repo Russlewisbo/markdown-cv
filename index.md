@@ -373,7 +373,7 @@ __Infectious Diseases Pharmacotherapy__
 
 ## Invited Lectures
 
-`2025`
+`2025` <br>
 
 __Navigating the maze: Antifungal drug interactions inteh era of targeted cancer therapy__
 <br> Il Monitoraggio Terapeutica Del Farmaco (TDM) Meeting
@@ -385,17 +385,17 @@ __Optimizing antifungal PK/PD in the critically-ill__
 <br> Athens, Greece <virtual>
 
 
-`2024`
+`2024`<br>
 __Antifungal therapeutic drug monitoring: Current indications and practical recommendations__
 <br> 35th Congress of the European Society of  Clinical Microbiology and Infectious Diseases (ESCMID GLobal)
 <br> Copenhagen, Denmark
 
-`2023`
+`2023`<br>
 __Importance of nanomedicine for antifungal drug delivery__
 <br> 34th European Congress Clinical Microbiology and Infectious Diseases
 <br> Copenhagen, Denmark
 
-`2022`
+`2022`<br>
 __Beyond antifungal MICs__
 <br> 33rd European Congress Clinical Microbiology and Infectious Diseases
 <br> Lisbon, Portugal
@@ -418,7 +418,7 @@ __Antifungal prophylaxis in the tageted chemotherapy era__
 __Overview of the antifungal pipeline in 2022__
 <br> F2G Medical Laison Training (Virtual)
 
-`2021`	
+`2021`	<br>
 __Antimicrobial PK in critically-ill: CRRT, ECMO and Drug interactions__
 <br> European Hematology (Virtual). Association Annual Meeting. June 11, 2021.
 
@@ -446,7 +446,7 @@ __Antifungal therapy in the era of targeted chemtoherapy for hematological malig
 __Antifungal therapy considerations in the tageted chemotherapy era__
 <br> Canadian Hematology National Conference (Virtual)
 
-`2020` 
+`2020` <br>
 __COVID-19 and invasive aspergillosis: Lessons learned.__ 
 <br> Gilead Care Webinar Series (Virtual). 
 
@@ -462,7 +462,7 @@ __Difficult cases in managing antifungal drug interactions with targeted chemoth
 __Managing drug interactions in the era of targeted therapies for hematological malignancies__
 <br> Kings College London Hematology Grand Rounds (Virtual)
 
-`2019`
+`2019`<br>
 __How I manage drug interactions in the era of targeted therapies for hematological malignancies__ 
 <br>12th Annual Gilead Care Meeting, Paris, France	
 
@@ -478,7 +478,7 @@ __Echinocandin dosing, can we do better?__
 __How will targeted therapies in hematological disease change the management of fungal infections?__ 
 <br> 55th Annual British Society Medical Mycology Meeting, Sheffield, United Kingdom
 
-`2018`
+`2018`<br>
 __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program: Modena, Italy
 
@@ -506,7 +506,7 @@ __Can we improve the management of invasive mold disease using CT pulmonary angi
 __The Antifungal Pipeline__ 
 <br> La micologia del III millennio – 2° edizione. Pescara, Italy
 
-`2017` 
+`2017` <br>
 __How to manage antimicrobial pharmacokinetic variability in the critically-ill patient__ 
 <br> The European Society of Intensive Care Medicine (ESICM) Infections in ICU: Modern Management Fellowship Program. Modena, Italy
 
@@ -528,7 +528,7 @@ __New Therapeutics for mucormycosis__
 __Differentiating fungal versus non-fungal pathology by CT imaging__
 <br> Fungal Infection Update Meeting. London, UK
 
-`2016`
+`2016`<br>
 __Antifungal pharmacology in the CNS__ 
 <br> Gilead CARE Meeting, Munich, Germany
 
@@ -568,7 +568,7 @@ __Significant papers in infectious diseases__
 __Antifungal stewardship performance indicators and assessment__
 <br> Transdisciplinary ECMM Antifungal Stewardship Workshop, Wesel, Germany
 
-`2015`
+`2015`<br>
 __Antifungal stewardship in hematology units__ 
 <br> Italy & Spain Friendship and opinions about antimicrobial stewardship programs. Bologna, Italy
 
@@ -587,7 +587,7 @@ __Do we routinely underdose antifungal therapy?__
 __Antimicrobial Susceptibility Testing-A view from the pharmacologist__
 <br> XI Corso Avanzato Di Terapia Antibiotica Pisa, Italy
 
-`2014`
+`2014`<br>
 __Safety and toxicity of antifungal therapy__
 <br> Infezioni fungine nel trapianto di organo solido: un anno dopo. Bologna, Italy
 
@@ -618,7 +618,7 @@ __Filling the gaps-New tools to identify invasive mold disease in hematology pat
 __Drug interactions and tolerability of triazoles__ 
 <br> 6th Advances Against Aspergillus Conference, Madrid, Spain
 
-`2013`
+`2013`<br>
 __Antimicrobial susceptibility testing-A view from the pharmacologist__
 <br> X Corso Avanzato Di Terapia Antibiotica, Pisa, Italy
 
@@ -652,7 +652,7 @@ __Antimicrobial pharmacokinetics and dynamics in the critically-ill__
 __Overview of animal models of mucormycosis__ 
 <br> ISHAM Zygomyctes workshop April, 2013, Utrecht, Netherlands
 
-`2012`
+`2012`<br>
 __Optimizing antifungal therapy through pharmacokinetic/pharmacodynamics principles__ 
 <br> Infectious Diseases Society of Portugal, Lisbon, Portugal
 
@@ -668,7 +668,7 @@ __Dose escalation strategies of liposomal amphotericin B in the treatment of exp
 __Antimicrobial pharmacokinetics and dynamics in the critically-ill__
 <br> Stage Formativo. Società Italiana di Malettie Infettive e Tropicali (SIMIT). Bologna, Italy
 
-`2011`
+`2011`<br>
 __Is Antifungal susceptibility testing necessary in the Mmnagement of invasive candidiasis?__
 <br> Pro-Con Debate. 49th Infectious Diseases Society of America Annual Meeting, Boston, Massachusetts, USA
 
@@ -678,7 +678,7 @@ __Overview of antifungal pharmacology__
 __Overview of the immunopharmacological mechanisms of antifungals__ 
 <br> Aggionarmenti in Terapia Antifungina: La Parola Agli Esperti, Bologna, Italy
 
-`2010`
+`2010`<br>
 __Optimized antifungal prophylaxis in the high-risk patient__
 <br> 45th Annual Midyear Meeting of the American Society for Health System Pharmacy, Anaheim, California
 
@@ -721,7 +721,7 @@ __Getting with the Guidelines- Management of Invasive Candidiasis__
 __Controversies and questions surrounding the antifungal formulary__
 <br> Teleconference CME series. Broadlane Pharmacy Management Group, Houston, Texas
 
-`2009`
+`2009`<br>
 __Where are the new antibiotics?__
 <br> University of Houston College of Pharmacy Infectious Diseases Pharmacy CE Symposium, Houston, Texas
 
@@ -747,7 +747,7 @@ __New antimicrobials and antibiotic dosing strategies in neutropenic fever-__
 __Controversies in the management of invasive candidiasis__
 <br> 5th Annual Infectious Diseases- Critical Care Pharmacy CE Conference, Toronto, Ontario, Canada
 
-`2008`
+`2008`<br>
 __Improving the pharmacology of invasive mould infections__
 <br> Infectious Diseases Grand Rounds, Memorial Sloan-Kettering Cancer Center, New York, New York
 
@@ -757,7 +757,7 @@ __Evidence versus pragmatism in managing invasive candidiasis__
 __Cases in antifungal therapeutic drug monitoring__ 
 <br> Houston Infectious Diseases Pharmacy Network. Houston, Texas
 
-`2007`
+`2007`<br>
 __The case for fluconazole as front-line therapy in invasive candidiasis: Pro-con debate__
 <br> American Society of Heath-System Pharmacy Annual Meeting, Las Vegas, Nevada
 
@@ -779,7 +779,7 @@ __What are the real differences between the echinocandins?__
 __Managing infections in the immunocompromised host__
 <br> Hematology Oncology Pharmacist Association (HOPA) Annual Meeting. Denver, Colorado
 
-`2006`
+`2006`<br>
 __The new antifungal formulary__
 <br> City of Hope Pharmacotherapy Symposium. Anaheim, California
 
@@ -843,7 +843,7 @@ __Managing drug interactions in the patient with aspergillosis__
 __Overview of antifungal pharmacology__
 <br> Frontline CE Symposium. Houston, Texas
 
-`2005`
+`2005`<br>
 __Drosophila as a high-throughput model for studying fungal pathogenesis-__
 <br> Texas-UK Biosciences Research Collaborative, London School of Tropical Health and Hygiene, London, United Kingdom
 
@@ -883,7 +883,7 @@ __Do we routinely under-dose antifungal therapy?__
 __Toxigenic moulds in Texas: New insights into the pathogenesis of an opportunistic pathogen__
 <br> The University of Tennessee College of Pharmacy, Memphis, TN
 
-`2004`
+`2004`<br>
 __Practical management of multidrug resistant infections__
 <br> Session moderator. ASHP Annual Meeting, Orlando, Florida
 
@@ -911,7 +911,7 @@ __Newer antifungal therapies and their role in the therapy of invasive mycoses__
 __New antibiotics for the perfect storm of infectious diseases__
 <br> Texas Society of Health Systems Annual Meeting. Houston, Texas
 
-`2003`
+`2003`<br>
 __Antifungal therapy and Evedence-based medicine__
 <br> ASHP Annual Meeting, New Orleans, Louisiana
 
@@ -948,7 +948,7 @@ __Menacing moulds__
 __Echinocandins and Lipid AMB formulations__ 
 <br> Mycoses 2002 Symposia (given with Drs. Gerald Bodey, Dimitrios Kontoyiannis, and Issam Raad), Houston, Texas
 
-`2002`
+`2002`<br>
 __Beyond Microdilution Broth Antifungal Susceptibility Testing__ 
 <br> Pre-symposium to the 41st, 42nd and 44th Interscience Conference on Antimicrobial Agents and Chemotherapy, Antifungal Susceptibility Testing for the Clinician. San Diego, California, Chicago, Illinois, and Washington, D.C
 
@@ -970,7 +970,7 @@ __Is Immunodysregulation a Virulence Factor for Aspergillus?__
 __The Immunology of Effective Antifungal Therapy__
 <br> M.D. Anderson Cancer Center Infectious Diseases Research Conference, Houston Texas
 
-`2001`
+`2001`<br>
 __New antifungal formulations, new antifungal targets__
 <br> Grand Rounds, Fairfax Hospital, Fairfax, Virginia 
 <br> Baylor Medical Center, Dallas, Texas
@@ -992,7 +992,7 @@ __Pharmacology of Current and Future Antifungals__
 __Pharmacology of Current and Future Antifungals__
 <br> Mycoses 2001 (with Drs. John Rex, Richard Hamill, and Dimitrios Kontoyiannis), Houston, Texas
 
-`2000`
+`2000`<br>
 __New Antimicrobials for Resistant Gram-Positive Infections__
 <br> Parkland Medical Center Infectious Diseases Dallas, Texas
 
@@ -1022,18 +1022,18 @@ __Differentiating the Quinolones-Do we really need new agents?__
 __Implications of streptococcal resistance for antibiotic therapy__
 <br> Border Issues and Resistance, University of Texas CME Otolaryngology Conference. McAllen, Texas
 
-`1999`
+`1999`<br>
 __Antifungal Pharmacodynamics-What Emerging Data Are Telling Us About Dosing Antifungal Therapy__
 <br> Visiting Professor Series; Department of Pharmacological and Pharmaceutical Sciences. University of Houston College of Pharmacy. Houston, Texas
 
 __Should Combinations of Amphotericin B and Fluconazole Be Used for the Treatment of Candidemia?__ 
 <br> University of Wisconsin College of Pharmacy, Madison, Wisconsin
 
-`1998`
+`1998`<br>
 __IDSA Guidelines for the Treatment of Community Acquired Pneumonia:Resistant S. pneumoniae and the Role of Quinolones__
 <br> Fellowship Forum. University of Iowa, Iowa City, Iowa
 
-`1997`
+`1997`<br>
 __Pharmacodynamic Evaluation of Combination Amphotericin B-Fluconazole Activity Using an In Vitro Infection Model__
 <br> Fellow Seminar Series. University of Iowa. Iowa City, Iowa
 
@@ -1044,14 +1044,14 @@ St. Louis, Missouri
 __Evaluation of Colony Stimulating Factor Use in a Large Teaching Hospital__
 <br> Midwest Residency Conference, Memphis, Tennessee
 
-`1996`
+`1996`<br>
 __Colony Stimulating Factors as Adjunctive Treatment in Acute Myelogenous Leukemia__
 <br> Residency Seminar Series. St. Louis, Missouri
 
 __Rational Use of Step-Down Oral Antibiotic Therapy-__
 <br> Pharmacists Continuing Education. Barnes- Jewish Hospital, St. Louis, Missouri
 
-`1995`
+`1995`<br>
 __Continuous infusion loop diuretics to overcome diuretic resistance__ 
 <br>Doctor of Pharmacy Seminar. University of Kansas Medical Center, Kansas City, Kansas
 
