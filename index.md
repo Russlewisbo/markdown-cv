@@ -1688,6 +1688,7 @@ __Scopus author ID: 7404846664 <br>
 303. Klepser ME, Ernst EJ, Lewis RE, Ernst ME, Pfaller MA. Influence of test conditions on antifungal time-kill curve results: Proposal for standardized methods. Antimicrobial Agents and Chemotherapy. 1998;42(5):1207–12.
 
 ## Bookchapters
+1. Kontoyiannis DP and Lewis RE. Agents of Mucormycosis and Entomophthoramycosis. In: Principles and Practice of Infectious Diseases. Blaser Bennet and Dolin eds. 11<sup>th</sup> edition. 2021.
 
 1. Shelbourn S, Lewis RE, Kontoyiannis DP. Clinical management of infections in neutropenic patients. Hematology: Basic Principles and Practice. 8<sup>th</sup> edition. Hoffman, Benz and Shattil ed. 2021.
 
