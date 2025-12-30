@@ -99,11 +99,6 @@ __Board Certified Pharmacotherapy Specialist__
 
 ## Clinical Experience
 
-`2024-Present`
-_Programma Trapianti di Cellule Staminali Ematopoietiche e Terapie Cellulari_
-UOC Ematologia, Dipartimento di Medicina Interna, Ospedale Ca' Foncello, ULSS2 - Marca Trevigiana 
-<br> Treviso, Italy
-
 `2012-2023`
 __UO Malattie Infettive <br>IRCCS Policlinico S. Orsola-Malpighi, University of Bologna__ 
 <br> Bologna, Italy
